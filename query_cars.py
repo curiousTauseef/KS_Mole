@@ -21,7 +21,6 @@ def iriToUri(iri):
     )
 
 def query_ks(query):
-#	print "lsososl"
 	authinfo = urllib2.HTTPPasswordMgrWithDefaultRealm()
 	authinfo.add_password(None, SERVER, username, password)
 	q = {'query': query}
@@ -31,16 +30,52 @@ def query_ks(query):
 	opened = urllib2.install_opener(myopener)
 	output = urllib2.urlopen(page)
 	results = json.loads(output.read())["results"]["bindings"]
-	print "Hello"
-	for result in results:
-		print iriToUri(result["actor1"]["value"]), iriToUri(result["actor2"]["value"])
+	return results
 
-# GENERAL SETTINGS
+
+####### Specific queries #############
+def get_actors_in_events():
+	query = 'SELECT * WHERE { ?a sem:hasActor ?actor1 . ?a sem:hasActor ?actor2 . FILTER(str(?actor1) != str(?actor2)) }'
+	# POSE THE QUERY
+	results = query_ks(query)
+	# Print 2 results
+	for result in results:
+                print iriToUri(result["actor1"]["value"]), iriToUri(result["actor2"]["value"])
+	
+def get_roles_and_entities():
+	for x in ["0", "1", "2", "3", "4", "5"]: # Iterate through the roles
+		# compose role uri
+		role_uri = "<http://www.newsreader-project.eu/ontologies/propbank/A" + x + ">"
+		# compose query
+		query = "SELECT * WHERE { ?event " + role_uri + " ?entity }"
+		# POSE THE QUERY
+		results = query_ks(query)
+		# Print results
+		for result in results:
+			print role_uri, iriToUri(result["entity"]["value"])
+		
+def get_eventtype_for_entities():
+	query = 'SELECT * WHERE { ?event sem:hasActor ?entity . ?event ?eventtype ?entity }'
+	# POSE THE QUERY
+        results = query_ks(query)
+        # Print 2 results
+        for result in results:
+                print iriToUri(result["entity"]["value"]), iriToUri(result["eventtype"]["value"])
+
+
+####### GENERAL SETTINGS #############
 dataset = "cars2" # Can be "cars2" or "dutchhouse"
 SERVER = "knowledgestore2.fbk.eu"
 username="nwr_partner"
 password="ks=2014!"
+
+####### MAIN ################
 if __name__ == "__main__":
-	# This query gets all co-occurrences of actors in events (regardless of whether inter- or intra-document)
-	query = 'SELECT * WHERE { ?a sem:hasActor ?actor1 . ?a sem:hasActor ?actor2 . FILTER(str(?actor1) != str(?actor2)) }'
-	query_ks(query)
+	# 1. This query gets all co-occurrences of actors in events (regardless of whether inter- or intra-document)
+	#get_actors_in_events()
+       
+	# 2. This query gets all co-occurrences of semantic roles and specific entities
+	get_roles_and_entities()
+
+	# 3. This query returns event types for given entities
+	#get_eventtype_for_entities()
