@@ -36,7 +36,7 @@ def query_ks(query):
 		print iriToUri(result["actor1"]["value"]), iriToUri(result["actor2"]["value"])
 
 # GENERAL SETTINGS
-dataset = "dutchhouse"
+dataset = "cars2" # Can be "cars2" or "dutchhouse"
 SERVER = "knowledgestore2.fbk.eu"
 username="nwr_partner"
 password="ks=2014!"
