@@ -17,11 +17,9 @@ if __name__ == "__main__":
 				continue
 			larray=line.split()
 			if json.dumps(larray) in result:
-				result[json.dumps(larray)]+=0.5
-			elif json.dumps([larray[1],larray[0]]) in result:
-				result[json.dumps([larray[1],larray[0]])]+=0.5
+				result[json.dumps(larray)]+=1
 			else:
-				result[json.dumps(larray)]=0.5
-	for k in result:
-		arrk = json.loads(k)
-		print arrk[0], arrk[1], int(result[k])
+				result[json.dumps(larray)]=1
+	for row in sorted(result.items(), key = lambda t: t[1], reverse=True):
+		arrk = json.loads(row[0])
+		print arrk[0], arrk[1], row[1]
