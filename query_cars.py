@@ -35,6 +35,18 @@ def query_ks(query):
 	results = json.loads(output.read())["results"]["bindings"]
 	return results
 
+def get_entity_mentions(mid):
+        authinfo = urllib2.HTTPPasswordMgrWithDefaultRealm()
+        authinfo.add_password(None, SERVER, username, password)
+        q = {'id': mid}
+        page = 'HTTPS://'+ SERVER +'/nwr/' + dataset + '/mentions?' + urllib.urlencode(q)
+        handler = urllib2.HTTPBasicAuthHandler(authinfo)
+        myopener = urllib2.build_opener(handler)
+        opened = urllib2.install_opener(myopener)
+        output = urllib2.urlopen(page)
+        results = json.loads(output.read())
+        print results["@graph"][0]["ks:refersTo"]["@id"]
+
 def get_eso_roles():
 	query = "SELECT ?role WHERE { ?role nwr:isRolePropertyDefinedBy eso: }"
 	results = query_ks(query)
@@ -56,7 +68,8 @@ def get_fn_roles():
 # PropBank ROLES AND ENTITIES/E-TYPES
 # 1
 def get_pbroles_and_entities(): # Postprocessing needed: NO
-	for x in ["0", "1", "2", "3", "4", "5"]: # Iterate through the roles
+#	for x in ["0", "1", "2", "3", "4", "5"]: # Iterate through the roles
+	for x in ["M-LOC"]:
 		w=open("a" + x + ".csv", "w")
 		# compose role uri
 		role_uri = "<http://www.newsreader-project.eu/ontologies/propbank/A" + x + ">"
@@ -71,7 +84,8 @@ def get_pbroles_and_entities(): # Postprocessing needed: NO
 
 # 2
 def get_pbroles_and_entitytypes(): # Postprocessing needed: NO
-	for x in ["0", "1", "2", "3", "4", "5"]: # Iterate through the roles
+#	for x in ["0", "1", "2", "3", "4", "5"]: # Iterate through the roles
+        for x in ["M-LOC"]:
 		w=open("a" + x + ".csv", "w")
                 # compose role uri
                 role_uri = "<http://www.newsreader-project.eu/ontologies/propbank/A" + x + ">"
@@ -153,16 +167,79 @@ def get_actors_in_events(): # Postprocessing needed: YES
 	# Print 2 results
 	for result in results:
                 print iriToUri(result["actor1"]["value"]), iriToUri(result["actor2"]["value"])
+
+# 11
+def get_cooccurring_entity_types():
+	w=open("cooc_ent_types.csv", "w")
+	query = 'SELECT ?t1 ?t2 (COUNT(?a) as ?cnt) WHERE { ?event rdf:type sem:Event . ?event sem:hasActor ?a . ?a rdf:type ?t1 . ?a rdf:type ?t2 . FILTER(?t1<?t2) } GROUP BY ?t1 ?t2 ORDER BY DESC(?cnt)'
+	# POSE THE QUERY
+        results = query_ks(query)
+        # Print 2 results
+        for result in results:
+                w.write("%s %s %d\n" % (iriToUri(result["t1"]["value"]), iriToUri(result["t2"]["value"]), int(result["cnt"]["value"])))
+	w.close()
 	
+
+###### MENTIONS #############
+	
+def get_all_mentions():
+	query='SELECT DISTINCT ?mention WHERE { ?x gaf:denotedBy ?mention }'
+
+	results=query_ks(query)
+
+	for result in results:
+		print iriToUri(result["mention"]["value"])
+
+def get_all_event_mentions():
+        query='SELECT DISTINCT ?mention WHERE { ?event rdf:type sem:Event . ?event gaf:denotedBy ?mention }'
+
+        results=query_ks(query)
+
+        for result in results:
+                print iriToUri(result["mention"]["value"])
+
 ###### ROLE-ROLE #######
 
 def get_cooc_roles():
 	query = 'SELECT ?propa ?propb (COUNT(?entx) AS ?cnt) WHERE { ?event rdf:type sem:Event . ?event sem:hasActor ?entx . ?event ?propa ?entx . ?event ?propb ?entx . FILTER(STR(?propa)!=STR(?propb)) } GROUP BY ?propa ?propb ORDER BY ?cnt'
-# POSE THE QUERY
+	# POSE THE QUERY
         results = query_ks(query)
         # Print 2 results
         for result in results:
                 print iriToUri(result["propa"]["value"]), iriToUri(result["propb"]["value"]), result["cnt"]["value"]
+
+# 8
+def get_cooccurring_eso_roles():
+	w=open("cooc_eso.csv", "w")
+	query = "SELECT ?prop1 ?prop2 (COUNT(?entity) as ?cnt) WHERE { ?event rdf:type sem:Event . ?event ?prop1 ?entity . ?event ?prop2 ?entity . FILTER(?prop1<?prop2) . ?prop1 nwr:isPropertyDefinedBy eso: . ?prop2 nwr:isPropertyDefinedBy eso: } GROUP BY ?prop1 ?prop2 ORDER BY DESC(?cnt)"
+	 # POSE THE QUERY
+	results = query_ks(query)
+	# Print results
+	for result in results:
+		w.write("%s %s %d\n" % (iriToUri(result["prop1"]["value"]), iriToUri(result["prop2"]["value"]), int(result["cnt"]["value"])))
+	w.close()
+
+# 9
+def get_cooccurring_fn_roles():
+	w=open("cooc_fn.csv", "w")
+	query = "SELECT ?prop1 ?prop2 (COUNT(?entity) as ?cnt) WHERE { ?event rdf:type sem:Event . ?event ?prop1 ?entity . ?event ?prop2 ?entity . FILTER(?prop1<?prop2) . ?prop1 nwr:isPropertyDefinedBy framenet: . ?prop2 nwr:isPropertyDefinedBy framenet: } GROUP BY ?prop1 ?prop2 ORDER BY DESC(?cnt)"
+	 # POSE THE QUERY
+	results = query_ks(query)
+	# Print results
+	for result in results:
+		w.write("%s %s %d\n" % (iriToUri(result["prop1"]["value"]), iriToUri(result["prop2"]["value"]), int(result["cnt"]["value"])))
+	w.close()
+
+# 10
+def get_cooccurring_pb_roles():
+	w=open("cooc_pb.csv", "w")
+	query = "SELECT ?prop1 ?prop2 (COUNT(?entity) as ?cnt) WHERE { ?event rdf:type sem:Event . ?event ?prop1 ?entity . ?event ?prop2 ?entity . FILTER(?prop1<?prop2) . ?prop1 nwr:isPropertyDefinedBy <http://www.newsreader-project.eu/ontologies/propbank/> . ?prop2 nwr:isPropertyDefinedBy <http://www.newsreader-project.eu/ontologies/propbank/> } GROUP BY ?prop1 ?prop2 ORDER BY DESC(?cnt)"
+	 # POSE THE QUERY
+	results = query_ks(query)
+	# Print results
+	for result in results:
+		w.write("%s %s %d\n" % (iriToUri(result["prop1"]["value"]), iriToUri(result["prop2"]["value"]), int(result["cnt"]["value"])))
+	w.close()
 
 ####### GENERAL SETTINGS #############
 dataset = "cars2" # Can be "cars2" or "dutchhouse"
@@ -193,7 +270,19 @@ if __name__ == "__main__":
 		get_fnroles_and_entitytypes() # fn roles and entity types
 	elif choice=="7":
 		get_actors_in_events() # pairs of actors which co-occur in the same event
- 
-	##### ROLES ONLY ####
-	# 8. Co-occurring roles - which roles refer to the same entity in text
-	#get_cooc_roles()
+	elif choice=="8":
+		get_cooccurring_eso_roles() # pairs of eso roles that cooccur for the same entity
+        elif choice=="9":
+                get_cooccurring_fn_roles() # pairs of fn roles that cooccur for the same entity
+	elif choice=="10":
+		get_cooccurring_pb_roles() # pairs of pb roles that cooccur for the same entity
+	elif choice=="11":
+		get_cooccurring_entity_types() # pairs of entity types which cooccur for given entity mention
+	elif choice=="m":
+		get_all_mentions()
+	elif choice=="evm":
+		get_all_event_mentions()
+	elif choice=="e":
+		get_entity_mentions("<http://www.newsreader-project.eu/data/cars/2005/08/14/4GW8-V1N0-TWMD-626C.xml#char=232,242>") 
+	else:
+		print "You have entered incorrect value. Try again!" 
