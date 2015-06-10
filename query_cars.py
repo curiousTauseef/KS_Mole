@@ -10,6 +10,7 @@ import urllib2
 import json
 import re, urlparse
 import sys
+#import csv
 
 ######## Functions #############
 
@@ -45,6 +46,7 @@ def get_entity_mentions(mid):
         opened = urllib2.install_opener(myopener)
         output = urllib2.urlopen(page)
         results = json.loads(output.read())
+	print rgraph
         print results["@graph"][0]["ks:refersTo"]["@id"]
 
 def get_eso_roles():
@@ -190,13 +192,163 @@ def get_all_mentions():
 	for result in results:
 		print iriToUri(result["mention"]["value"])
 
+#### EVENT MENTIONS #########
+
 def get_all_event_mentions():
-        query='SELECT DISTINCT ?mention WHERE { ?event rdf:type sem:Event . ?event gaf:denotedBy ?mention }'
+        query='SELECT ?mention ?event WHERE { ?event rdf:type sem:Event . ?event gaf:denotedBy ?mention }'
 
         results=query_ks(query)
 
+	w=open("event_mentions.csv", "w")
         for result in results:
-                print iriToUri(result["mention"]["value"])
+                w.write("%s %s\n" % (iriToUri(result["mention"]["value"]), iriToUri(result["event"]["value"])))
+	w.close()
+
+def get_propbank_predicates():
+
+        authinfo = urllib2.HTTPPasswordMgrWithDefaultRealm()
+        authinfo.add_password(None, SERVER, username, password)
+	w=open('stat_event_mentions.csv', 'a+')
+        with open('event_mentions.csv', 'r') as f:
+		
+		wc=0
+		fc=0
+		for wline in w:
+			wc+=1
+		for line in f:
+			if fc<wc:
+				fc+=1
+				continue
+			elif fc==wc:
+				fc+=1
+				print "Proceeding from line" + str(fc)
+			larray = line.split()
+			mention=larray[0]
+			q = {'id': '<' + mention + '>'}
+			page = 'HTTPS://'+ SERVER +'/nwr/' + dataset + '/mentions?' + urllib.urlencode(q)
+			handler = urllib2.HTTPBasicAuthHandler(authinfo)
+			myopener = urllib2.build_opener(handler)
+			opened = urllib2.install_opener(myopener)
+			output = urllib2.urlopen(page)
+			results = json.loads(output.read())
+			try:
+				rgraph = results["@graph"][0]
+			except:
+				w.write("\n")
+				continue
+			try:
+				pos = rgraph["nwr:pos"]["@id"]
+			except:
+				pos="nwr:pos_verb"
+			#pred=rgraph["nwr:pred"]["@value"]
+			try: 
+				if pos=="nwr:pos_verb":
+					try:
+						pb = rgraph["nwr:propbankRef"]["@id"]
+						if pb=="":
+							pb="NONE"
+					except TypeError:
+						try:
+							pb=""
+							for pb_res in rgraph["nwr:propbankRef"]:
+								pb+=pb_res["@id"] + ","
+							pb=pb.rstrip(',')
+							if pb=="":
+								pb="NONE"
+						except:
+							pb="NONE"
+					w.write(line.strip() + " " + pb + "\n") 
+				else:
+					try:
+						nb = rgraph["nwr:nombankRef"]["@id"]
+						if nb=="":
+							nb="NONE"
+					except TypeError:
+						try:
+							nb=""
+							for nb_res in rgraph["nwr:nombankRef"]:
+								nb+=nb_res["@id"] + ","
+							nb=nb.rstrip(',')
+							if nb=="":
+								nb="NONE"
+						except:
+							nb="NONE"
+					w.write(line.strip() + " " + nb + "\n")
+			except: # If no propbank nor nombank predicate	
+				w.write("\n")
+				continue 
+	w.close()
+##### ENTITY MENTIONS ##########
+
+
+def get_entity_lemmas():
+	query=''
+
+	authinfo = urllib2.HTTPPasswordMgrWithDefaultRealm()
+	authinfo.add_password(None, SERVER, username, password)
+	with open('all_entity_uris.csv', 'r') as f:
+		for ent in f:
+			q = {'action': 'mention-value-occurrences', 'entity': 'dbpedia:Barack_Obama', 'property': 'nif:anchorOf'}
+			page = 'HTTPS://'+ SERVER +'/nwr/' + dataset + '/ui?' + urllib.urlencode(q)
+			handler = urllib2.HTTPBasicAuthHandler(authinfo)
+			myopener = urllib2.build_opener(handler)
+			opened = urllib2.install_opener(myopener)
+			output = urllib2.urlopen(page)
+			results = output.read()
+			print results
+			break
+
+def get_all_entity_uris():
+	query='SELECT DISTINCT ?entity WHERE { ?event rdf:type sem:Event ; sem:hasActor ?entity }'
+	results=query_ks(query)
+	
+	w=open("all_entity_uris.csv", "w")
+	for result in results:
+		w.write(iriToUri(result["entity"]["value"]) + "\n")
+	w.close()
+
+def get_all_entity_mentions():
+	query='SELECT DISTINCT ?mention WHERE { ?event rdf:type sem:Event ; sem:hasActor ?entity . ?entity gaf:denotedBy ?mention}'
+	print "Querying the kstore"
+	results=query_ks(query)
+	
+	w=open("entity_mentions.csv", "w")
+	print "File opened, results retrieved. Now writing them to disk"
+	for result in results:
+		w.write(iriToUri(result["mention"]["value"]) + "\n")
+	w.close()
+
+def get_entity_mentions_info():
+        authinfo = urllib2.HTTPPasswordMgrWithDefaultRealm()
+        authinfo.add_password(None, SERVER, username, password)
+        w=open('entity_info.csv', 'a+')
+        with open('entity_mentions.csv', 'r') as f:
+
+                wc=0
+                fc=0
+                for wline in w:
+                        wc+=1
+                for line in f:
+                        if fc<wc:
+                                fc+=1
+                                continue
+                        elif fc==wc:
+                                fc+=1
+                                print "Proceeding from line" + str(fc)
+                        larray = line.split()
+                        mention=larray[0]
+                        q = {'id': '<' + mention + '>'}
+                        page = 'HTTPS://'+ SERVER +'/nwr/' + dataset + '/mentions?' + urllib.urlencode(q)
+                        handler = urllib2.HTTPBasicAuthHandler(authinfo)
+                        myopener = urllib2.build_opener(handler)
+                        opened = urllib2.install_opener(myopener)
+                        output = urllib2.urlopen(page)
+                        results = json.loads(output.read())
+                        try:
+                                rgraph = results["@graph"][0]
+				w.write(mention + " " +  rgraph["ks:refersTo"]["@id"] + " " + rgraph["nif:anchorOf"]["@value"] + "\n")
+			except:
+				continue
 
 ###### ROLE-ROLE #######
 
@@ -278,11 +430,19 @@ if __name__ == "__main__":
 		get_cooccurring_pb_roles() # pairs of pb roles that cooccur for the same entity
 	elif choice=="11":
 		get_cooccurring_entity_types() # pairs of entity types which cooccur for given entity mention
+	elif choice=='12':
+		get_entity_lemmas() # get all lemmas for all entity uris
 	elif choice=="m":
 		get_all_mentions()
 	elif choice=="evm":
 		get_all_event_mentions()
-	elif choice=="e":
-		get_entity_mentions("<http://www.newsreader-project.eu/data/cars/2005/08/14/4GW8-V1N0-TWMD-626C.xml#char=232,242>") 
+	elif choice=="pp":
+		get_propbank_predicates()
+	elif choice=="enm":
+		get_all_entity_mentions() 
+	elif choice=="emi":
+		get_entity_mentions_info()
+	elif choice=="euri":
+		get_all_entity_uris()
 	else:
 		print "You have entered incorrect value. Try again!" 

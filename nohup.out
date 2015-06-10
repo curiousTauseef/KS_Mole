@@ -1,0 +1,4 @@
+  File "stat_event_mentions.csv", line 1
+    http://www.newsreader-project.eu/data/cars/2005/04/02/4FVB-M460-015H-G4JB.xml#char=79,84 http://www.newsreader-project.eu/data/cars/2005/04/02/4FVB-M460-015H-G4JB.xml#ev11_1 http://www.newsreader-project.eu/propbank/name.01
+        ^
+SyntaxError: invalid syntax
