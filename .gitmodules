@@ -1,6 +1,6 @@
 [submodule "KafNafParserPy"]
 	path = KafNafParserPy
 	url = https://github.com/cltl/KafNafParserPy.git,
-[submodule "dbpedia_ner"]
-	path = dbpedia_ner
-	url = https://github.com/rubenIzquierdo/dbpedia_ner.git
+[submodule "dbpediaEnquirerPy"]
+	path = dbpediaEnquirerPy
+	url = https://github.com/rubenIzquierdo/dbpediaEnquirerPy
