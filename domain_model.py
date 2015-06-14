@@ -1,6 +1,10 @@
+#!/usr/bin python
+
 from KafNafParserPy import *
 import os
-
+import sys
+sys.path.append('./')
+from dbpediaEnquirerPy import *
 
 def get_start_term(parser):
 	# Find the start of sentence 2 (after title)
@@ -21,7 +25,7 @@ def get_most_confident_link(e):
 	maxconf=-0.1
 	maxref=None
 	for ref in e.get_external_references():
-		if e.get_resource()=="spotlight_v1" and float(ref.get_confidence())>maxconf:
+		if ref.get_resource()=="spotlight_v1" and float(ref.get_confidence())>maxconf:
 			maxconf=float(ref.get_confidence())
 			maxref=ref.get_reference()
 	return maxref
@@ -36,8 +40,11 @@ def get_entity_mention(parser, terms):
         res=(" ").join(term_text)
 	return res
 
+def is_person(dblink):
+	return ('http://dbpedia.org/ontology/Person' in my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink))
+
 if __name__=="__main__":
-	print "Welcome"
+	my_dbpedia = Cdbpedia_enquirer()
 	path="corpus/"
 	for file in os.listdir(path):
 		print file
@@ -58,10 +65,26 @@ if __name__=="__main__":
 			print entity_string
 			extref=None
 			for ekey in all_entities:
-				if entity_string in ekey.split() and is_person(all_entities[ekey]["extref"]):
-					extref=entity.get_id() + ": " + entity_string + " is " + ekey
+				if entity_string in ekey.split() and is_person(all_entities[ekey]["extref"]): # 
+					print entity.get_id() + ": " + entity_string + " is " + ekey
+					extref=all_entities[ekey]["extref"]
+			if not extref and len(entity_string.split())==1 and entity_string.isupper():
+				for ekey in all_entities:
+					if entity_string==all_entities[ekey]["initials"]:
+						extref=all_entities[ekey]["extref"]
+						print extref
 			if not extref:
 				extref=get_most_confident_link(entity)
-			all_entities[entity_string]={"extref": extref, "terms": terms}
-
+			initials=""
+			ent_split=entity_string.split()
+			if len(ent_split)>1:
+				for word in ent_split:
+					#if word.isupper():
+					#	initials+=word
+					if word[0].isupper():
+						initials+=word[0]
+			else:
+				initials=None
+			all_entities[entity_string]={"extref": extref, "terms": terms, "initials": initials}
+		print all_entities
 		break
