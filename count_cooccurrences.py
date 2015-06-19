@@ -2,6 +2,17 @@
 
 import sys
 import json
+import re, urlparse
+
+def urlEncodeNonAscii(b):
+    return re.sub('[\x80-\xFF]', lambda c: '%%%02x' % ord(c.group(0)), b)
+
+def iriToUri(iri):
+    parts= urlparse.urlparse(iri)
+    return urlparse.urlunparse(
+        part.encode('idna') if parti==1 else urlEncodeNonAscii(part.encode('utf-8'))
+        for parti, part in enumerate(parts)
+    )
 
 if __name__ == "__main__":
 	infile=""
@@ -15,11 +26,17 @@ if __name__ == "__main__":
 		for line in f:
 			if line.strip()=="":
 				continue
-			larray=line.split()
+                        larray=line.split("===")
+			#larray=line.split()
+			if len(larray)!=2:
+				continue
+			mention=larray[1]
+			ent=larray[0]
 			if json.dumps(larray) in result:
 				result[json.dumps(larray)]+=1
 			else:
 				result[json.dumps(larray)]=1
 	for row in sorted(result.items(), key = lambda t: t[1], reverse=True):
 		arrk = json.loads(row[0])
-		print arrk[0], arrk[1], row[1]
+		print iriToUri(arrk[0]), iriToUri(arrk[1]), row[1]
+
