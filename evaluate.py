@@ -16,10 +16,13 @@ ned_tp=0 # Both in GOLD and spotlight_v1
 ned_fn=0 # In GOLD, not in spotlight_v1
 ned_fp=0 # Not in GOLD, yes in spotlight_v1
 
-for f in os.listdir("corpus"):
+path="proc_dev_corpus/"
+#eval_source="domain_model"
+eval_source="spotlight_v1"
+for f in os.listdir(path):
 	
 	print f
-	my_parser=KafNafParser("corpus/" + f)
+	my_parser=KafNafParser(path + f)
 
 	# NER
 	file_ner_tp=0 
@@ -39,7 +42,7 @@ for f in os.listdir("corpus"):
 		maxconf=-0.1
 		maxref=None
 		for extref in entity.get_external_references():
-			if extref.get_resource()=="spotlight_v1":
+			if extref.get_resource()==eval_source:
 				print extref.get_confidence()
 				if float(extref.get_confidence())>maxconf:
 					maxconf=float(extref.get_confidence())

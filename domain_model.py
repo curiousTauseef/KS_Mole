@@ -58,15 +58,16 @@ def get_initials(entity_string):
 	return initials
 
 def is_person(dblink):
-	return ('http://dbpedia.org/ontology/Person' in my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink))
+	return not dblink or ('http://dbpedia.org/ontology/Person' in my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink))
 
 def add_entity_extref(entity, extref):
+	#print entity, extref
 	my_ext_ref = CexternalReference()
 	my_ext_ref.set_reference(extref)
 	my_ext_ref.set_resource('domain_model')
 	my_ext_ref.set_confidence('1.0')
 	entity.add_external_reference(my_ext_ref)
-	return
+	return entity
 
 ##########################################################################################
 ####################################### MODULES ##########################################
@@ -75,9 +76,10 @@ def add_entity_extref(entity, extref):
 def get_previous_occurrence(all_entities, entity_string): #1
 	extref=None
 	for ekey in all_entities:
-		if entity_string in ekey.split() and is_person(all_entities[ekey]["extref"]): 
-			print entity.get_id() + ": " + entity_string + " is " + ekey
+		#print entity_string, ekey
+		if entity_string==ekey or (entity_string in ekey.split() and is_person(all_entities[ekey]["extref"])): 
 			extref=all_entities[ekey]["extref"]
+			print "D1", entity_string, ekey, extref
 	return extref
 
 def solve_initials_and_abbreviations_before(entity_string, all_entities): #2
@@ -86,7 +88,7 @@ def solve_initials_and_abbreviations_before(entity_string, all_entities): #2
 	for ekey in all_entities:
 		if entity_string==all_entities[ekey]["initials"]:
 			extref=all_entities[ekey]["extref"]
-			print extref
+			print "D2", entity_string, ekey, extref
 	return extref
 
 def solve_initials_and_abbreviations_after(entity_string, term_id, parser): #3
@@ -103,7 +105,7 @@ def solve_initials_and_abbreviations_after(entity_string, term_id, parser): #3
 		other_initials=get_initials(other_entity_string)
 		if other_initials and entity_string==other_initials:
 			extref=get_most_confident_link(other_entity)
-			print extref
+			print "D3", entity_string, other_entity_string, extref
 			break
 	return extref
 
@@ -113,7 +115,6 @@ def do_disambiguation(entity_string, all_entities, terms, parser):
 
 
 	if not extref:
-		count_after_1+=1
 		if len(entity_string.split())==1 and entity_string.isupper():
 			extref = solve_initials_and_abbreviations_before(entity_string, all_entities) or solve_initials_and_abbreviations_after(entity_string, terms[0].replace("t", ""), parser)
 		#D2 Initials and abbreviations of occurred entities
@@ -129,9 +130,9 @@ def do_disambiguation(entity_string, all_entities, terms, parser):
 if __name__=="__main__":
 	my_dbpedia = Cdbpedia_enquirer()
 	path="dev_corpus/"
+	out_path="proc_dev_corpus/"
 	count_all = 0
-	count_after_1=0
-	count_after_3=0
+	count_dis=0
 	for file in os.listdir(path):
 		print file
 		parser=KafNafParser(path + file)
@@ -148,30 +149,32 @@ if __name__=="__main__":
 				continue
 			
 			entity_string = get_entity_mention(parser, terms)
-			print entity_string
-			count_all+=1
+			
 			############ THE RULES START FROM HERE ONWARDS #############
 			
 			########### Disambiguation #############
 			
 			extref=do_disambiguation(entity_string, all_entities, terms, parser)
-			add_entity_extref(entity, extref)
+			if extref:
+				entity=add_entity_extref(entity, extref)
+				count_dis+=1
 
 			############ Recognition ###############
-			
-			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity_string) and "-" in entity_string: # R3
+			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity) and "-" in entity_string: # R3
 				found=False
 				for new_ent in entity_string.split("-"):
 					extref=do_disambiguation(new_ent, all_entities, terms, parser)
 					if extref:
-						add_entity_extref(entity, extref)
 						found=True
+						entity=add_entity_extref(entity, extref)
+						print "R3", file, terms, extref
 
 			if not extref:
-				count_after_3+=1
+#				count_after_3+=1
 				extref=get_most_confident_link(entity)
-
+				print entity_string
+				entity=add_entity_extref(entity, extref)
+			count_all+=1
 			all_entities[entity_string]={"extref": extref, "terms": terms, "initials": get_initials(entity_string)}
-		print all_entities
-		break
-	print count_all, count_after_1, count_after_3
+		parser.dump(out_path + file)
+	print count_all, count_dis
