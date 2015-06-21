@@ -111,8 +111,7 @@ def solve_initials_and_abbreviations_after(entity_string, term_id, parser): #3
 
 def do_disambiguation(entity_string, all_entities, terms, parser):
 			
-	extref=get_previous_occurrence(all_entities, entity_string); #D1  Get previous occurrence
-
+	extref=get_previous_occurrence(all_entities, entity_string.lower()); #D1  Get previous occurrence
 
 	if not extref:
 		if len(entity_string.split())==1 and entity_string.isupper():
@@ -140,12 +139,14 @@ if __name__=="__main__":
 		term_start = get_start_term(parser) # Get the first term in sentence 2 to avoid the title
 
 		all_entities={}
+		title_entities=[]
 		for entity in parser.get_entities():
 			if entity.get_id()[0]=="g":
 				continue
 			for ref in entity.get_references():
 				terms=ref.get_span().get_span_ids()
 			if int(terms[0].replace("t", ""))<term_start:
+				title_entities.append(entity)
 				continue
 			
 			entity_string = get_entity_mention(parser, terms)
@@ -175,6 +176,36 @@ if __name__=="__main__":
 				print entity_string
 				entity=add_entity_extref(entity, extref)
 			count_all+=1
-			all_entities[entity_string]={"extref": extref, "terms": terms, "initials": get_initials(entity_string)}
+			all_entities[entity_string.lower()]={"extref": extref, "terms": terms, "initials": get_initials(entity_string)}
+
+		# Now do the title
+		for entity in title_entities:
+			for ref in entity.get_references():
+				terms=ref.get_span().get_span_ids()
+			entity_string = get_entity_mention(parser, terms)
+			
+			############ THE RULES START FROM HERE ONWARDS #############
+			
+			########### Disambiguation #############
+			
+			extref=do_disambiguation(entity_string, all_entities, terms, parser)
+			if extref:
+				entity=add_entity_extref(entity, extref)
+				count_dis+=1
+
+			############ Recognition ###############
+			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity) and "-" in entity_string: # R3
+				found=False
+				for new_ent in entity_string.split("-"):
+					extref=do_disambiguation(new_ent, all_entities, terms, parser)
+					if extref:
+						found=True
+						entity=add_entity_extref(entity, extref)
+						print "R3", file, terms, extref
+
+			if not extref:
+#				count_after_3+=1
+				extref='-NAE-'
+				entity=add_entity_extref(entity, extref)
 		parser.dump(out_path + file)
 	print count_all, count_dis

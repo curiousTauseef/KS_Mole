@@ -4718,6 +4718,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alaska_(singer)" confidence="1.1507322E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleontology_in_Alaska" confidence="2.198824E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alaska" confidence="21"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

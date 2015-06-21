@@ -4539,6 +4539,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
       <externalReferences>
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -4572,6 +4573,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.6765382E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.754292E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
+        <externalRef reference="http://dbpedia.org/resource/China" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">

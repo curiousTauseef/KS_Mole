@@ -4,7 +4,7 @@ from KafNafParserPy import *
 summary=open("summary.csv", "w")
 details=open("details.csv", "w")
 details.write("\tFILENAME\t\t\t\tNER_PREC\tNER_RECALL\tNED_PREC\tNED_RECALL\n")
-summary.write("NER_PREC\tNER_RECALL\tNED_PREC\tNED_RECALL\n")
+summary.write("NER_PREC\tNER_RECALL\tNER_F1\tNED_PREC\tNED_RECALL\tNED_F1\n")
 
 # NER
 ner_tp=0
@@ -17,8 +17,8 @@ ned_fn=0 # In GOLD, not in spotlight_v1
 ned_fp=0 # Not in GOLD, yes in spotlight_v1
 
 path="proc_dev_corpus/"
-#eval_source="domain_model"
-eval_source="spotlight_v1"
+eval_source="domain_model"
+#eval_source="spotlight_v1"
 for f in os.listdir(path):
 	
 	print f
@@ -79,16 +79,16 @@ for f in os.listdir(path):
 	print "NED SCORES:"
 	file_ned_prec=file_ned_tp*1.0/(file_ned_tp+file_ned_fp)
 	file_ned_recall=file_ned_tp*1.0/(file_ned_tp+file_ned_fn)
-	print file_ned_prec, file_ned_recall
 	print "NER SCORES:"
         file_ner_prec=file_ner_tp*1.0/(file_ner_tp+file_ner_fp)
         file_ner_recall=file_ner_tp*1.0/(file_ner_tp+file_ner_fn)
-        print file_ner_prec, file_ner_recall
 	details.write("%s\t%s\t%s\t%s\t%s\n" % (f, file_ner_prec, file_ner_recall, file_ned_prec, file_ned_recall))
 
 #### Overall summary numbers ####
 ned_prec=ned_tp*1.0/(ned_tp+ned_fp)
 ned_recall=ned_tp*1.0/(ned_tp+ned_fn)
+ned_fval=2*ned_prec*ned_recall/(ned_prec+ned_recall)
 ner_prec=ner_tp*1.0/(ner_tp+ner_fp)
 ner_recall=ner_tp*1.0/(ner_tp+ner_fn)
-summary.write("%s\t%s\t%s\t%s\n" % (ner_prec, ner_recall, ned_prec, ned_recall))
+ner_fval=2*ner_prec*ner_recall/(ner_prec+ner_recall)
+summary.write("%s\t%s\t%s\t%s\t%s\t%s\n" % (ner_prec, ner_recall, ner_fval, ned_prec, ned_recall, ned_fval))

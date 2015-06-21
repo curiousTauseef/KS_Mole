@@ -3010,6 +3010,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="1.3192697E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleolithic_Europe" confidence="2.2489072E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/UEFA" confidence="9"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -3029,6 +3030,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_Bank" confidence="1.12885025E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fed_(album)" confidence="5.648819E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Federal_Bank" confidence="24"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="MISC">

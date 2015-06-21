@@ -5295,6 +5295,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef reference="http://dbpedia.org/resource/John_Olerud" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="PERSON">

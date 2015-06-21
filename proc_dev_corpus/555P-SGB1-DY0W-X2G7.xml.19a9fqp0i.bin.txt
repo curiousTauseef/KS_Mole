@@ -4728,6 +4728,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
       <externalReferences>
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">

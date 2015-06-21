@@ -5349,6 +5349,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef reference="http://dbpedia.org/resource/China" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

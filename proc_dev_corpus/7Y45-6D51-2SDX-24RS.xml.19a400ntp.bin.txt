@@ -6694,6 +6694,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="9.389453E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="3.95376E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -6709,6 +6710,7 @@ Ltd.</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -6721,6 +6723,7 @@ Ltd.</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
+        <externalRef reference="http://dbpedia.org/resource/American_International_Group" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -6743,6 +6746,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="2.905E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="16"/>
+        <externalRef reference="http://dbpedia.org/resource/Ford_Motor_Company" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">

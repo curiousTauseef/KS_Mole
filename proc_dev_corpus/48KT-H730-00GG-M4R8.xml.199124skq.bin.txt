@@ -3574,6 +3574,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" confidence="1.0858339E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/UK_(band)" confidence="7.577631E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/England" confidence="16"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="LOCATION">

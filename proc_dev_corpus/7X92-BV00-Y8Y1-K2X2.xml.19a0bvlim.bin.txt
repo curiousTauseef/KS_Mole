@@ -2858,6 +2858,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="5.782873E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="6.3431085E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.9999366" reftype="en"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -2880,6 +2881,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef reference="http://dbpedia.org/resource/Suzuki" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">

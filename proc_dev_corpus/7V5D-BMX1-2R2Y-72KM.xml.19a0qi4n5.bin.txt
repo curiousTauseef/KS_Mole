@@ -3585,6 +3585,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_California,_Berkeley" confidence="3.0049932E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="0.99999994" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/California" confidence="16"/>
+        <externalRef reference="http://dbpedia.org/resource/California" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

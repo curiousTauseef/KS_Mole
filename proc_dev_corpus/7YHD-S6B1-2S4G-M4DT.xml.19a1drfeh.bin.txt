@@ -8323,6 +8323,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6499797E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.1182726E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Empire_of_Japan" confidence="23"/>
+        <externalRef reference="http://dbpedia.org/resource/Japan" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

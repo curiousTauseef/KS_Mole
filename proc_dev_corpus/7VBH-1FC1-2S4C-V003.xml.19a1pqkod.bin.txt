@@ -6192,6 +6192,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="3.9041265E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="6.3738556E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Billboard_200" confidence="23"/>
+        <externalRef reference="http://dbpedia.org/resource/United_States_dollar" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

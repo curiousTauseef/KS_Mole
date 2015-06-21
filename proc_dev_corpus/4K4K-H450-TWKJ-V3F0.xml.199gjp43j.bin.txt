@@ -3991,6 +3991,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="2.6626317E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="9.863676E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef reference="http://dbpedia.org/resource/China" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -4005,6 +4006,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="22"/>
+        <externalRef reference="http://dbpedia.org/resource/SAIC_Motor" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -4028,6 +4030,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong_national_under-23_football_team" confidence="1.3448095E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_Hong_Kong" confidence="9.807541E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="21"/>
+        <externalRef reference="http://dbpedia.org/resource/Hong_Kong" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">

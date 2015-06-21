@@ -9603,6 +9603,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aircraft_Nuclear_Propulsion" confidence="0.9999998" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Royal_Society_of_Painter-Printmakers" confidence="1.5766616E-7" reftype="en"/>
+        <externalRef reference="-NAE-" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="PERSON">

@@ -4009,6 +4009,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
+        <externalRef reference="http://dbpedia.org/resource/Kevin_Smith" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">

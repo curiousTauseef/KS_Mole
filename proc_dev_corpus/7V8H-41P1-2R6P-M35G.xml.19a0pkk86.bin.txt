@@ -3517,6 +3517,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HUD_(video_gaming)" confidence="4.748382E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Head-up_display" confidence="9.808625E-25" reftype="en"/>
+        <externalRef reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" resource="domain_model" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="ORGANIZATION">
