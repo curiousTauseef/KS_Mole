@@ -60,6 +60,14 @@ def get_initials(entity_string):
 def is_person(dblink):
 	return ('http://dbpedia.org/ontology/Person' in my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink))
 
+def add_entity_extref(entity, extref):
+	my_ext_ref = CexternalReference()
+	my_ext_ref.set_reference(extref)
+	my_ext_ref.set_resource('domain_model')
+	my_ext_ref.set_confidence('1.0')
+	entity.add_external_reference(my_ext_ref)
+	return
+
 ##########################################################################################
 ####################################### MODULES ##########################################
 ##########################################################################################
@@ -99,6 +107,21 @@ def solve_initials_and_abbreviations_after(entity_string, term_id, parser): #3
 			break
 	return extref
 
+def do_disambiguation(entity_string, all_entities, terms, parser):
+			
+	extref=get_previous_occurrence(all_entities, entity_string); #D1  Get previous occurrence
+
+
+	if not extref:
+		count_after_1+=1
+		if len(entity_string.split())==1 and entity_string.isupper():
+			extref = solve_initials_and_abbreviations_before(entity_string, all_entities) or solve_initials_and_abbreviations_after(entity_string, terms[0].replace("t", ""), parser)
+		#D2 Initials and abbreviations of occurred entities
+		#D3 Initials and abbreviations explained afterwards
+		
+	return extref
+
+
 ##########################################################################################
 ####################################### MAIN #############################################
 ##########################################################################################
@@ -129,16 +152,20 @@ if __name__=="__main__":
 			count_all+=1
 			############ THE RULES START FROM HERE ONWARDS #############
 			
-			extref=get_previous_occurrence(all_entities, entity_string); #1  Get previous occurrence
+			########### Disambiguation #############
+			
+			extref=do_disambiguation(entity_string, all_entities, terms, parser)
+			add_entity_extref(entity, extref)
 
-
-			if not extref:
-				count_after_1+=1
-				if len(entity_string.split())==1 and entity_string.isupper():
-					extref = solve_initials_and_abbreviations_before(entity_string, all_entities) or solve_initials_and_abbreviations_after(entity_string, terms[0].replace("t", ""), parser)
-				#2 Initials and abbreviations of occurred entities
-				#3 Initials and abbreviations explained afterwards
-
+			############ Recognition ###############
+			
+			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity_string) and "-" in entity_string: # R3
+				found=False
+				for new_ent in entity_string.split("-"):
+					extref=do_disambiguation(new_ent, all_entities, terms, parser)
+					if extref:
+						add_entity_extref(entity, extref)
+						found=True
 
 			if not extref:
 				count_after_3+=1
