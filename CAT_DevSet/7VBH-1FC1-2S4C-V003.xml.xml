@@ -1,0 +1,556 @@
+<Document doc_name="7VBH-1FC1-2S4C-V003.xml">
+<token id="1" sentence="0" number="0">US</token>
+<token id="2" sentence="0" number="1">drug</token>
+<token id="3" sentence="0" number="2">sales</token>
+<token id="4" sentence="0" number="3">growth</token>
+<token id="5" sentence="0" number="4">slows</token>
+<token id="6" sentence="0" number="5">to</token>
+<token id="7" sentence="0" number="6">1.3</token>
+<token id="8" sentence="0" number="7">%</token>
+<token id="9" sentence="1" number="0">Annual</token>
+<token id="10" sentence="1" number="1">US</token>
+<token id="11" sentence="1" number="2">prescription</token>
+<token id="12" sentence="1" number="3">sales</token>
+<token id="13" sentence="1" number="4">growth</token>
+<token id="14" sentence="1" number="5">was</token>
+<token id="15" sentence="1" number="6">just</token>
+<token id="16" sentence="1" number="7">1.3</token>
+<token id="17" sentence="1" number="8">%</token>
+<token id="18" sentence="1" number="9">in</token>
+<token id="19" sentence="1" number="10">2008</token>
+<token id="20" sentence="1" number="11">,</token>
+<token id="21" sentence="1" number="12">reaching</token>
+<token id="22" sentence="1" number="13">$</token>
+<token id="23" sentence="1" number="14">291.5</token>
+<token id="24" sentence="1" number="15">billion</token>
+<token id="25" sentence="1" number="16">,</token>
+<token id="26" sentence="1" number="17">according</token>
+<token id="27" sentence="1" number="18">to</token>
+<token id="28" sentence="1" number="19">IMS</token>
+<token id="29" sentence="1" number="20">Health</token>
+<token id="30" sentence="1" number="21">,</token>
+<token id="31" sentence="1" number="22">a</token>
+<token id="32" sentence="1" number="23">leading</token>
+<token id="33" sentence="1" number="24">provider</token>
+<token id="34" sentence="1" number="25">of</token>
+<token id="35" sentence="1" number="26">market</token>
+<token id="36" sentence="1" number="27">intelligence</token>
+<token id="37" sentence="1" number="28">to</token>
+<token id="38" sentence="1" number="29">the</token>
+<token id="39" sentence="1" number="30">pharmaceutical</token>
+<token id="40" sentence="1" number="31">and</token>
+<token id="41" sentence="1" number="32">health</token>
+<token id="42" sentence="1" number="33">care</token>
+<token id="43" sentence="1" number="34">industries</token>
+<token id="44" sentence="1" number="35">.</token>
+<token id="45" sentence="2" number="0">Dispensed</token>
+<token id="46" sentence="2" number="1">prescription</token>
+<token id="47" sentence="2" number="2">volume</token>
+<token id="48" sentence="2" number="3">in</token>
+<token id="49" sentence="2" number="4">the</token>
+<token id="50" sentence="2" number="5">USA</token>
+<token id="51" sentence="2" number="6">grew</token>
+<token id="52" sentence="2" number="7">at</token>
+<token id="53" sentence="2" number="8">a</token>
+<token id="54" sentence="2" number="9">0.9</token>
+<token id="55" sentence="2" number="10">%</token>
+<token id="56" sentence="2" number="11">pace</token>
+<token id="57" sentence="2" number="12">,</token>
+<token id="58" sentence="2" number="13">it</token>
+<token id="59" sentence="2" number="14">added</token>
+<token id="60" sentence="2" number="15">.</token>
+<token id="61" sentence="3" number="0">Factors</token>
+<token id="62" sentence="3" number="1">influencing</token>
+<token id="63" sentence="3" number="2">the</token>
+<token id="64" sentence="3" number="3">market</token>
+<token id="65" sentence="3" number="4">'s</token>
+<token id="66" sentence="3" number="5">slower</token>
+<token id="67" sentence="3" number="6">growth</token>
+<token id="68" sentence="3" number="7">in</token>
+<token id="69" sentence="3" number="8">2008</token>
+<token id="70" sentence="3" number="9">included</token>
+<token id="71" sentence="3" number="10">higher</token>
+<token id="72" sentence="3" number="11">demand</token>
+<token id="73" sentence="3" number="12">for</token>
+<token id="74" sentence="3" number="13">less-expensive</token>
+<token id="75" sentence="3" number="14">generic</token>
+<token id="76" sentence="3" number="15">medicines</token>
+<token id="77" sentence="3" number="16">,</token>
+<token id="78" sentence="3" number="17">lower</token>
+<token id="79" sentence="3" number="18">new</token>
+<token id="80" sentence="3" number="19">product</token>
+<token id="81" sentence="3" number="20">sales</token>
+<token id="82" sentence="3" number="21">and</token>
+<token id="83" sentence="3" number="22">reduced</token>
+<token id="84" sentence="3" number="23">consumer</token>
+<token id="85" sentence="3" number="24">demand</token>
+<token id="86" sentence="3" number="25">due</token>
+<token id="87" sentence="3" number="26">to</token>
+<token id="88" sentence="3" number="27">the</token>
+<token id="89" sentence="3" number="28">economic</token>
+<token id="90" sentence="3" number="29">turndown</token>
+<token id="91" sentence="3" number="30">.</token>
+<token id="92" sentence="4" number="0">Across</token>
+<token id="93" sentence="4" number="1">the</token>
+<token id="94" sentence="4" number="2">major</token>
+<token id="95" sentence="4" number="3">therapeutic</token>
+<token id="96" sentence="4" number="4">classes</token>
+<token id="97" sentence="4" number="5">,</token>
+<token id="98" sentence="4" number="6">the</token>
+<token id="99" sentence="4" number="7">biggest</token>
+<token id="100" sentence="4" number="8">sales</token>
+<token id="101" sentence="4" number="9">came</token>
+<token id="102" sentence="4" number="10">from</token>
+<token id="103" sentence="4" number="11">antipsychotics</token>
+<token id="104" sentence="4" number="12">,</token>
+<token id="105" sentence="4" number="13">increasing</token>
+<token id="106" sentence="4" number="14">11.5</token>
+<token id="107" sentence="4" number="15">%</token>
+<token id="108" sentence="4" number="16">to</token>
+<token id="109" sentence="4" number="17">$</token>
+<token id="110" sentence="4" number="18">14.6</token>
+<token id="111" sentence="4" number="19">billion</token>
+<token id="112" sentence="4" number="20">.</token>
+<token id="113" sentence="5" number="0">Lipid</token>
+<token id="114" sentence="5" number="1">regulators</token>
+<token id="115" sentence="5" number="2">,</token>
+<token id="116" sentence="5" number="3">or</token>
+<token id="117" sentence="5" number="4">cholesterol-lowerers</token>
+<token id="118" sentence="5" number="5">,</token>
+<token id="119" sentence="5" number="6">were</token>
+<token id="120" sentence="5" number="7">the</token>
+<token id="121" sentence="5" number="8">most</token>
+<token id="122" sentence="5" number="9">widely-dispensed</token>
+<token id="123" sentence="5" number="10">retail</token>
+<token id="124" sentence="5" number="11">prescription</token>
+<token id="125" sentence="5" number="12">medications</token>
+<token id="126" sentence="5" number="13">on</token>
+<token id="127" sentence="5" number="14">a</token>
+<token id="128" sentence="5" number="15">volume</token>
+<token id="129" sentence="5" number="16">basis</token>
+<token id="130" sentence="5" number="17">in</token>
+<token id="131" sentence="5" number="18">2008</token>
+<token id="132" sentence="5" number="19">,</token>
+<token id="133" sentence="5" number="20">but</token>
+<token id="134" sentence="5" number="21">second</token>
+<token id="135" sentence="5" number="22">by</token>
+<token id="136" sentence="5" number="23">value</token>
+<token id="137" sentence="5" number="24">reaching</token>
+<token id="138" sentence="5" number="25">a</token>
+<token id="139" sentence="5" number="26">total</token>
+<token id="140" sentence="5" number="27">of</token>
+<token id="141" sentence="5" number="28">$</token>
+<token id="142" sentence="5" number="29">14.6</token>
+<token id="143" sentence="5" number="30">billion</token>
+<token id="144" sentence="5" number="31">,</token>
+<token id="145" sentence="5" number="32">down</token>
+<token id="146" sentence="5" number="33">11.6</token>
+<token id="147" sentence="5" number="34">%</token>
+<token id="148" sentence="5" number="35">on</token>
+<token id="149" sentence="5" number="36">2007</token>
+<token id="150" sentence="5" number="37">.</token>
+<token id="151" sentence="6" number="0">This</token>
+<token id="152" sentence="6" number="1">was</token>
+<token id="153" sentence="6" number="2">followed</token>
+<token id="154" sentence="6" number="3">by</token>
+<token id="155" sentence="6" number="4">proton</token>
+<token id="156" sentence="6" number="5">pump</token>
+<token id="157" sentence="6" number="6">inhibitors</token>
+<token id="158" sentence="6" number="7">at</token>
+<token id="159" sentence="6" number="8">$</token>
+<token id="160" sentence="6" number="9">13.9</token>
+<token id="161" sentence="6" number="10">billion</token>
+<token id="162" sentence="6" number="11">,</token>
+<token id="163" sentence="6" number="12">seeing</token>
+<token id="164" sentence="6" number="13">a</token>
+<token id="165" sentence="6" number="14">decline</token>
+<token id="166" sentence="6" number="15">of</token>
+<token id="167" sentence="6" number="16">2.1</token>
+<token id="168" sentence="6" number="17">%</token>
+<token id="169" sentence="6" number="18">,</token>
+<token id="170" sentence="6" number="19">and</token>
+<token id="171" sentence="6" number="20">drugs</token>
+<token id="172" sentence="6" number="21">for</token>
+<token id="173" sentence="6" number="22">seizure</token>
+<token id="174" sentence="6" number="23">disorders</token>
+<token id="175" sentence="6" number="24">,</token>
+<token id="176" sentence="6" number="25">totaling</token>
+<token id="177" sentence="6" number="26">$</token>
+<token id="178" sentence="6" number="27">1.3</token>
+<token id="179" sentence="6" number="28">billion</token>
+<token id="180" sentence="6" number="29">,</token>
+<token id="181" sentence="6" number="30">a</token>
+<token id="182" sentence="6" number="31">rise</token>
+<token id="183" sentence="6" number="32">of</token>
+<token id="184" sentence="6" number="33">10.8</token>
+<token id="185" sentence="6" number="34">%</token>
+<token id="186" sentence="6" number="35">.</token>
+<token id="187" sentence="7" number="0">In</token>
+<token id="188" sentence="7" number="1">terms</token>
+<token id="189" sentence="7" number="2">of</token>
+<token id="190" sentence="7" number="3">individual</token>
+<token id="191" sentence="7" number="4">drugs</token>
+<token id="192" sentence="7" number="5">,</token>
+<token id="193" sentence="7" number="6">Pfizer</token>
+<token id="194" sentence="7" number="7">'s</token>
+<token id="195" sentence="7" number="8">mega</token>
+<token id="196" sentence="7" number="9">block</token>
+<token id="197" sentence="7" number="10">buster</token>
+<token id="198" sentence="7" number="11">statin</token>
+<token id="199" sentence="7" number="12">Lipitor</token>
+<token id="200" sentence="7" number="13">(</token>
+<token id="201" sentence="7" number="14">atorvastatin</token>
+<token id="202" sentence="7" number="15">)</token>
+<token id="203" sentence="7" number="16">generated</token>
+<token id="204" sentence="7" number="17">the</token>
+<token id="205" sentence="7" number="18">highest</token>
+<token id="206" sentence="7" number="19">turnover</token>
+<token id="207" sentence="7" number="20">of</token>
+<token id="208" sentence="7" number="21">$</token>
+<token id="209" sentence="7" number="22">7.8</token>
+<token id="210" sentence="7" number="23">billion</token>
+<token id="211" sentence="7" number="24">,</token>
+<token id="212" sentence="7" number="25">but</token>
+<token id="213" sentence="7" number="26">down</token>
+<token id="214" sentence="7" number="27">year-on-year</token>
+<token id="215" sentence="7" number="28">by</token>
+<token id="216" sentence="7" number="29">3.7</token>
+<token id="217" sentence="7" number="30">%</token>
+<token id="218" sentence="7" number="31">.</token>
+<token id="219" sentence="8" number="0">Next</token>
+<token id="220" sentence="8" number="1">were</token>
+<token id="221" sentence="8" number="2">:</token>
+<token id="222" sentence="8" number="3">AstraZeneca</token>
+<token id="223" sentence="8" number="4">'s</token>
+<token id="224" sentence="8" number="5">PPI</token>
+<token id="225" sentence="8" number="6">Nexium</token>
+<token id="226" sentence="8" number="7">(</token>
+<token id="227" sentence="8" number="8">esomeprazole</token>
+<token id="228" sentence="8" number="9">)</token>
+<token id="229" sentence="8" number="10">,</token>
+<token id="230" sentence="8" number="11">at</token>
+<token id="231" sentence="8" number="12">$</token>
+<token id="232" sentence="8" number="13">5.9</token>
+<token id="233" sentence="8" number="14">billion</token>
+<token id="234" sentence="8" number="15">and</token>
+<token id="235" sentence="8" number="16">7.3</token>
+<token id="236" sentence="8" number="17">%</token>
+<token id="237" sentence="8" number="18">higher</token>
+<token id="238" sentence="8" number="19">than</token>
+<token id="239" sentence="8" number="20">in</token>
+<token id="240" sentence="8" number="21">2007</token>
+<token id="241" sentence="8" number="22">;</token>
+<token id="242" sentence="8" number="23">and</token>
+<token id="243" sentence="8" number="24">Sanofi-Aventis</token>
+<token id="244" sentence="8" number="25">and</token>
+<token id="245" sentence="8" number="26">Bristol-Myers</token>
+<token id="246" sentence="8" number="27">Squibb</token>
+<token id="247" sentence="8" number="28">'s</token>
+<token id="248" sentence="8" number="29">blood</token>
+<token id="249" sentence="8" number="30">thinner</token>
+<token id="250" sentence="8" number="31">Plavix</token>
+<token id="251" sentence="8" number="32">,</token>
+<token id="252" sentence="8" number="33">at</token>
+<token id="253" sentence="8" number="34">$</token>
+<token id="254" sentence="8" number="35">4.9</token>
+<token id="255" sentence="8" number="36">billion</token>
+<token id="256" sentence="8" number="37">and</token>
+<token id="257" sentence="8" number="38">leaping</token>
+<token id="258" sentence="8" number="39">26.4</token>
+<token id="259" sentence="8" number="40">%</token>
+<token id="260" sentence="8" number="41">.</token>
+<token id="261" sentence="9" number="0">Biotechnology-based</token>
+<token id="262" sentence="9" number="1">medicines</token>
+<token id="263" sentence="9" number="2">accounted</token>
+<token id="264" sentence="9" number="3">for</token>
+<token id="265" sentence="9" number="4">15</token>
+<token id="266" sentence="9" number="5">%</token>
+<token id="267" sentence="9" number="6">,</token>
+<token id="268" sentence="9" number="7">or</token>
+<token id="269" sentence="9" number="8">$</token>
+<token id="270" sentence="9" number="9">45.9</token>
+<token id="271" sentence="9" number="10">billion</token>
+<token id="272" sentence="9" number="11">,</token>
+<token id="273" sentence="9" number="12">of</token>
+<token id="274" sentence="9" number="13">the</token>
+<token id="275" sentence="9" number="14">total</token>
+<token id="276" sentence="9" number="15">US</token>
+<token id="277" sentence="9" number="16">market</token>
+<token id="278" sentence="9" number="17">,</token>
+<token id="279" sentence="9" number="18">IMS</token>
+<token id="280" sentence="9" number="19">said</token>
+<token id="281" sentence="9" number="20">.</token>
+<token id="282" sentence="10" number="0">Cost</token>
+<token id="283" sentence="10" number="1">sensitivity</token>
+<token id="284" sentence="10" number="2">on</token>
+<token id="285" sentence="10" number="3">part</token>
+<token id="286" sentence="10" number="4">of</token>
+<token id="287" sentence="10" number="5">consumers</token>
+<token id="288" sentence="10" number="6">``</token>
+<token id="289" sentence="10" number="7">It</token>
+<token id="290" sentence="10" number="8">is</token>
+<token id="291" sentence="10" number="9">the</token>
+<token id="292" sentence="10" number="10">lowest</token>
+<token id="293" sentence="10" number="11">growth</token>
+<token id="294" sentence="10" number="12">we</token>
+<token id="295" sentence="10" number="13">have</token>
+<token id="296" sentence="10" number="14">ever</token>
+<token id="297" sentence="10" number="15">seen</token>
+<token id="298" sentence="10" number="16">,</token>
+<token id="299" sentence="10" number="17">''</token>
+<token id="300" sentence="10" number="18">said</token>
+<token id="301" sentence="10" number="19">Diana</token>
+<token id="302" sentence="10" number="20">Conmy</token>
+<token id="303" sentence="10" number="21">,</token>
+<token id="304" sentence="10" number="22">corporate</token>
+<token id="305" sentence="10" number="23">director</token>
+<token id="306" sentence="10" number="24">of</token>
+<token id="307" sentence="10" number="25">market</token>
+<token id="308" sentence="10" number="26">insights</token>
+<token id="309" sentence="10" number="27">for</token>
+<token id="310" sentence="10" number="28">IMS</token>
+<token id="311" sentence="10" number="29">.</token>
+<token id="312" sentence="11" number="0">``</token>
+<token id="313" sentence="11" number="1">Patients</token>
+<token id="314" sentence="11" number="2">are</token>
+<token id="315" sentence="11" number="3">going</token>
+<token id="316" sentence="11" number="4">to</token>
+<token id="317" sentence="11" number="5">try</token>
+<token id="318" sentence="11" number="6">to</token>
+<token id="319" sentence="11" number="7">hang</token>
+<token id="320" sentence="11" number="8">on</token>
+<token id="321" sentence="11" number="9">to</token>
+<token id="322" sentence="11" number="10">their</token>
+<token id="323" sentence="11" number="11">prescription</token>
+<token id="324" sentence="11" number="12">medicines</token>
+<token id="325" sentence="11" number="13">as</token>
+<token id="326" sentence="11" number="14">much</token>
+<token id="327" sentence="11" number="15">as</token>
+<token id="328" sentence="11" number="16">they</token>
+<token id="329" sentence="11" number="17">can</token>
+<token id="330" sentence="11" number="18">,</token>
+<token id="331" sentence="11" number="19">but</token>
+<token id="332" sentence="11" number="20">in</token>
+<token id="333" sentence="11" number="21">some</token>
+<token id="334" sentence="11" number="22">cases</token>
+<token id="335" sentence="11" number="23">they</token>
+<token id="336" sentence="11" number="24">have</token>
+<token id="337" sentence="11" number="25">to</token>
+<token id="338" sentence="11" number="26">make</token>
+<token id="339" sentence="11" number="27">decisions</token>
+<token id="340" sentence="11" number="28">on</token>
+<token id="341" sentence="11" number="29">taking</token>
+<token id="342" sentence="11" number="30">on</token>
+<token id="343" sentence="11" number="31">a</token>
+<token id="344" sentence="11" number="32">new</token>
+<token id="345" sentence="11" number="33">therapy</token>
+<token id="346" sentence="11" number="34">or</token>
+<token id="347" sentence="11" number="35">moving</token>
+<token id="348" sentence="11" number="36">from</token>
+<token id="349" sentence="11" number="37">a</token>
+<token id="350" sentence="11" number="38">branded</token>
+<token id="351" sentence="11" number="39">to</token>
+<token id="352" sentence="11" number="40">a</token>
+<token id="353" sentence="11" number="41">generic</token>
+<token id="354" sentence="11" number="42">and</token>
+<token id="355" sentence="11" number="43">there</token>
+<token id="356" sentence="11" number="44">is</token>
+<token id="357" sentence="11" number="45">definitely</token>
+<token id="358" sentence="11" number="46">a</token>
+<token id="359" sentence="11" number="47">cost</token>
+<token id="360" sentence="11" number="48">sensitivity</token>
+<token id="361" sentence="11" number="49">,</token>
+<token id="362" sentence="11" number="50">''</token>
+<token id="363" sentence="11" number="51">she</token>
+<token id="364" sentence="11" number="52">added</token>
+<token id="365" sentence="11" number="53">.</token>
+<token id="366" sentence="12" number="0">Ms</token>
+<token id="367" sentence="12" number="1">Conmy</token>
+<token id="368" sentence="12" number="2">also</token>
+<token id="369" sentence="12" number="3">noted</token>
+<token id="370" sentence="12" number="4">that</token>
+<token id="371" sentence="12" number="5">the</token>
+<token id="372" sentence="12" number="6">slowdown</token>
+<token id="373" sentence="12" number="7">in</token>
+<token id="374" sentence="12" number="8">demand</token>
+<token id="375" sentence="12" number="9">has</token>
+<token id="376" sentence="12" number="10">been</token>
+<token id="377" sentence="12" number="11">worse</token>
+<token id="378" sentence="12" number="12">during</token>
+<token id="379" sentence="12" number="13">this</token>
+<token id="380" sentence="12" number="14">current</token>
+<token id="381" sentence="12" number="15">recession</token>
+<token id="382" sentence="12" number="16">than</token>
+<token id="383" sentence="12" number="17">those</token>
+<token id="384" sentence="12" number="18">in</token>
+<token id="385" sentence="12" number="19">the</token>
+<token id="386" sentence="12" number="20">past</token>
+<token id="387" sentence="12" number="21">because</token>
+<token id="388" sentence="12" number="22">the</token>
+<token id="389" sentence="12" number="23">cost</token>
+<token id="390" sentence="12" number="24">of</token>
+<token id="391" sentence="12" number="25">insurance</token>
+<token id="392" sentence="12" number="26">premiums</token>
+<token id="393" sentence="12" number="27">and</token>
+<token id="394" sentence="12" number="28">co-payments</token>
+<token id="395" sentence="12" number="29">have</token>
+<token id="396" sentence="12" number="30">risen</token>
+<token id="397" sentence="12" number="31">,</token>
+<token id="398" sentence="12" number="32">putting</token>
+<token id="399" sentence="12" number="33">more</token>
+<token id="400" sentence="12" number="34">pressure</token>
+<token id="401" sentence="12" number="35">on</token>
+<token id="402" sentence="12" number="36">patients</token>
+<token id="403" sentence="12" number="37">.</token>
+
+
+<Markables>
+<ENTITY_MENTION id="17" syntactic_type="" head="" comment=""  >
+<token_anchor id="224"/>
+<token_anchor id="225"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="19" syntactic_type="" head="" comment=""  >
+<token_anchor id="227"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="21" syntactic_type="" head="" comment=""  >
+<token_anchor id="243"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="23" syntactic_type="" head="" comment=""  >
+<token_anchor id="245"/>
+<token_anchor id="246"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="25" syntactic_type="" head="" comment=""  >
+<token_anchor id="250"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="27" syntactic_type="" head="" comment=""  >
+<token_anchor id="276"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="29" syntactic_type="" head="" comment=""  >
+<token_anchor id="279"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="31" syntactic_type="" head="" comment=""  >
+<token_anchor id="301"/>
+<token_anchor id="302"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="32" syntactic_type="" head="" comment=""  >
+<token_anchor id="310"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="34" syntactic_type="" head="" comment=""  >
+<token_anchor id="366"/>
+<token_anchor id="367"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="1" syntactic_type="" head="" comment=""  >
+<token_anchor id="1"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="3" syntactic_type="" head="" comment=""  >
+<token_anchor id="10"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="5" syntactic_type="" head="" comment=""  >
+<token_anchor id="28"/>
+<token_anchor id="29"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="7" syntactic_type="" head="" comment=""  >
+<token_anchor id="50"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="9" syntactic_type="" head="" comment=""  >
+<token_anchor id="193"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="11" syntactic_type="" head="" comment=""  >
+<token_anchor id="199"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="13" syntactic_type="" head="" comment=""  >
+<token_anchor id="201"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="15" syntactic_type="" head="" comment=""  >
+<token_anchor id="222"/>
+</ENTITY_MENTION>
+<SIGNAL id="35" comment=""  >
+<token_anchor id="5"/>
+</SIGNAL>
+
+
+<ENTITY id="2" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/United_States" />
+<ENTITY id="4" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/United_States" />
+<ENTITY id="6" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/IMS_Health" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/IMS_Health" />
+<ENTITY id="8" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/United_States" />
+<ENTITY id="10" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Pfizer" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Pfizer" />
+<ENTITY id="12" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Atorvastatin" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Atorvastatin" />
+<ENTITY id="14" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Atorvastatin" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Atorvastatin" />
+<ENTITY id="16" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/AstraZeneca" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/AstraZeneca" />
+<ENTITY id="18" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Esomeprazole" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Esomeprazole" />
+<ENTITY id="20" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Esomeprazole" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Esomeprazole" />
+<ENTITY id="22" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Sanofi" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Sanofi" />
+<ENTITY id="24" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bristol-Myers_Squibb" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bristol-Myers_Squibb" />
+<ENTITY id="26" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Clopidogrel" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Clopidogrel" />
+<ENTITY id="28" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="30" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/IMS_Health" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/IMS_Health" />
+<ENTITY id="33" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/IMS_Health" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/IMS_Health" />
+</Markables>
+
+<Relations>
+<REFERS_TO id="433120" >
+<source id="23" />
+<target id="24" />
+</REFERS_TO>
+<REFERS_TO id="433121" >
+<source id="9" />
+<target id="10" />
+</REFERS_TO>
+<REFERS_TO id="433122" >
+<source id="25" />
+<target id="26" />
+</REFERS_TO>
+<REFERS_TO id="433123" >
+<source id="11" />
+<target id="12" />
+</REFERS_TO>
+<REFERS_TO id="433124" >
+<source id="19" />
+<target id="20" />
+</REFERS_TO>
+<REFERS_TO id="433125" >
+<source id="13" />
+<target id="14" />
+</REFERS_TO>
+<REFERS_TO id="433126" >
+<source id="21" />
+<target id="22" />
+</REFERS_TO>
+<REFERS_TO id="433127" >
+<source id="15" />
+<target id="16" />
+</REFERS_TO>
+<REFERS_TO id="433128" >
+<source id="32" />
+<target id="33" />
+</REFERS_TO>
+<REFERS_TO id="433129" >
+<source id="17" />
+<target id="18" />
+</REFERS_TO>
+<REFERS_TO id="433130" >
+<source id="29" />
+<target id="30" />
+</REFERS_TO>
+<REFERS_TO id="433131" >
+<source id="27" />
+<target id="28" />
+</REFERS_TO>
+<REFERS_TO id="433132" >
+<source id="1" />
+<target id="2" />
+</REFERS_TO>
+<REFERS_TO id="433133" >
+<source id="3" />
+<target id="4" />
+</REFERS_TO>
+<REFERS_TO id="433134" >
+<source id="5" />
+<target id="6" />
+</REFERS_TO>
+<REFERS_TO id="433135" >
+<source id="7" />
+<target id="8" />
+</REFERS_TO>
+</Relations>
+</Document>

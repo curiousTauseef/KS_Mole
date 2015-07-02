@@ -1,0 +1,513 @@
+<Document doc_name="546X-1201-JCBD-K01P.xml">
+<token id="1" sentence="0" number="0">Honda</token>
+<token id="2" sentence="0" number="1">Begins</token>
+<token id="3" sentence="0" number="2">Fit</token>
+<token id="4" sentence="0" number="3">EV</token>
+<token id="5" sentence="0" number="4">Trials</token>
+<token id="6" sentence="0" number="5">in</token>
+<token id="7" sentence="0" number="6">China</token>
+<token id="8" sentence="1" number="0">Honda</token>
+<token id="9" sentence="1" number="1">has</token>
+<token id="10" sentence="1" number="2">started</token>
+<token id="11" sentence="1" number="3">trial</token>
+<token id="12" sentence="1" number="4">demonstrations</token>
+<token id="13" sentence="1" number="5">of</token>
+<token id="14" sentence="1" number="6">its</token>
+<token id="15" sentence="1" number="7">Fit</token>
+<token id="16" sentence="1" number="8">electric</token>
+<token id="17" sentence="1" number="9">vehicle</token>
+<token id="18" sentence="1" number="10">(</token>
+<token id="19" sentence="1" number="11">EV</token>
+<token id="20" sentence="1" number="12">)</token>
+<token id="21" sentence="1" number="13">concepts</token>
+<token id="22" sentence="1" number="14">in</token>
+<token id="23" sentence="1" number="15">Guangzhou</token>
+<token id="24" sentence="1" number="16">(</token>
+<token id="25" sentence="1" number="17">China</token>
+<token id="26" sentence="1" number="18">)</token>
+<token id="27" sentence="1" number="19">,</token>
+<token id="28" sentence="1" number="20">according</token>
+<token id="29" sentence="1" number="21">to</token>
+<token id="30" sentence="1" number="22">a</token>
+<token id="31" sentence="1" number="23">press</token>
+<token id="32" sentence="1" number="24">release</token>
+<token id="33" sentence="1" number="25">by</token>
+<token id="34" sentence="1" number="26">the</token>
+<token id="35" sentence="1" number="27">automaker</token>
+<token id="36" sentence="1" number="28">.</token>
+<token id="37" sentence="2" number="0">The</token>
+<token id="38" sentence="2" number="1">tests</token>
+<token id="39" sentence="2" number="2">are</token>
+<token id="40" sentence="2" number="3">being</token>
+<token id="41" sentence="2" number="4">carried</token>
+<token id="42" sentence="2" number="5">out</token>
+<token id="43" sentence="2" number="6">by</token>
+<token id="44" sentence="2" number="7">the</token>
+<token id="45" sentence="2" number="8">automaker</token>
+<token id="46" sentence="2" number="9">in</token>
+<token id="47" sentence="2" number="10">association</token>
+<token id="48" sentence="2" number="11">with</token>
+<token id="49" sentence="2" number="12">the</token>
+<token id="50" sentence="2" number="13">government</token>
+<token id="51" sentence="2" number="14">of</token>
+<token id="52" sentence="2" number="15">the</token>
+<token id="53" sentence="2" number="16">city</token>
+<token id="54" sentence="2" number="17">of</token>
+<token id="55" sentence="2" number="18">Guangzhou</token>
+<token id="56" sentence="2" number="19">and</token>
+<token id="57" sentence="2" number="20">Guangzhou</token>
+<token id="58" sentence="2" number="21">Automobile</token>
+<token id="59" sentence="2" number="22">Group</token>
+<token id="60" sentence="2" number="23">.</token>
+<token id="61" sentence="3" number="0">Guangqi</token>
+<token id="62" sentence="3" number="1">Honda</token>
+<token id="63" sentence="3" number="2">Automobile</token>
+<token id="64" sentence="3" number="3">,</token>
+<token id="65" sentence="3" number="4">Honda</token>
+<token id="66" sentence="3" number="5">'s</token>
+<token id="67" sentence="3" number="6">automotive</token>
+<token id="68" sentence="3" number="7">joint</token>
+<token id="69" sentence="3" number="8">venture</token>
+<token id="70" sentence="3" number="9">(</token>
+<token id="71" sentence="3" number="10">JV</token>
+<token id="72" sentence="3" number="11">)</token>
+<token id="73" sentence="3" number="12">with</token>
+<token id="74" sentence="3" number="13">Guangzhou</token>
+<token id="75" sentence="3" number="14">Automobile</token>
+<token id="76" sentence="3" number="15">Group</token>
+<token id="77" sentence="3" number="16">,</token>
+<token id="78" sentence="3" number="17">plans</token>
+<token id="79" sentence="3" number="18">to</token>
+<token id="80" sentence="3" number="19">begin</token>
+<token id="81" sentence="3" number="20">local</token>
+<token id="82" sentence="3" number="21">production</token>
+<token id="83" sentence="3" number="22">of</token>
+<token id="84" sentence="3" number="23">the</token>
+<token id="85" sentence="3" number="24">EV</token>
+<token id="86" sentence="3" number="25">in</token>
+<token id="87" sentence="3" number="26">China</token>
+<token id="88" sentence="3" number="27">before</token>
+<token id="89" sentence="3" number="28">the</token>
+<token id="90" sentence="3" number="29">end</token>
+<token id="91" sentence="3" number="30">of</token>
+<token id="92" sentence="3" number="31">2012</token>
+<token id="93" sentence="3" number="32">.</token>
+<token id="94" sentence="4" number="0">Significance</token>
+<token id="95" sentence="4" number="1">:</token>
+<token id="96" sentence="4" number="2">The</token>
+<token id="97" sentence="4" number="3">trial</token>
+<token id="98" sentence="4" number="4">is</token>
+<token id="99" sentence="4" number="5">being</token>
+<token id="100" sentence="4" number="6">conducted</token>
+<token id="101" sentence="4" number="7">to</token>
+<token id="102" sentence="4" number="8">determine</token>
+<token id="103" sentence="4" number="9">the</token>
+<token id="104" sentence="4" number="10">feasibility</token>
+<token id="105" sentence="4" number="11">of</token>
+<token id="106" sentence="4" number="12">alternative</token>
+<token id="107" sentence="4" number="13">powertrains</token>
+<token id="108" sentence="4" number="14">in</token>
+<token id="109" sentence="4" number="15">the</token>
+<token id="110" sentence="4" number="16">real-world</token>
+<token id="111" sentence="4" number="17">urban</token>
+<token id="112" sentence="4" number="18">transport</token>
+<token id="113" sentence="4" number="19">environment</token>
+<token id="114" sentence="4" number="20">and</token>
+<token id="115" sentence="4" number="21">to</token>
+<token id="116" sentence="4" number="22">identify</token>
+<token id="117" sentence="4" number="23">technological</token>
+<token id="118" sentence="4" number="24">issues</token>
+<token id="119" sentence="4" number="25">to</token>
+<token id="120" sentence="4" number="26">ensure</token>
+<token id="121" sentence="4" number="27">the</token>
+<token id="122" sentence="4" number="28">smooth</token>
+<token id="123" sentence="4" number="29">deployment</token>
+<token id="124" sentence="4" number="30">of</token>
+<token id="125" sentence="4" number="31">alternative</token>
+<token id="126" sentence="4" number="32">powertrains</token>
+<token id="127" sentence="4" number="33">in</token>
+<token id="128" sentence="4" number="34">the</token>
+<token id="129" sentence="4" number="35">market</token>
+<token id="130" sentence="4" number="36">.</token>
+<token id="131" sentence="5" number="0">In</token>
+<token id="132" sentence="5" number="1">addition</token>
+<token id="133" sentence="5" number="2">,</token>
+<token id="134" sentence="5" number="3">the</token>
+<token id="135" sentence="5" number="4">trial</token>
+<token id="136" sentence="5" number="5">'s</token>
+<token id="137" sentence="5" number="6">results</token>
+<token id="138" sentence="5" number="7">will</token>
+<token id="139" sentence="5" number="8">help</token>
+<token id="140" sentence="5" number="9">in</token>
+<token id="141" sentence="5" number="10">forming</token>
+<token id="142" sentence="5" number="11">proposals</token>
+<token id="143" sentence="5" number="12">for</token>
+<token id="144" sentence="5" number="13">a</token>
+<token id="145" sentence="5" number="14">charging</token>
+<token id="146" sentence="5" number="15">infrastructure</token>
+<token id="147" sentence="5" number="16">.</token>
+<token id="148" sentence="6" number="0">The</token>
+<token id="149" sentence="6" number="1">Fit</token>
+<token id="150" sentence="6" number="2">,</token>
+<token id="151" sentence="6" number="3">one</token>
+<token id="152" sentence="6" number="4">of</token>
+<token id="153" sentence="6" number="5">the</token>
+<token id="154" sentence="6" number="6">most</token>
+<token id="155" sentence="6" number="7">eagerly</token>
+<token id="156" sentence="6" number="8">anticipated</token>
+<token id="157" sentence="6" number="9">pure-electric</token>
+<token id="158" sentence="6" number="10">vehicles</token>
+<token id="159" sentence="6" number="11">from</token>
+<token id="160" sentence="6" number="12">Honda</token>
+<token id="161" sentence="6" number="13">,</token>
+<token id="162" sentence="6" number="14">will</token>
+<token id="163" sentence="6" number="15">make</token>
+<token id="164" sentence="6" number="16">its</token>
+<token id="165" sentence="6" number="17">debut</token>
+<token id="166" sentence="6" number="18">next</token>
+<token id="167" sentence="6" number="19">week</token>
+<token id="168" sentence="6" number="20">at</token>
+<token id="169" sentence="6" number="21">the</token>
+<token id="170" sentence="6" number="22">Los</token>
+<token id="171" sentence="6" number="23">Angeles</token>
+<token id="172" sentence="6" number="24">Auto</token>
+<token id="173" sentence="6" number="25">Show</token>
+<token id="174" sentence="6" number="26">(</token>
+<token id="175" sentence="6" number="27">seeUnited</token>
+<token id="176" sentence="6" number="28">States</token>
+<token id="177" sentence="6" number="29">:</token>
+<token id="178" sentence="6" number="30">26</token>
+<token id="179" sentence="6" number="31">October</token>
+<token id="180" sentence="6" number="32">2011</token>
+<token id="181" sentence="6" number="33">:)</token>
+<token id="182" sentence="6" number="34">.</token>
+<token id="183" sentence="7" number="0">The</token>
+<token id="184" sentence="7" number="1">vehicle</token>
+<token id="185" sentence="7" number="2">is</token>
+<token id="186" sentence="7" number="3">remodelled</token>
+<token id="187" sentence="7" number="4">from</token>
+<token id="188" sentence="7" number="5">the</token>
+<token id="189" sentence="7" number="6">popular</token>
+<token id="190" sentence="7" number="7">five-seat</token>
+<token id="191" sentence="7" number="8">gasoline</token>
+<token id="192" sentence="7" number="9">(</token>
+<token id="193" sentence="7" number="10">petrol</token>
+<token id="194" sentence="7" number="11">)</token>
+<token id="195" sentence="7" number="12">-</token>
+<token id="196" sentence="7" number="13">engined</token>
+<token id="197" sentence="7" number="14">Fit</token>
+<token id="198" sentence="7" number="15">(</token>
+<token id="199" sentence="7" number="16">known</token>
+<token id="200" sentence="7" number="17">as</token>
+<token id="201" sentence="7" number="18">the</token>
+<token id="202" sentence="7" number="19">Jazz</token>
+<token id="203" sentence="7" number="20">in</token>
+<token id="204" sentence="7" number="21">select</token>
+<token id="205" sentence="7" number="22">European</token>
+<token id="206" sentence="7" number="23">and</token>
+<token id="207" sentence="7" number="24">Asian</token>
+<token id="208" sentence="7" number="25">markets</token>
+<token id="209" sentence="7" number="26">)</token>
+<token id="210" sentence="7" number="27">.</token>
+<token id="211" sentence="8" number="0">The</token>
+<token id="212" sentence="8" number="1">subcompact</token>
+<token id="213" sentence="8" number="2">hatchback</token>
+<token id="214" sentence="8" number="3">is</token>
+<token id="215" sentence="8" number="4">powered</token>
+<token id="216" sentence="8" number="5">by</token>
+<token id="217" sentence="8" number="6">a</token>
+<token id="218" sentence="8" number="7">coaxial</token>
+<token id="219" sentence="8" number="8">electric</token>
+<token id="220" sentence="8" number="9">motor</token>
+<token id="221" sentence="8" number="10">(</token>
+<token id="222" sentence="8" number="11">also</token>
+<token id="223" sentence="8" number="12">used</token>
+<token id="224" sentence="8" number="13">in</token>
+<token id="225" sentence="8" number="14">the</token>
+<token id="226" sentence="8" number="15">Honda</token>
+<token id="227" sentence="8" number="16">FCX</token>
+<token id="228" sentence="8" number="17">Clarity</token>
+<token id="229" sentence="8" number="18">hydrogen</token>
+<token id="230" sentence="8" number="19">vehicle</token>
+<token id="231" sentence="8" number="20">)</token>
+<token id="232" sentence="8" number="21">and</token>
+<token id="233" sentence="8" number="22">lithium-ion</token>
+<token id="234" sentence="8" number="23">battery</token>
+<token id="235" sentence="8" number="24">pack</token>
+<token id="236" sentence="8" number="25">.</token>
+<token id="237" sentence="9" number="0">The</token>
+<token id="238" sentence="9" number="1">vehicle</token>
+<token id="239" sentence="9" number="2">has</token>
+<token id="240" sentence="9" number="3">a</token>
+<token id="241" sentence="9" number="4">range</token>
+<token id="242" sentence="9" number="5">of</token>
+<token id="243" sentence="9" number="6">more</token>
+<token id="244" sentence="9" number="7">than</token>
+<token id="245" sentence="9" number="8">150</token>
+<token id="246" sentence="9" number="9">kilometres</token>
+<token id="247" sentence="9" number="10">based</token>
+<token id="248" sentence="9" number="11">on</token>
+<token id="249" sentence="9" number="12">the</token>
+<token id="250" sentence="9" number="13">New</token>
+<token id="251" sentence="9" number="14">European</token>
+<token id="252" sentence="9" number="15">Driving</token>
+<token id="253" sentence="9" number="16">Cycle</token>
+<token id="254" sentence="9" number="17">(</token>
+<token id="255" sentence="9" number="18">NEDC</token>
+<token id="256" sentence="9" number="19">)</token>
+<token id="257" sentence="9" number="20">.</token>
+<token id="258" sentence="10" number="0">The</token>
+<token id="259" sentence="10" number="1">model</token>
+<token id="260" sentence="10" number="2">also</token>
+<token id="261" sentence="10" number="3">features</token>
+<token id="262" sentence="10" number="4">a</token>
+<token id="263" sentence="10" number="5">three-mode</token>
+<token id="264" sentence="10" number="6">electric</token>
+<token id="265" sentence="10" number="7">drive</token>
+<token id="266" sentence="10" number="8">system</token>
+<token id="267" sentence="10" number="9">,</token>
+<token id="268" sentence="10" number="10">which</token>
+<token id="269" sentence="10" number="11">allows</token>
+<token id="270" sentence="10" number="12">the</token>
+<token id="271" sentence="10" number="13">driver</token>
+<token id="272" sentence="10" number="14">to</token>
+<token id="273" sentence="10" number="15">select</token>
+<token id="274" sentence="10" number="16">from</token>
+<token id="275" sentence="10" number="17">Econ</token>
+<token id="276" sentence="10" number="18">,</token>
+<token id="277" sentence="10" number="19">Normal</token>
+<token id="278" sentence="10" number="20">,</token>
+<token id="279" sentence="10" number="21">and</token>
+<token id="280" sentence="10" number="22">Sport</token>
+<token id="281" sentence="10" number="23">modes</token>
+<token id="282" sentence="10" number="24">.</token>
+<token id="283" sentence="11" number="0">The</token>
+<token id="284" sentence="11" number="1">electric</token>
+<token id="285" sentence="11" number="2">car</token>
+<token id="286" sentence="11" number="3">can</token>
+<token id="287" sentence="11" number="4">be</token>
+<token id="288" sentence="11" number="5">charged</token>
+<token id="289" sentence="11" number="6">in</token>
+<token id="290" sentence="11" number="7">less</token>
+<token id="291" sentence="11" number="8">than</token>
+<token id="292" sentence="11" number="9">six</token>
+<token id="293" sentence="11" number="10">hours</token>
+<token id="294" sentence="11" number="11">via</token>
+<token id="295" sentence="11" number="12">a</token>
+<token id="296" sentence="11" number="13">220V</token>
+<token id="297" sentence="11" number="14">power</token>
+<token id="298" sentence="11" number="15">supply</token>
+<token id="299" sentence="11" number="16">.</token>
+
+
+<Markables>
+<ENTITY_MENTION id="18" syntactic_type="" head="" comment=""  >
+<token_anchor id="65"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="20" syntactic_type="" head="" comment=""  >
+<token_anchor id="74"/>
+<token_anchor id="75"/>
+<token_anchor id="76"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="23" syntactic_type="" head="" comment=""  >
+<token_anchor id="87"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="25" syntactic_type="" head="" comment=""  >
+<token_anchor id="149"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="27" syntactic_type="" head="" comment=""  >
+<token_anchor id="160"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="30" syntactic_type="" head="" comment=""  >
+<token_anchor id="170"/>
+<token_anchor id="171"/>
+<token_anchor id="172"/>
+<token_anchor id="173"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="32" syntactic_type="" head="" comment=""  >
+<token_anchor id="197"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="34" syntactic_type="" head="" comment=""  >
+<token_anchor id="202"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="36" syntactic_type="" head="" comment=""  >
+<token_anchor id="205"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="38" syntactic_type="" head="" comment=""  >
+<token_anchor id="207"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="40" syntactic_type="" head="" comment=""  >
+<token_anchor id="226"/>
+<token_anchor id="227"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="43" syntactic_type="" head="" comment=""  >
+<token_anchor id="250"/>
+<token_anchor id="251"/>
+<token_anchor id="252"/>
+<token_anchor id="253"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="46" head="" syntactic_type="" comment=""  >
+<token_anchor id="3"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="48" head="" syntactic_type="" comment=""  >
+<token_anchor id="15"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="49" head="" syntactic_type="" comment=""  >
+<token_anchor id="255"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="2" syntactic_type="" head="" comment=""  >
+<token_anchor id="1"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="4" syntactic_type="" head="" comment=""  >
+<token_anchor id="7"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="6" syntactic_type="" head="" comment=""  >
+<token_anchor id="8"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="8" syntactic_type="" head="" comment=""  >
+<token_anchor id="23"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="10" syntactic_type="" head="" comment=""  >
+<token_anchor id="25"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="12" syntactic_type="" head="" comment=""  >
+<token_anchor id="55"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="14" syntactic_type="" head="" comment=""  >
+<token_anchor id="57"/>
+<token_anchor id="58"/>
+<token_anchor id="59"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="16" syntactic_type="" head="" comment=""  >
+<token_anchor id="61"/>
+<token_anchor id="62"/>
+<token_anchor id="63"/>
+</ENTITY_MENTION>
+<SIGNAL id="50" comment=""  >
+<token_anchor id="5"/>
+</SIGNAL>
+
+
+<ENTITY id="1" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="3" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda" />
+<ENTITY id="5" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/China" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/China" />
+<ENTITY id="7" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda" />
+<ENTITY id="9" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Guangzhou" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Guangzhou" />
+<ENTITY id="11" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/China" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/China" />
+<ENTITY id="13" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Guangzhou" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Guangzhou" />
+<ENTITY id="15" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/GAC_Group" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/GAC_Group" />
+<ENTITY id="17" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Guangqi_Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Guangqi_Honda" />
+<ENTITY id="19" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda" />
+<ENTITY id="21" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/GAC_Group" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/GAC_Group" />
+<ENTITY id="22" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="24" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/China" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/China" />
+<ENTITY id="26" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda_Fit" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda_Fit" />
+<ENTITY id="28" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda" />
+<ENTITY id="29" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Los_Angeles" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Los_Angeles" />
+<ENTITY id="31" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/LA_Auto_Show" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/LA_Auto_Show" />
+<ENTITY id="33" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda_Fit" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda_Fit" />
+<ENTITY id="35" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda_Jazz" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda_Jazz" />
+<ENTITY id="37" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Europe" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="39" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Asia" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="41" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda_FCX" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda_FCX" />
+<ENTITY id="42" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="44" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/New_European_Driving_Cycle" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/New_European_Driving_Cycle" />
+<ENTITY id="45" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="47" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/page/Honda_Fit" ent_type="" ent_class="" external_ref="" comment="" />
+</Markables>
+
+<Relations>
+<REFERS_TO id="433355" >
+<source id="38" />
+<target id="39" />
+</REFERS_TO>
+<REFERS_TO id="433358" >
+<source id="23" />
+<target id="24" />
+</REFERS_TO>
+<REFERS_TO id="433359" >
+<source id="18" />
+<target id="19" />
+</REFERS_TO>
+<REFERS_TO id="433360" >
+<source id="20" />
+<target id="21" />
+</REFERS_TO>
+<REFERS_TO id="433362" >
+<source id="40" />
+<target id="41" />
+</REFERS_TO>
+<REFERS_TO id="433363" >
+<source id="43" />
+<target id="44" />
+</REFERS_TO>
+<REFERS_TO id="433364" >
+<source id="25" />
+<target id="26" />
+</REFERS_TO>
+<REFERS_TO id="433365" >
+<source id="36" />
+<target id="37" />
+</REFERS_TO>
+<REFERS_TO id="433367" >
+<source id="2" />
+<target id="3" />
+</REFERS_TO>
+<REFERS_TO id="433368" >
+<source id="4" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="433369" >
+<source id="6" />
+<target id="7" />
+</REFERS_TO>
+<REFERS_TO id="433370" >
+<source id="34" />
+<target id="35" />
+</REFERS_TO>
+<REFERS_TO id="433371" >
+<source id="8" />
+<target id="9" />
+</REFERS_TO>
+<REFERS_TO id="433372" >
+<source id="10" />
+<target id="11" />
+</REFERS_TO>
+<REFERS_TO id="433373" >
+<source id="12" />
+<target id="13" />
+</REFERS_TO>
+<REFERS_TO id="433374" >
+<source id="14" />
+<target id="15" />
+</REFERS_TO>
+<REFERS_TO id="433375" >
+<source id="16" />
+<target id="17" />
+</REFERS_TO>
+<REFERS_TO id="433376" >
+<source id="27" />
+<target id="28" />
+</REFERS_TO>
+<REFERS_TO id="433377" >
+<source id="32" />
+<target id="33" />
+</REFERS_TO>
+<REFERS_TO id="433378" >
+<source id="30" />
+<target id="31" />
+</REFERS_TO>
+<REFERS_TO id="433888" >
+<source id="46" />
+<target id="47" />
+</REFERS_TO>
+<REFERS_TO id="433889" >
+<source id="48" />
+<target id="47" />
+</REFERS_TO>
+<REFERS_TO id="433890" >
+<source id="49" />
+<target id="44" />
+</REFERS_TO>
+</Relations>
+</Document>

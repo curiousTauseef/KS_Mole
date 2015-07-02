@@ -1,0 +1,971 @@
+<Document doc_name="7YHD-S6B1-2S4G-M4DT.xml">
+<token id="1" sentence="0" number="0">Mixed</token>
+<token id="2" sentence="0" number="1">Open</token>
+<token id="3" sentence="0" number="2">Seen</token>
+<token id="4" sentence="0" number="3">For</token>
+<token id="5" sentence="0" number="4">Japan</token>
+<token id="6" sentence="0" number="5">Market</token>
+<token id="7" sentence="1" number="0">(</token>
+<token id="8" sentence="1" number="1">RTTNews</token>
+<token id="9" sentence="1" number="2">)</token>
+<token id="10" sentence="1" number="3">-</token>
+<token id="11" sentence="1" number="4">A</token>
+<token id="12" sentence="1" number="5">cautious</token>
+<token id="13" sentence="1" number="6">open</token>
+<token id="14" sentence="1" number="7">is</token>
+<token id="15" sentence="1" number="8">expected</token>
+<token id="16" sentence="1" number="9">for</token>
+<token id="17" sentence="1" number="10">Japan</token>
+<token id="18" sentence="1" number="11">'s</token>
+<token id="19" sentence="1" number="12">market</token>
+<token id="20" sentence="1" number="13">on</token>
+<token id="21" sentence="1" number="14">Tuesday</token>
+<token id="22" sentence="1" number="15">,</token>
+<token id="23" sentence="1" number="16">as</token>
+<token id="24" sentence="1" number="17">traders</token>
+<token id="25" sentence="1" number="18">remain</token>
+<token id="26" sentence="1" number="19">wary</token>
+<token id="27" sentence="1" number="20">of</token>
+<token id="28" sentence="1" number="21">the</token>
+<token id="29" sentence="1" number="22">strengthening</token>
+<token id="30" sentence="1" number="23">yen</token>
+<token id="31" sentence="1" number="24">,</token>
+<token id="32" sentence="1" number="25">weakening</token>
+<token id="33" sentence="1" number="26">dollar</token>
+<token id="34" sentence="1" number="27">and</token>
+<token id="35" sentence="1" number="28">modest</token>
+<token id="36" sentence="1" number="29">gains</token>
+<token id="37" sentence="1" number="30">overnight</token>
+<token id="38" sentence="1" number="31">on</token>
+<token id="39" sentence="1" number="32">Wall</token>
+<token id="40" sentence="1" number="33">Street</token>
+<token id="41" sentence="1" number="34">.</token>
+<token id="42" sentence="2" number="0">U.S.</token>
+<token id="43" sentence="2" number="1">markets</token>
+<token id="44" sentence="2" number="2">reversed</token>
+<token id="45" sentence="2" number="3">early</token>
+<token id="46" sentence="2" number="4">losses</token>
+<token id="47" sentence="2" number="5">to</token>
+<token id="48" sentence="2" number="6">finish</token>
+<token id="49" sentence="2" number="7">in</token>
+<token id="50" sentence="2" number="8">the</token>
+<token id="51" sentence="2" number="9">black</token>
+<token id="52" sentence="2" number="10">on</token>
+<token id="53" sentence="2" number="11">the</token>
+<token id="54" sentence="2" number="12">one</token>
+<token id="55" sentence="2" number="13">year</token>
+<token id="56" sentence="2" number="14">anniversary</token>
+<token id="57" sentence="2" number="15">of</token>
+<token id="58" sentence="2" number="16">the</token>
+<token id="59" sentence="2" number="17">collapse</token>
+<token id="60" sentence="2" number="18">of</token>
+<token id="61" sentence="2" number="19">financial</token>
+<token id="62" sentence="2" number="20">giant</token>
+<token id="63" sentence="2" number="21">Lehman</token>
+<token id="64" sentence="2" number="22">Brothers</token>
+<token id="65" sentence="2" number="23">.</token>
+<token id="66" sentence="3" number="0">Japan</token>
+<token id="67" sentence="3" number="1">'s</token>
+<token id="68" sentence="3" number="2">market</token>
+<token id="69" sentence="3" number="3">moved</token>
+<token id="70" sentence="3" number="4">lower</token>
+<token id="71" sentence="3" number="5">on</token>
+<token id="72" sentence="3" number="6">relatively</token>
+<token id="73" sentence="3" number="7">light</token>
+<token id="74" sentence="3" number="8">trading</token>
+<token id="75" sentence="3" number="9">volume</token>
+<token id="76" sentence="3" number="10">on</token>
+<token id="77" sentence="3" number="11">Monday</token>
+<token id="78" sentence="3" number="12">,</token>
+<token id="79" sentence="3" number="13">pushed</token>
+<token id="80" sentence="3" number="14">by</token>
+<token id="81" sentence="3" number="15">fears</token>
+<token id="82" sentence="3" number="16">that</token>
+<token id="83" sentence="3" number="17">a</token>
+<token id="84" sentence="3" number="18">strengthening</token>
+<token id="85" sentence="3" number="19">yen</token>
+<token id="86" sentence="3" number="20">will</token>
+<token id="87" sentence="3" number="21">hurt</token>
+<token id="88" sentence="3" number="22">the</token>
+<token id="89" sentence="3" number="23">exporters</token>
+<token id="90" sentence="3" number="24">.</token>
+<token id="91" sentence="4" number="0">The</token>
+<token id="92" sentence="4" number="1">benchmark</token>
+<token id="93" sentence="4" number="2">Nikkei</token>
+<token id="94" sentence="4" number="3">225</token>
+<token id="95" sentence="4" number="4">Average</token>
+<token id="96" sentence="4" number="5">declined</token>
+<token id="97" sentence="4" number="6">242.27</token>
+<token id="98" sentence="4" number="7">points</token>
+<token id="99" sentence="4" number="8">or</token>
+<token id="100" sentence="4" number="9">2.32</token>
+<token id="101" sentence="4" number="10">percent</token>
+<token id="102" sentence="4" number="11">to</token>
+<token id="103" sentence="4" number="12">close</token>
+<token id="104" sentence="4" number="13">at</token>
+<token id="105" sentence="4" number="14">10.202.06</token>
+<token id="106" sentence="4" number="15">.</token>
+<token id="107" sentence="5" number="0">Among</token>
+<token id="108" sentence="5" number="1">the</token>
+<token id="109" sentence="5" number="2">Nikkei</token>
+<token id="110" sentence="5" number="3">component</token>
+<token id="111" sentence="5" number="4">stocks</token>
+<token id="112" sentence="5" number="5">,</token>
+<token id="113" sentence="5" number="6">there</token>
+<token id="114" sentence="5" number="7">were</token>
+<token id="115" sentence="5" number="8">15</token>
+<token id="116" sentence="5" number="9">closing</token>
+<token id="117" sentence="5" number="10">higher</token>
+<token id="118" sentence="5" number="11">,</token>
+<token id="119" sentence="5" number="12">207</token>
+<token id="120" sentence="5" number="13">were</token>
+<token id="121" sentence="5" number="14">lower</token>
+<token id="122" sentence="5" number="15">and</token>
+<token id="123" sentence="5" number="16">3</token>
+<token id="124" sentence="5" number="17">finished</token>
+<token id="125" sentence="5" number="18">unchanged</token>
+<token id="126" sentence="5" number="19">.</token>
+<token id="127" sentence="6" number="0">The</token>
+<token id="128" sentence="6" number="1">broader</token>
+<token id="129" sentence="6" number="2">Topix</token>
+<token id="130" sentence="6" number="3">index</token>
+<token id="131" sentence="6" number="4">was</token>
+<token id="132" sentence="6" number="5">down</token>
+<token id="133" sentence="6" number="6">16.4</token>
+<token id="134" sentence="6" number="7">points</token>
+<token id="135" sentence="6" number="8">or</token>
+<token id="136" sentence="6" number="9">1.7</token>
+<token id="137" sentence="6" number="10">percent</token>
+<token id="138" sentence="6" number="11">at</token>
+<token id="139" sentence="6" number="12">934.05</token>
+<token id="140" sentence="6" number="13">.</token>
+<token id="141" sentence="7" number="0">Among</token>
+<token id="142" sentence="7" number="1">the</token>
+<token id="143" sentence="7" number="2">major</token>
+<token id="144" sentence="7" number="3">exporters</token>
+<token id="145" sentence="7" number="4">,</token>
+<token id="146" sentence="7" number="5">auto</token>
+<token id="147" sentence="7" number="6">maker</token>
+<token id="148" sentence="7" number="7">Honda</token>
+<token id="149" sentence="7" number="8">fell</token>
+<token id="150" sentence="7" number="9">85</token>
+<token id="151" sentence="7" number="10">yen</token>
+<token id="152" sentence="7" number="11">or</token>
+<token id="153" sentence="7" number="12">2.97</token>
+<token id="154" sentence="7" number="13">percent</token>
+<token id="155" sentence="7" number="14">,</token>
+<token id="156" sentence="7" number="15">rival</token>
+<token id="157" sentence="7" number="16">Toyota</token>
+<token id="158" sentence="7" number="17">Motor</token>
+<token id="159" sentence="7" number="18">was</token>
+<token id="160" sentence="7" number="19">down</token>
+<token id="161" sentence="7" number="20">100</token>
+<token id="162" sentence="7" number="21">yen</token>
+<token id="163" sentence="7" number="22">or</token>
+<token id="164" sentence="7" number="23">2.60</token>
+<token id="165" sentence="7" number="24">percent</token>
+<token id="166" sentence="7" number="25">,</token>
+<token id="167" sentence="7" number="26">tire</token>
+<token id="168" sentence="7" number="27">maker</token>
+<token id="169" sentence="7" number="28">Bridgestone</token>
+<token id="170" sentence="7" number="29">was</token>
+<token id="171" sentence="7" number="30">down</token>
+<token id="172" sentence="7" number="31">55</token>
+<token id="173" sentence="7" number="32">yen</token>
+<token id="174" sentence="7" number="33">or</token>
+<token id="175" sentence="7" number="34">3.30</token>
+<token id="176" sentence="7" number="35">percent</token>
+<token id="177" sentence="7" number="36">,</token>
+<token id="178" sentence="7" number="37">Canon</token>
+<token id="179" sentence="7" number="38">was</token>
+<token id="180" sentence="7" number="39">down</token>
+<token id="181" sentence="7" number="40">120</token>
+<token id="182" sentence="7" number="41">yen</token>
+<token id="183" sentence="7" number="42">or</token>
+<token id="184" sentence="7" number="43">3.30</token>
+<token id="185" sentence="7" number="44">percent</token>
+<token id="186" sentence="7" number="45">and</token>
+<token id="187" sentence="7" number="46">Subaru</token>
+<token id="188" sentence="7" number="47">maker</token>
+<token id="189" sentence="7" number="48">Fuji</token>
+<token id="190" sentence="7" number="49">Heavy</token>
+<token id="191" sentence="7" number="50">was</token>
+<token id="192" sentence="7" number="51">down</token>
+<token id="193" sentence="7" number="52">21</token>
+<token id="194" sentence="7" number="53">yen</token>
+<token id="195" sentence="7" number="54">or</token>
+<token id="196" sentence="7" number="55">5.50</token>
+<token id="197" sentence="7" number="56">percent</token>
+<token id="198" sentence="7" number="57">.</token>
+<token id="199" sentence="8" number="0">Japan</token>
+<token id="200" sentence="8" number="1">Airlines</token>
+<token id="201" sentence="8" number="2">shares</token>
+<token id="202" sentence="8" number="3">rose</token>
+<token id="203" sentence="8" number="4">13</token>
+<token id="204" sentence="8" number="5">yen</token>
+<token id="205" sentence="8" number="6">or</token>
+<token id="206" sentence="8" number="7">7.98</token>
+<token id="207" sentence="8" number="8">percent</token>
+<token id="208" sentence="8" number="9">on</token>
+<token id="209" sentence="8" number="10">reports</token>
+<token id="210" sentence="8" number="11">that</token>
+<token id="211" sentence="8" number="12">both</token>
+<token id="212" sentence="8" number="13">American</token>
+<token id="213" sentence="8" number="14">Airlines</token>
+<token id="214" sentence="8" number="15">and</token>
+<token id="215" sentence="8" number="16">Delta</token>
+<token id="216" sentence="8" number="17">Airlines</token>
+<token id="217" sentence="8" number="18">were</token>
+<token id="218" sentence="8" number="19">in</token>
+<token id="219" sentence="8" number="20">talks</token>
+<token id="220" sentence="8" number="21">to</token>
+<token id="221" sentence="8" number="22">acquire</token>
+<token id="222" sentence="8" number="23">a</token>
+<token id="223" sentence="8" number="24">share</token>
+<token id="224" sentence="8" number="25">of</token>
+<token id="225" sentence="8" number="26">JAL</token>
+<token id="226" sentence="8" number="27">.</token>
+<token id="227" sentence="9" number="0">Among</token>
+<token id="228" sentence="9" number="1">the</token>
+<token id="229" sentence="9" number="2">steel</token>
+<token id="230" sentence="9" number="3">makers</token>
+<token id="231" sentence="9" number="4">,</token>
+<token id="232" sentence="9" number="5">Nippon</token>
+<token id="233" sentence="9" number="6">Steel</token>
+<token id="234" sentence="9" number="7">dropped</token>
+<token id="235" sentence="9" number="8">9</token>
+<token id="236" sentence="9" number="9">yen</token>
+<token id="237" sentence="9" number="10">or</token>
+<token id="238" sentence="9" number="11">2.59</token>
+<token id="239" sentence="9" number="12">percent</token>
+<token id="240" sentence="9" number="13">,</token>
+<token id="241" sentence="9" number="14">JFE</token>
+<token id="242" sentence="9" number="15">Holdings</token>
+<token id="243" sentence="9" number="16">was</token>
+<token id="244" sentence="9" number="17">down</token>
+<token id="245" sentence="9" number="18">10</token>
+<token id="246" sentence="9" number="19">yen</token>
+<token id="247" sentence="9" number="20">or</token>
+<token id="248" sentence="9" number="21">0.31</token>
+<token id="249" sentence="9" number="22">percent</token>
+<token id="250" sentence="9" number="23">,</token>
+<token id="251" sentence="9" number="24">Sumitomo</token>
+<token id="252" sentence="9" number="25">Metal</token>
+<token id="253" sentence="9" number="26">Industries</token>
+<token id="254" sentence="9" number="27">was</token>
+<token id="255" sentence="9" number="28">down</token>
+<token id="256" sentence="9" number="29">4</token>
+<token id="257" sentence="9" number="30">yen</token>
+<token id="258" sentence="9" number="31">or</token>
+<token id="259" sentence="9" number="32">1.73</token>
+<token id="260" sentence="9" number="33">percent</token>
+<token id="261" sentence="9" number="34">and</token>
+<token id="262" sentence="9" number="35">Kobe</token>
+<token id="263" sentence="9" number="36">Steel</token>
+<token id="264" sentence="9" number="37">fell</token>
+<token id="265" sentence="9" number="38">3</token>
+<token id="266" sentence="9" number="39">yen</token>
+<token id="267" sentence="9" number="40">or</token>
+<token id="268" sentence="9" number="41">1.79</token>
+<token id="269" sentence="9" number="42">percent</token>
+<token id="270" sentence="9" number="43">.</token>
+<token id="271" sentence="10" number="0">In</token>
+<token id="272" sentence="10" number="1">the</token>
+<token id="273" sentence="10" number="2">financial</token>
+<token id="274" sentence="10" number="3">sector</token>
+<token id="275" sentence="10" number="4">,</token>
+<token id="276" sentence="10" number="5">Mitsubishi</token>
+<token id="277" sentence="10" number="6">UFJ</token>
+<token id="278" sentence="10" number="7">Financial</token>
+<token id="279" sentence="10" number="8">was</token>
+<token id="280" sentence="10" number="9">down</token>
+<token id="281" sentence="10" number="10">9</token>
+<token id="282" sentence="10" number="11">yen</token>
+<token id="283" sentence="10" number="12">or</token>
+<token id="284" sentence="10" number="13">1.65</token>
+<token id="285" sentence="10" number="14">percent</token>
+<token id="286" sentence="10" number="15">,</token>
+<token id="287" sentence="10" number="16">Mizuho</token>
+<token id="288" sentence="10" number="17">Financial</token>
+<token id="289" sentence="10" number="18">was</token>
+<token id="290" sentence="10" number="19">down</token>
+<token id="291" sentence="10" number="20">4</token>
+<token id="292" sentence="10" number="21">yen</token>
+<token id="293" sentence="10" number="22">or</token>
+<token id="294" sentence="10" number="23">1.96</token>
+<token id="295" sentence="10" number="24">percent</token>
+<token id="296" sentence="10" number="25">,</token>
+<token id="297" sentence="10" number="26">Sumitomo</token>
+<token id="298" sentence="10" number="27">Mitsui</token>
+<token id="299" sentence="10" number="28">was</token>
+<token id="300" sentence="10" number="29">down</token>
+<token id="301" sentence="10" number="30">50</token>
+<token id="302" sentence="10" number="31">yen</token>
+<token id="303" sentence="10" number="32">or</token>
+<token id="304" sentence="10" number="33">1.35</token>
+<token id="305" sentence="10" number="34">percent</token>
+<token id="306" sentence="10" number="35">and</token>
+<token id="307" sentence="10" number="36">Resona</token>
+<token id="308" sentence="10" number="37">Holdings</token>
+<token id="309" sentence="10" number="38">shed</token>
+<token id="310" sentence="10" number="39">24</token>
+<token id="311" sentence="10" number="40">yen</token>
+<token id="312" sentence="10" number="41">or</token>
+<token id="313" sentence="10" number="42">1.92</token>
+<token id="314" sentence="10" number="43">percent</token>
+<token id="315" sentence="10" number="44">.</token>
+<token id="316" sentence="11" number="0">In</token>
+<token id="317" sentence="11" number="1">overseas</token>
+<token id="318" sentence="11" number="2">trading</token>
+<token id="319" sentence="11" number="3">,</token>
+<token id="320" sentence="11" number="4">U.S.</token>
+<token id="321" sentence="11" number="5">stocks</token>
+<token id="322" sentence="11" number="6">spent</token>
+<token id="323" sentence="11" number="7">much</token>
+<token id="324" sentence="11" number="8">of</token>
+<token id="325" sentence="11" number="9">Monday</token>
+<token id="326" sentence="11" number="10">'s</token>
+<token id="327" sentence="11" number="11">session</token>
+<token id="328" sentence="11" number="12">on</token>
+<token id="329" sentence="11" number="13">the</token>
+<token id="330" sentence="11" number="14">down</token>
+<token id="331" sentence="11" number="15">side</token>
+<token id="332" sentence="11" number="16">,</token>
+<token id="333" sentence="11" number="17">with</token>
+<token id="334" sentence="11" number="18">traders</token>
+<token id="335" sentence="11" number="19">concerned</token>
+<token id="336" sentence="11" number="20">about</token>
+<token id="337" sentence="11" number="21">a</token>
+<token id="338" sentence="11" number="22">budding</token>
+<token id="339" sentence="11" number="23">trade</token>
+<token id="340" sentence="11" number="24">tariff</token>
+<token id="341" sentence="11" number="25">dispute</token>
+<token id="342" sentence="11" number="26">between</token>
+<token id="343" sentence="11" number="27">the</token>
+<token id="344" sentence="11" number="28">U.S.</token>
+<token id="345" sentence="11" number="29">and</token>
+<token id="346" sentence="11" number="30">China</token>
+<token id="347" sentence="11" number="31">.</token>
+<token id="348" sentence="12" number="0">Stocks</token>
+<token id="349" sentence="12" number="1">turned</token>
+<token id="350" sentence="12" number="2">positive</token>
+<token id="351" sentence="12" number="3">in</token>
+<token id="352" sentence="12" number="4">the</token>
+<token id="353" sentence="12" number="5">final</token>
+<token id="354" sentence="12" number="6">hour</token>
+<token id="355" sentence="12" number="7">of</token>
+<token id="356" sentence="12" number="8">trading</token>
+<token id="357" sentence="12" number="9">however</token>
+<token id="358" sentence="12" number="10">,</token>
+<token id="359" sentence="12" number="11">and</token>
+<token id="360" sentence="12" number="12">managed</token>
+<token id="361" sentence="12" number="13">a</token>
+<token id="362" sentence="12" number="14">higher</token>
+<token id="363" sentence="12" number="15">close</token>
+<token id="364" sentence="12" number="16">.</token>
+<token id="365" sentence="13" number="0">At</token>
+<token id="366" sentence="13" number="1">the</token>
+<token id="367" sentence="13" number="2">closing</token>
+<token id="368" sentence="13" number="3">bell</token>
+<token id="369" sentence="13" number="4">on</token>
+<token id="370" sentence="13" number="5">Wall</token>
+<token id="371" sentence="13" number="6">Street</token>
+<token id="372" sentence="13" number="7">,</token>
+<token id="373" sentence="13" number="8">the</token>
+<token id="374" sentence="13" number="9">Dow</token>
+<token id="375" sentence="13" number="10">Jones</token>
+<token id="376" sentence="13" number="11">Industrial</token>
+<token id="377" sentence="13" number="12">Average</token>
+<token id="378" sentence="13" number="13">was</token>
+<token id="379" sentence="13" number="14">up</token>
+<token id="380" sentence="13" number="15">21.39</token>
+<token id="381" sentence="13" number="16">points</token>
+<token id="382" sentence="13" number="17">or</token>
+<token id="383" sentence="13" number="18">0.22</token>
+<token id="384" sentence="13" number="19">percent</token>
+<token id="385" sentence="13" number="20">at</token>
+<token id="386" sentence="13" number="21">9.626.80</token>
+<token id="387" sentence="13" number="22">,</token>
+<token id="388" sentence="13" number="23">the</token>
+<token id="389" sentence="13" number="24">Nasdaq</token>
+<token id="390" sentence="13" number="25">Composite</token>
+<token id="391" sentence="13" number="26">was</token>
+<token id="392" sentence="13" number="27">up</token>
+<token id="393" sentence="13" number="28">10.88</token>
+<token id="394" sentence="13" number="29">points</token>
+<token id="395" sentence="13" number="30">or</token>
+<token id="396" sentence="13" number="31">0.52</token>
+<token id="397" sentence="13" number="32">percent</token>
+<token id="398" sentence="13" number="33">at</token>
+<token id="399" sentence="13" number="34">2,091.78</token>
+<token id="400" sentence="13" number="35">and</token>
+<token id="401" sentence="13" number="36">the</token>
+<token id="402" sentence="13" number="37">Standard</token>
+<token id="403" sentence="13" number="38">&amp;</token>
+<token id="404" sentence="13" number="39">Poor</token>
+<token id="405" sentence="13" number="40">'s</token>
+<token id="406" sentence="13" number="41">500</token>
+<token id="407" sentence="13" number="42">index</token>
+<token id="408" sentence="13" number="43">was</token>
+<token id="409" sentence="13" number="44">up</token>
+<token id="410" sentence="13" number="45">6.61</token>
+<token id="411" sentence="13" number="46">points</token>
+<token id="412" sentence="13" number="47">or</token>
+<token id="413" sentence="13" number="48">0.63</token>
+<token id="414" sentence="13" number="49">percent</token>
+<token id="415" sentence="13" number="50">at</token>
+<token id="416" sentence="13" number="51">1,049.34</token>
+<token id="417" sentence="13" number="52">.</token>
+<token id="418" sentence="14" number="0">Nearly</token>
+<token id="419" sentence="14" number="1">all</token>
+<token id="420" sentence="14" number="2">of</token>
+<token id="421" sentence="14" number="3">the</token>
+<token id="422" sentence="14" number="4">major</token>
+<token id="423" sentence="14" number="5">Asia/Pacific</token>
+<token id="424" sentence="14" number="6">region</token>
+<token id="425" sentence="14" number="7">markets</token>
+<token id="426" sentence="14" number="8">closed</token>
+<token id="427" sentence="14" number="9">lower</token>
+<token id="428" sentence="14" number="10">on</token>
+<token id="429" sentence="14" number="11">Monday</token>
+<token id="430" sentence="14" number="12">.</token>
+<token id="431" sentence="15" number="0">Hong</token>
+<token id="432" sentence="15" number="1">Kong</token>
+<token id="433" sentence="15" number="2">'s</token>
+<token id="434" sentence="15" number="3">Hang</token>
+<token id="435" sentence="15" number="4">Seng</token>
+<token id="436" sentence="15" number="5">index</token>
+<token id="437" sentence="15" number="6">dropped</token>
+<token id="438" sentence="15" number="7">229.22</token>
+<token id="439" sentence="15" number="8">points</token>
+<token id="440" sentence="15" number="9">or</token>
+<token id="441" sentence="15" number="10">1.08</token>
+<token id="442" sentence="15" number="11">percent</token>
+<token id="443" sentence="15" number="12">to</token>
+<token id="444" sentence="15" number="13">20.932.20</token>
+<token id="445" sentence="15" number="14">.</token>
+<token id="446" sentence="16" number="0">China</token>
+<token id="447" sentence="16" number="1">'s</token>
+<token id="448" sentence="16" number="2">Shanghai</token>
+<token id="449" sentence="16" number="3">Composite</token>
+<token id="450" sentence="16" number="4">index</token>
+<token id="451" sentence="16" number="5">managed</token>
+<token id="452" sentence="16" number="6">a</token>
+<token id="453" sentence="16" number="7">gain</token>
+<token id="454" sentence="16" number="8">of</token>
+<token id="455" sentence="16" number="9">36.95</token>
+<token id="456" sentence="16" number="10">points</token>
+<token id="457" sentence="16" number="11">or</token>
+<token id="458" sentence="16" number="12">1.24</token>
+<token id="459" sentence="16" number="13">percent</token>
+<token id="460" sentence="16" number="14">to</token>
+<token id="461" sentence="16" number="15">close</token>
+<token id="462" sentence="16" number="16">at</token>
+<token id="463" sentence="16" number="17">3.026.74</token>
+<token id="464" sentence="16" number="18">.</token>
+<token id="465" sentence="17" number="0">In</token>
+<token id="466" sentence="17" number="1">India</token>
+<token id="467" sentence="17" number="2">,</token>
+<token id="468" sentence="17" number="3">the</token>
+<token id="469" sentence="17" number="4">BSE/SENSEX</token>
+<token id="470" sentence="17" number="5">index</token>
+<token id="471" sentence="17" number="6">was</token>
+<token id="472" sentence="17" number="7">down</token>
+<token id="473" sentence="17" number="8">50.11</token>
+<token id="474" sentence="17" number="9">points</token>
+<token id="475" sentence="17" number="10">or</token>
+<token id="476" sentence="17" number="11">0.31</token>
+<token id="477" sentence="17" number="12">percent</token>
+<token id="478" sentence="17" number="13">at</token>
+<token id="479" sentence="17" number="14">16,214.19</token>
+<token id="480" sentence="17" number="15">.</token>
+<token id="481" sentence="18" number="0">Indonesia</token>
+<token id="482" sentence="18" number="1">'s</token>
+<token id="483" sentence="18" number="2">Jakarta</token>
+<token id="484" sentence="18" number="3">Composite</token>
+<token id="485" sentence="18" number="4">index</token>
+<token id="486" sentence="18" number="5">declined</token>
+<token id="487" sentence="18" number="6">33.24</token>
+<token id="488" sentence="18" number="7">points</token>
+<token id="489" sentence="18" number="8">or</token>
+<token id="490" sentence="18" number="9">1.38</token>
+<token id="491" sentence="18" number="10">percent</token>
+<token id="492" sentence="18" number="11">to</token>
+<token id="493" sentence="18" number="12">2.382.70</token>
+<token id="494" sentence="18" number="13">.</token>
+<token id="495" sentence="19" number="0">The</token>
+<token id="496" sentence="19" number="1">KOSPI/Seoul</token>
+<token id="497" sentence="19" number="2">Composite</token>
+<token id="498" sentence="19" number="3">index</token>
+<token id="499" sentence="19" number="4">in</token>
+<token id="500" sentence="19" number="5">South</token>
+<token id="501" sentence="19" number="6">Korea</token>
+<token id="502" sentence="19" number="7">was</token>
+<token id="503" sentence="19" number="8">down</token>
+<token id="504" sentence="19" number="9">16.79</token>
+<token id="505" sentence="19" number="10">points</token>
+<token id="506" sentence="19" number="11">or</token>
+<token id="507" sentence="19" number="12">1.02</token>
+<token id="508" sentence="19" number="13">percent</token>
+<token id="509" sentence="19" number="14">at</token>
+<token id="510" sentence="19" number="15">1,634.91</token>
+<token id="511" sentence="19" number="16">.</token>
+<token id="512" sentence="20" number="0">The</token>
+<token id="513" sentence="20" number="1">Taiwan</token>
+<token id="514" sentence="20" number="2">Weighted</token>
+<token id="515" sentence="20" number="3">Index</token>
+<token id="516" sentence="20" number="4">fell</token>
+<token id="517" sentence="20" number="5">80.19</token>
+<token id="518" sentence="20" number="6">points</token>
+<token id="519" sentence="20" number="7">or</token>
+<token id="520" sentence="20" number="8">1.09</token>
+<token id="521" sentence="20" number="9">percent</token>
+<token id="522" sentence="20" number="10">to</token>
+<token id="523" sentence="20" number="11">7,256.95</token>
+<token id="524" sentence="20" number="12">.</token>
+<token id="525" sentence="21" number="0">For</token>
+<token id="526" sentence="21" number="1">comments</token>
+<token id="527" sentence="21" number="2">and</token>
+<token id="528" sentence="21" number="3">feedback</token>
+<token id="529" sentence="21" number="4">:</token>
+<token id="530" sentence="21" number="5">contact</token>
+<token id="531" sentence="21" number="6">editorial@rttnews.com</token>
+<token id="532" sentence="21" number="7">Copyright</token>
+<token id="533" sentence="21" number="8">(</token>
+<token id="534" sentence="21" number="9">c</token>
+<token id="535" sentence="21" number="10">)</token>
+<token id="536" sentence="21" number="11">2009</token>
+<token id="537" sentence="21" number="12">RTTNews.com</token>
+<token id="538" sentence="21" number="13">,</token>
+<token id="539" sentence="21" number="14">Inc.</token>
+<token id="540" sentence="21" number="15">.</token>
+<token id="541" sentence="22" number="0">All</token>
+<token id="542" sentence="22" number="1">Rights</token>
+<token id="543" sentence="22" number="2">Reserved</token>
+
+
+<Markables>
+<ENTITY_MENTION id="18" syntactic_type="" head="" comment=""  >
+<token_anchor id="148"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="80" syntactic_type="" head="" comment=""  >
+<token_anchor id="481"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="20" syntactic_type="" head="" comment=""  >
+<token_anchor id="157"/>
+<token_anchor id="158"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="82" syntactic_type="" head="" comment=""  >
+<token_anchor id="483"/>
+<token_anchor id="484"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="22" syntactic_type="" head="" comment=""  >
+<token_anchor id="169"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="83" syntactic_type="" head="" comment=""  >
+<token_anchor id="496"/>
+<token_anchor id="497"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="24" syntactic_type="" head="" comment=""  >
+<token_anchor id="178"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="84" syntactic_type="" head="" comment=""  >
+<token_anchor id="500"/>
+<token_anchor id="501"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="26" syntactic_type="" head="" comment=""  >
+<token_anchor id="187"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="86" syntactic_type="" head="" comment=""  >
+<token_anchor id="513"/>
+<token_anchor id="514"/>
+<token_anchor id="515"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="28" syntactic_type="" head="" comment=""  >
+<token_anchor id="189"/>
+<token_anchor id="190"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="29" syntactic_type="" head="" comment=""  >
+<token_anchor id="199"/>
+<token_anchor id="200"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="94" head="" syntactic_type="" comment=""  >
+<token_anchor id="93"/>
+<token_anchor id="94"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="31" syntactic_type="" head="" comment=""  >
+<token_anchor id="212"/>
+<token_anchor id="213"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="33" syntactic_type="" head="" comment=""  >
+<token_anchor id="215"/>
+<token_anchor id="216"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="35" syntactic_type="" head="" comment=""  >
+<token_anchor id="225"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="37" syntactic_type="" head="" comment=""  >
+<token_anchor id="232"/>
+<token_anchor id="233"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="39" syntactic_type="" head="" comment=""  >
+<token_anchor id="241"/>
+<token_anchor id="242"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="41" syntactic_type="" head="" comment=""  >
+<token_anchor id="251"/>
+<token_anchor id="252"/>
+<token_anchor id="253"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="43" syntactic_type="" head="" comment=""  >
+<token_anchor id="262"/>
+<token_anchor id="263"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="45" syntactic_type="" head="" comment=""  >
+<token_anchor id="276"/>
+<token_anchor id="277"/>
+<token_anchor id="278"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="47" syntactic_type="" head="" comment=""  >
+<token_anchor id="287"/>
+<token_anchor id="288"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="49" syntactic_type="" head="" comment=""  >
+<token_anchor id="297"/>
+<token_anchor id="298"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="51" syntactic_type="" head="" comment=""  >
+<token_anchor id="307"/>
+<token_anchor id="308"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="53" syntactic_type="" head="" comment=""  >
+<token_anchor id="320"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="55" syntactic_type="" head="" comment=""  >
+<token_anchor id="344"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="57" syntactic_type="" head="" comment=""  >
+<token_anchor id="346"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="59" syntactic_type="" head="" comment=""  >
+<token_anchor id="370"/>
+<token_anchor id="371"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="61" syntactic_type="" head="" comment=""  >
+<token_anchor id="374"/>
+<token_anchor id="375"/>
+<token_anchor id="376"/>
+<token_anchor id="377"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="63" syntactic_type="" head="" comment=""  >
+<token_anchor id="389"/>
+<token_anchor id="390"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="1" syntactic_type="" head="" comment=""  >
+<token_anchor id="5"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="65" syntactic_type="" head="" comment=""  >
+<token_anchor id="402"/>
+<token_anchor id="403"/>
+<token_anchor id="404"/>
+<token_anchor id="405"/>
+<token_anchor id="406"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="3" syntactic_type="" head="" comment=""  >
+<token_anchor id="17"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="67" syntactic_type="" head="" comment=""  >
+<token_anchor id="423"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="5" syntactic_type="" head="" comment=""  >
+<token_anchor id="39"/>
+<token_anchor id="40"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="68" syntactic_type="" head="" comment=""  >
+<token_anchor id="431"/>
+<token_anchor id="432"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="7" syntactic_type="" head="" comment=""  >
+<token_anchor id="42"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="70" syntactic_type="" head="" comment=""  >
+<token_anchor id="434"/>
+<token_anchor id="435"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="9" syntactic_type="" head="" comment=""  >
+<token_anchor id="63"/>
+<token_anchor id="64"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="72" syntactic_type="" head="" comment=""  >
+<token_anchor id="446"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="11" syntactic_type="" head="" comment=""  >
+<token_anchor id="66"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="74" syntactic_type="" head="" comment=""  >
+<token_anchor id="448"/>
+<token_anchor id="449"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="14" syntactic_type="" head="" comment=""  >
+<token_anchor id="109"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="76" syntactic_type="" head="" comment=""  >
+<token_anchor id="466"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="16" syntactic_type="" head="" comment=""  >
+<token_anchor id="129"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="78" syntactic_type="" head="" comment=""  >
+<token_anchor id="469"/>
+</ENTITY_MENTION>
+<SIGNAL id="89" comment=""  >
+<token_anchor id="526"/>
+</SIGNAL>
+
+
+<ENTITY id="2" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan" />
+<ENTITY id="4" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan" />
+<ENTITY id="6" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/New_York_Stock_Exchange" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/New_York_Stock_Exchange" />
+<ENTITY id="8" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="10" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Lehman_Brothers" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Lehman_Brothers" />
+<ENTITY id="12" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan" />
+<ENTITY id="13" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Nikkei_225" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Nikkei_225" />
+<ENTITY id="15" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Nikkei_225" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Nikkei_225" />
+<ENTITY id="17" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/TOPIX" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/TOPIX" />
+<ENTITY id="19" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Honda" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Honda" />
+<ENTITY id="21" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Toyota" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Toyota" />
+<ENTITY id="23" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bridgestone" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bridgestone" />
+<ENTITY id="25" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Canon_Inc." ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Canon_Inc." />
+<ENTITY id="27" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Subaru" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Subaru" />
+<ENTITY id="30" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan_Airlines" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan_Airlines" />
+<ENTITY id="32" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/American_Airlines" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/American_Airlines" />
+<ENTITY id="34" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Delta_Air_Lines" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Delta_Air_Lines" />
+<ENTITY id="36" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan_Airlines" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan_Airlines" />
+<ENTITY id="38" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Nippon_Steel" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Nippon_Steel" />
+<ENTITY id="40" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/JFE_Holdings" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/JFE_Holdings" />
+<ENTITY id="42" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Sumitomo_Metal_Industries" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Sumitomo_Metal_Industries" />
+<ENTITY id="44" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Kobe_Steel" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Kobe_Steel" />
+<ENTITY id="46" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Mitsubishi_UFJ_Financial_Group" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Mitsubishi_UFJ_Financial_Group" />
+<ENTITY id="48" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Mizuho_Financial_Group" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Mizuho_Financial_Group" />
+<ENTITY id="50" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" />
+<ENTITY id="52" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Resona_Holdings" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Resona_Holdings" />
+<ENTITY id="54" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="56" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/United_States" />
+<ENTITY id="58" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/China" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/China" />
+<ENTITY id="60" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/New_York_Stock_Exchange" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/New_York_Stock_Exchange" />
+<ENTITY id="62" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" />
+<ENTITY id="64" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Nasdaq_Composite" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Nasdaq_Composite" />
+<ENTITY id="66" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/S&amp;P_500" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/S&amp;P_500" />
+<ENTITY id="69" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hong_Kong" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hong_Kong" />
+<ENTITY id="71" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hang_Seng_Index" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hang_Seng_Index" />
+<ENTITY id="73" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/China" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/China" />
+<ENTITY id="75" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/SSE_Composite_Index" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/SSE_Composite_Index" />
+<ENTITY id="77" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/India" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/India" />
+<ENTITY id="79" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/BSE_SENSEX" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/BSE_SENSEX" />
+<ENTITY id="81" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Indonesia" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Indonesia" />
+<ENTITY id="85" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/South_Korea" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/South_Korea" />
+<ENTITY id="87" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="88" RELATED_TO="" TAG_DESCRIPTOR="-NAE-" ent_type="" ent_class="" comment="" external_ref="-NAE-" />
+<ENTITY id="90" RELATED_TO="" TAG_DESCRIPTOR=" 	dbpedia:http://dbpedia.org/resource/Fuji_Heavy_Industries" ent_type="PER" ent_class="" comment="" external_ref=" 	dbpedia:http://dbpedia.org/resource/Fuji_Heavy_Industries" />
+<ENTITY id="91" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/JSX_Composite" ent_type="PER" ent_class="" comment="" external_ref="http://dbpedia.org/resource/JSX_Composite" />
+<ENTITY id="92" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/http://dbpedia.org/resource/KOSPI" ent_type="PER" ent_class="" comment="" external_ref="http://dbpedia.org/resource/http://dbpedia.org/resource/KOSPI" />
+<ENTITY id="93" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Taiwan_Capitalization_Weighted_Stock_Index" ent_type="PER" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Taiwan_Capitalization_Weighted_Stock_Index" />
+<ENTITY id="95" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Asia" ent_type="" ent_class="" external_ref="" comment="" />
+<ENTITY id="96" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Pacific_Ocean" ent_type="" ent_class="" external_ref="" comment="" />
+</Markables>
+
+<Relations>
+<REFERS_TO id="433233" >
+<source id="49" />
+<target id="50" />
+</REFERS_TO>
+<REFERS_TO id="433234" >
+<source id="59" />
+<target id="60" />
+</REFERS_TO>
+<REFERS_TO id="433235" >
+<source id="61" />
+<target id="62" />
+</REFERS_TO>
+<REFERS_TO id="433236" >
+<source id="51" />
+<target id="52" />
+</REFERS_TO>
+<REFERS_TO id="433237" >
+<source id="65" />
+<target id="66" />
+</REFERS_TO>
+<REFERS_TO id="433238" >
+<source id="67" />
+<target id="95" />
+</REFERS_TO>
+<REFERS_TO id="433239" >
+<source id="78" />
+<target id="79" />
+</REFERS_TO>
+<REFERS_TO id="433240" >
+<source id="84" />
+<target id="85" />
+</REFERS_TO>
+<REFERS_TO id="433241" >
+<source id="22" />
+<target id="23" />
+</REFERS_TO>
+<REFERS_TO id="433242" >
+<source id="24" />
+<target id="25" />
+</REFERS_TO>
+<REFERS_TO id="433243" >
+<source id="18" />
+<target id="19" />
+</REFERS_TO>
+<REFERS_TO id="433244" >
+<source id="20" />
+<target id="21" />
+</REFERS_TO>
+<REFERS_TO id="433245" >
+<source id="47" />
+<target id="48" />
+</REFERS_TO>
+<REFERS_TO id="433246" >
+<source id="45" />
+<target id="46" />
+</REFERS_TO>
+<REFERS_TO id="433247" >
+<source id="43" />
+<target id="44" />
+</REFERS_TO>
+<REFERS_TO id="433248" >
+<source id="26" />
+<target id="27" />
+</REFERS_TO>
+<REFERS_TO id="433249" >
+<source id="41" />
+<target id="42" />
+</REFERS_TO>
+<REFERS_TO id="433250" >
+<source id="39" />
+<target id="40" />
+</REFERS_TO>
+<REFERS_TO id="433251" >
+<source id="1" />
+<target id="2" />
+</REFERS_TO>
+<REFERS_TO id="433252" >
+<source id="3" />
+<target id="4" />
+</REFERS_TO>
+<REFERS_TO id="433253" >
+<source id="5" />
+<target id="6" />
+</REFERS_TO>
+<REFERS_TO id="433255" >
+<source id="80" />
+<target id="81" />
+</REFERS_TO>
+<REFERS_TO id="433256" >
+<source id="74" />
+<target id="75" />
+</REFERS_TO>
+<REFERS_TO id="433257" >
+<source id="72" />
+<target id="73" />
+</REFERS_TO>
+<REFERS_TO id="433258" >
+<source id="70" />
+<target id="71" />
+</REFERS_TO>
+<REFERS_TO id="433259" >
+<source id="68" />
+<target id="69" />
+</REFERS_TO>
+<REFERS_TO id="433262" >
+<source id="76" />
+<target id="77" />
+</REFERS_TO>
+<REFERS_TO id="433263" >
+<source id="9" />
+<target id="10" />
+</REFERS_TO>
+<REFERS_TO id="433264" >
+<source id="37" />
+<target id="38" />
+</REFERS_TO>
+<REFERS_TO id="433265" >
+<source id="11" />
+<target id="12" />
+</REFERS_TO>
+<REFERS_TO id="433266" >
+<source id="57" />
+<target id="58" />
+</REFERS_TO>
+<REFERS_TO id="433267" >
+<source id="94" />
+<target id="13" />
+</REFERS_TO>
+<REFERS_TO id="433268" >
+<source id="14" />
+<target id="15" />
+</REFERS_TO>
+<REFERS_TO id="433269" >
+<source id="31" />
+<target id="32" />
+</REFERS_TO>
+<REFERS_TO id="433270" >
+<source id="16" />
+<target id="17" />
+</REFERS_TO>
+<REFERS_TO id="433271" >
+<source id="29" />
+<target id="30" />
+</REFERS_TO>
+<REFERS_TO id="433272" >
+<source id="35" />
+<target id="36" />
+</REFERS_TO>
+<REFERS_TO id="433273" >
+<source id="33" />
+<target id="34" />
+</REFERS_TO>
+<REFERS_TO id="433275" >
+<source id="55" />
+<target id="56" />
+</REFERS_TO>
+<REFERS_TO id="433276" >
+<source id="63" />
+<target id="64" />
+</REFERS_TO>
+<REFERS_TO id="433924" >
+<source id="7" />
+<target id="56" />
+</REFERS_TO>
+<REFERS_TO id="433926" >
+<source id="28" />
+<target id="90" />
+</REFERS_TO>
+<REFERS_TO id="433927" >
+<source id="35" />
+<target id="30" />
+</REFERS_TO>
+<REFERS_TO id="433928" >
+<source id="53" />
+<target id="56" />
+</REFERS_TO>
+<REFERS_TO id="433929" >
+<source id="82" />
+<target id="91" />
+</REFERS_TO>
+<REFERS_TO id="433930" >
+<source id="83" />
+<target id="92" />
+</REFERS_TO>
+<REFERS_TO id="433931" >
+<source id="86" />
+<target id="93" />
+</REFERS_TO>
+<REFERS_TO id="433933" >
+<source id="67" />
+<target id="96" />
+</REFERS_TO>
+</Relations>
+</Document>

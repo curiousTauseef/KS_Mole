@@ -1,0 +1,603 @@
+<Document doc_name="4CRP-WTT0-00GD-20CP.xml">
+<token id="1" sentence="0" number="0">AUTOMOTIVE</token>
+<token id="2" sentence="0" number="1">SUPPLIER</token>
+<token id="3" sentence="0" number="2">DENSO</token>
+<token id="4" sentence="0" number="3">TO</token>
+<token id="5" sentence="0" number="4">CARRY</token>
+<token id="6" sentence="0" number="5">OUT</token>
+<token id="7" sentence="0" number="6">EUR</token>
+<token id="8" sentence="0" number="7">95</token>
+<token id="9" sentence="0" number="8">MILLION</token>
+<token id="10" sentence="0" number="9">CAPACITY</token>
+<token id="11" sentence="1" number="0">AUTOMOTIVE</token>
+<token id="12" sentence="1" number="1">SUPPLIER</token>
+<token id="13" sentence="1" number="2">DENSO</token>
+<token id="14" sentence="1" number="3">TO</token>
+<token id="15" sentence="1" number="4">CARRY</token>
+<token id="16" sentence="1" number="5">OUT</token>
+<token id="17" sentence="1" number="6">EUR</token>
+<token id="18" sentence="1" number="7">95</token>
+<token id="19" sentence="1" number="8">MILLION</token>
+<token id="20" sentence="1" number="9">CAPACITY</token>
+<token id="21" sentence="1" number="10">EXPANSION</token>
+<token id="22" sentence="1" number="11">Denso</token>
+<token id="23" sentence="1" number="12">Hungary</token>
+<token id="24" sentence="1" number="13">Kft</token>
+<token id="25" sentence="1" number="14">,</token>
+<token id="26" sentence="1" number="15">a</token>
+<token id="27" sentence="1" number="16">subsidiary</token>
+<token id="28" sentence="1" number="17">of</token>
+<token id="29" sentence="1" number="18">Japanese</token>
+<token id="30" sentence="1" number="19">automotive</token>
+<token id="31" sentence="1" number="20">supplier</token>
+<token id="32" sentence="1" number="21">Denso</token>
+<token id="33" sentence="1" number="22">Corporation</token>
+<token id="34" sentence="1" number="23">,</token>
+<token id="35" sentence="1" number="24">is</token>
+<token id="36" sentence="1" number="25">carrying</token>
+<token id="37" sentence="1" number="26">out</token>
+<token id="38" sentence="1" number="27">a</token>
+<token id="39" sentence="1" number="28">EUR</token>
+<token id="40" sentence="1" number="29">95</token>
+<token id="41" sentence="1" number="30">million</token>
+<token id="42" sentence="1" number="31">investment</token>
+<token id="43" sentence="1" number="32">to</token>
+<token id="44" sentence="1" number="33">expand</token>
+<token id="45" sentence="1" number="34">component</token>
+<token id="46" sentence="1" number="35">manufacturing</token>
+<token id="47" sentence="1" number="36">capacities</token>
+<token id="48" sentence="1" number="37">in</token>
+<token id="49" sentence="1" number="38">the</token>
+<token id="50" sentence="1" number="39">city</token>
+<token id="51" sentence="1" number="40">of</token>
+<token id="52" sentence="1" number="41">Szekesfehervar</token>
+<token id="53" sentence="1" number="42">.</token>
+<token id="54" sentence="2" number="0">The</token>
+<token id="55" sentence="2" number="1">investment</token>
+<token id="56" sentence="2" number="2">will</token>
+<token id="57" sentence="2" number="3">be</token>
+<token id="58" sentence="2" number="4">supported</token>
+<token id="59" sentence="2" number="5">with</token>
+<token id="60" sentence="2" number="6">a</token>
+<token id="61" sentence="2" number="7">EUR</token>
+<token id="62" sentence="2" number="8">9.5</token>
+<token id="63" sentence="2" number="9">million</token>
+<token id="64" sentence="2" number="10">government</token>
+<token id="65" sentence="2" number="11">grant</token>
+<token id="66" sentence="2" number="12">.</token>
+<token id="67" sentence="3" number="0">The</token>
+<token id="68" sentence="3" number="1">aid</token>
+<token id="69" sentence="3" number="2">was</token>
+<token id="70" sentence="3" number="3">granted</token>
+<token id="71" sentence="3" number="4">by</token>
+<token id="72" sentence="3" number="5">the</token>
+<token id="73" sentence="3" number="6">economy</token>
+<token id="74" sentence="3" number="7">ministry</token>
+<token id="75" sentence="3" number="8">on</token>
+<token id="76" sentence="3" number="9">an</token>
+<token id="77" sentence="3" number="10">individual</token>
+<token id="78" sentence="3" number="11">basis</token>
+<token id="79" sentence="3" number="12">,</token>
+<token id="80" sentence="3" number="13">a</token>
+<token id="81" sentence="3" number="14">form</token>
+<token id="82" sentence="3" number="15">of</token>
+<token id="83" sentence="3" number="16">support</token>
+<token id="84" sentence="3" number="17">that</token>
+<token id="85" sentence="3" number="18">is</token>
+<token id="86" sentence="3" number="19">available</token>
+<token id="87" sentence="3" number="20">for</token>
+<token id="88" sentence="3" number="21">large</token>
+<token id="89" sentence="3" number="22">firms</token>
+<token id="90" sentence="3" number="23">who</token>
+<token id="91" sentence="3" number="24">plan</token>
+<token id="92" sentence="3" number="25">to</token>
+<token id="93" sentence="3" number="26">carry</token>
+<token id="94" sentence="3" number="27">out</token>
+<token id="95" sentence="3" number="28">investments</token>
+<token id="96" sentence="3" number="29">exceeding</token>
+<token id="97" sentence="3" number="30">EUR</token>
+<token id="98" sentence="3" number="31">50</token>
+<token id="99" sentence="3" number="32">million</token>
+<token id="100" sentence="3" number="33">.</token>
+<token id="101" sentence="4" number="0">This</token>
+<token id="102" sentence="4" number="1">new</token>
+<token id="103" sentence="4" number="2">,</token>
+<token id="104" sentence="4" number="3">EU-compatible</token>
+<token id="105" sentence="4" number="4">support</token>
+<token id="106" sentence="4" number="5">form</token>
+<token id="107" sentence="4" number="6">was</token>
+<token id="108" sentence="4" number="7">first</token>
+<token id="109" sentence="4" number="8">applied</token>
+<token id="110" sentence="4" number="9">to</token>
+<token id="111" sentence="4" number="10">electronics</token>
+<token id="112" sentence="4" number="11">manufacturer</token>
+<token id="113" sentence="4" number="12">Bosch</token>
+<token id="114" sentence="4" number="13">,</token>
+<token id="115" sentence="4" number="14">which</token>
+<token id="116" sentence="4" number="15">signed</token>
+<token id="117" sentence="4" number="16">a</token>
+<token id="118" sentence="4" number="17">EUR</token>
+<token id="119" sentence="4" number="18">15</token>
+<token id="120" sentence="4" number="19">million</token>
+<token id="121" sentence="4" number="20">support</token>
+<token id="122" sentence="4" number="21">agreement</token>
+<token id="123" sentence="4" number="22">last</token>
+<token id="124" sentence="4" number="23">week</token>
+<token id="125" sentence="4" number="24">.</token>
+<token id="126" sentence="5" number="0">Construction</token>
+<token id="127" sentence="5" number="1">of</token>
+<token id="128" sentence="5" number="2">Denso</token>
+<token id="129" sentence="5" number="3">'s</token>
+<token id="130" sentence="5" number="4">new</token>
+<token id="131" sentence="5" number="5">facilities</token>
+<token id="132" sentence="5" number="6">will</token>
+<token id="133" sentence="5" number="7">be</token>
+<token id="134" sentence="5" number="8">completed</token>
+<token id="135" sentence="5" number="9">at</token>
+<token id="136" sentence="5" number="10">the</token>
+<token id="137" sentence="5" number="11">end</token>
+<token id="138" sentence="5" number="12">of</token>
+<token id="139" sentence="5" number="13">August</token>
+<token id="140" sentence="5" number="14">.</token>
+<token id="141" sentence="6" number="0">The</token>
+<token id="142" sentence="6" number="1">company</token>
+<token id="143" sentence="6" number="2">will</token>
+<token id="144" sentence="6" number="3">manufacture</token>
+<token id="145" sentence="6" number="4">diesel</token>
+<token id="146" sentence="6" number="5">fuel</token>
+<token id="147" sentence="6" number="6">pumps</token>
+<token id="148" sentence="6" number="7">that</token>
+<token id="149" sentence="6" number="8">will</token>
+<token id="150" sentence="6" number="9">be</token>
+<token id="151" sentence="6" number="10">used</token>
+<token id="152" sentence="6" number="11">in</token>
+<token id="153" sentence="6" number="12">Ford</token>
+<token id="154" sentence="6" number="13">and</token>
+<token id="155" sentence="6" number="14">Fiat</token>
+<token id="156" sentence="6" number="15">engines</token>
+<token id="157" sentence="6" number="16">.</token>
+<token id="158" sentence="7" number="0">The</token>
+<token id="159" sentence="7" number="1">new</token>
+<token id="160" sentence="7" number="2">factories</token>
+<token id="161" sentence="7" number="3">will</token>
+<token id="162" sentence="7" number="4">employ</token>
+<token id="163" sentence="7" number="5">1100</token>
+<token id="164" sentence="7" number="6">workers</token>
+<token id="165" sentence="7" number="7">,</token>
+<token id="166" sentence="7" number="8">taking</token>
+<token id="167" sentence="7" number="9">the</token>
+<token id="168" sentence="7" number="10">number</token>
+<token id="169" sentence="7" number="11">of</token>
+<token id="170" sentence="7" number="12">workers</token>
+<token id="171" sentence="7" number="13">at</token>
+<token id="172" sentence="7" number="14">Denso</token>
+<token id="173" sentence="7" number="15">Hungary</token>
+<token id="174" sentence="7" number="16">to</token>
+<token id="175" sentence="7" number="17">2500</token>
+<token id="176" sentence="7" number="18">by</token>
+<token id="177" sentence="7" number="19">the</token>
+<token id="178" sentence="7" number="20">end</token>
+<token id="179" sentence="7" number="21">of</token>
+<token id="180" sentence="7" number="22">2005</token>
+<token id="181" sentence="7" number="23">.</token>
+<token id="182" sentence="8" number="0">As</token>
+<token id="183" sentence="8" number="1">a</token>
+<token id="184" sentence="8" number="2">result</token>
+<token id="185" sentence="8" number="3">of</token>
+<token id="186" sentence="8" number="4">the</token>
+<token id="187" sentence="8" number="5">investment</token>
+<token id="188" sentence="8" number="6">,</token>
+<token id="189" sentence="8" number="7">Denso</token>
+<token id="190" sentence="8" number="8">Hungary</token>
+<token id="191" sentence="8" number="9">'s</token>
+<token id="192" sentence="8" number="10">sales</token>
+<token id="193" sentence="8" number="11">revenues</token>
+<token id="194" sentence="8" number="12">are</token>
+<token id="195" sentence="8" number="13">expected</token>
+<token id="196" sentence="8" number="14">to</token>
+<token id="197" sentence="8" number="15">rise</token>
+<token id="198" sentence="8" number="16">from</token>
+<token id="199" sentence="8" number="17">EUR</token>
+<token id="200" sentence="8" number="18">133</token>
+<token id="201" sentence="8" number="19">million</token>
+<token id="202" sentence="8" number="20">last</token>
+<token id="203" sentence="8" number="21">year</token>
+<token id="204" sentence="8" number="22">to</token>
+<token id="205" sentence="8" number="23">EUR</token>
+<token id="206" sentence="8" number="24">320</token>
+<token id="207" sentence="8" number="25">million</token>
+<token id="208" sentence="8" number="26">by</token>
+<token id="209" sentence="8" number="27">2006</token>
+<token id="210" sentence="8" number="28">.</token>
+<token id="211" sentence="9" number="0">Currently</token>
+<token id="212" sentence="9" number="1">,</token>
+<token id="213" sentence="9" number="2">the</token>
+<token id="214" sentence="9" number="3">company</token>
+<token id="215" sentence="9" number="4">'s</token>
+<token id="216" sentence="9" number="5">major</token>
+<token id="217" sentence="9" number="6">clients</token>
+<token id="218" sentence="9" number="7">are</token>
+<token id="219" sentence="9" number="8">Toyota</token>
+<token id="220" sentence="9" number="9">,</token>
+<token id="221" sentence="9" number="10">Isuzu</token>
+<token id="222" sentence="9" number="11">,</token>
+<token id="223" sentence="9" number="12">Nissan</token>
+<token id="224" sentence="9" number="13">,</token>
+<token id="225" sentence="9" number="14">Volkswagen</token>
+<token id="226" sentence="9" number="15">and</token>
+<token id="227" sentence="9" number="16">Audi</token>
+<token id="228" sentence="9" number="17">,</token>
+<token id="229" sentence="9" number="18">but</token>
+<token id="230" sentence="9" number="19">the</token>
+<token id="231" sentence="9" number="20">Hungarian</token>
+<token id="232" sentence="9" number="21">subsidiary</token>
+<token id="233" sentence="9" number="22">also</token>
+<token id="234" sentence="9" number="23">delivers</token>
+<token id="235" sentence="9" number="24">components</token>
+<token id="236" sentence="9" number="25">used</token>
+<token id="237" sentence="9" number="26">in</token>
+<token id="238" sentence="9" number="27">Land</token>
+<token id="239" sentence="9" number="28">Rover</token>
+<token id="240" sentence="9" number="29">,</token>
+<token id="241" sentence="9" number="30">Ford</token>
+<token id="242" sentence="9" number="31">,</token>
+<token id="243" sentence="9" number="32">Jaguar</token>
+<token id="244" sentence="9" number="33">,</token>
+<token id="245" sentence="9" number="34">Peugeot</token>
+<token id="246" sentence="9" number="35">and</token>
+<token id="247" sentence="9" number="36">Lamborghini</token>
+<token id="248" sentence="9" number="37">cars</token>
+<token id="249" sentence="9" number="38">.</token>
+<token id="250" sentence="10" number="0">The</token>
+<token id="251" sentence="10" number="1">output</token>
+<token id="252" sentence="10" number="2">of</token>
+<token id="253" sentence="10" number="3">Hungary</token>
+<token id="254" sentence="10" number="4">'s</token>
+<token id="255" sentence="10" number="5">automotive</token>
+<token id="256" sentence="10" number="6">industry</token>
+<token id="257" sentence="10" number="7">totaled</token>
+<token id="258" sentence="10" number="8">USD</token>
+<token id="259" sentence="10" number="9">8.46</token>
+<token id="260" sentence="10" number="10">billion</token>
+<token id="261" sentence="10" number="11">in</token>
+<token id="262" sentence="10" number="12">2003</token>
+<token id="263" sentence="10" number="13">,</token>
+<token id="264" sentence="10" number="14">and</token>
+<token id="265" sentence="10" number="15">accounted</token>
+<token id="266" sentence="10" number="16">for</token>
+<token id="267" sentence="10" number="17">15</token>
+<token id="268" sentence="10" number="18">%</token>
+<token id="269" sentence="10" number="19">of</token>
+<token id="270" sentence="10" number="20">all</token>
+<token id="271" sentence="10" number="21">manufacturing</token>
+<token id="272" sentence="10" number="22">in</token>
+<token id="273" sentence="10" number="23">Hungary</token>
+<token id="274" sentence="10" number="24">,</token>
+<token id="275" sentence="10" number="25">according</token>
+<token id="276" sentence="10" number="26">to</token>
+<token id="277" sentence="10" number="27">the</token>
+<token id="278" sentence="10" number="28">ministry</token>
+<token id="279" sentence="10" number="29">'s</token>
+<token id="280" sentence="10" number="30">figures</token>
+<token id="281" sentence="10" number="31">.</token>
+<token id="282" sentence="11" number="0">Within</token>
+<token id="283" sentence="11" number="1">this</token>
+<token id="284" sentence="11" number="2">,</token>
+<token id="285" sentence="11" number="3">automotive</token>
+<token id="286" sentence="11" number="4">component</token>
+<token id="287" sentence="11" number="5">manufacturers</token>
+<token id="288" sentence="11" number="6">recorded</token>
+<token id="289" sentence="11" number="7">sales</token>
+<token id="290" sentence="11" number="8">approaching</token>
+<token id="291" sentence="11" number="9">USD</token>
+<token id="292" sentence="11" number="10">1.5</token>
+<token id="293" sentence="11" number="11">billion</token>
+<token id="294" sentence="11" number="12">.</token>
+<token id="295" sentence="12" number="0">In</token>
+<token id="296" sentence="12" number="1">all</token>
+<token id="297" sentence="12" number="2">,</token>
+<token id="298" sentence="12" number="3">13</token>
+<token id="299" sentence="12" number="4">of</token>
+<token id="300" sentence="12" number="5">the</token>
+<token id="301" sentence="12" number="6">world</token>
+<token id="302" sentence="12" number="7">'s</token>
+<token id="303" sentence="12" number="8">30</token>
+<token id="304" sentence="12" number="9">largest</token>
+<token id="305" sentence="12" number="10">automotive</token>
+<token id="306" sentence="12" number="11">suppliers</token>
+<token id="307" sentence="12" number="12">are</token>
+<token id="308" sentence="12" number="13">present</token>
+<token id="309" sentence="12" number="14">in</token>
+<token id="310" sentence="12" number="15">Hungary</token>
+<token id="311" sentence="12" number="16">.</token>
+<token id="312" sentence="13" number="0">Of</token>
+<token id="313" sentence="13" number="1">cars</token>
+<token id="314" sentence="13" number="2">assembled</token>
+<token id="315" sentence="13" number="3">in</token>
+<token id="316" sentence="13" number="4">Hungary</token>
+<token id="317" sentence="13" number="5">,</token>
+<token id="318" sentence="13" number="6">94.3</token>
+<token id="319" sentence="13" number="7">%</token>
+<token id="320" sentence="13" number="8">are</token>
+<token id="321" sentence="13" number="9">exported</token>
+<token id="322" sentence="13" number="10">,</token>
+<token id="323" sentence="13" number="11">while</token>
+<token id="324" sentence="13" number="12">exports</token>
+<token id="325" sentence="13" number="13">account</token>
+<token id="326" sentence="13" number="14">for</token>
+<token id="327" sentence="13" number="15">87.6</token>
+<token id="328" sentence="13" number="16">%</token>
+<token id="329" sentence="13" number="17">of</token>
+<token id="330" sentence="13" number="18">the</token>
+<token id="331" sentence="13" number="19">automotive</token>
+<token id="332" sentence="13" number="20">components</token>
+<token id="333" sentence="13" number="21">industry</token>
+<token id="334" sentence="13" number="22">,</token>
+<token id="335" sentence="13" number="23">according</token>
+<token id="336" sentence="13" number="24">to</token>
+<token id="337" sentence="13" number="25">the</token>
+<token id="338" sentence="13" number="26">ministry</token>
+<token id="339" sentence="13" number="27">.</token>
+
+
+<Markables>
+<ENTITY_MENTION id="16" syntactic_type="" head="" comment=""  >
+<token_anchor id="172"/>
+<token_anchor id="173"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="17" syntactic_type="" head="" comment=""  >
+<token_anchor id="189"/>
+<token_anchor id="190"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="18" syntactic_type="" head="" comment=""  >
+<token_anchor id="199"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="20" syntactic_type="" head="" comment=""  >
+<token_anchor id="205"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="22" syntactic_type="" head="" comment=""  >
+<token_anchor id="219"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="24" syntactic_type="" head="" comment=""  >
+<token_anchor id="221"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="26" syntactic_type="" head="" comment=""  >
+<token_anchor id="223"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="28" syntactic_type="" head="" comment=""  >
+<token_anchor id="225"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="30" syntactic_type="" head="" comment=""  >
+<token_anchor id="227"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="32" syntactic_type="" head="" comment=""  >
+<token_anchor id="231"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="34" syntactic_type="" head="" comment=""  >
+<token_anchor id="238"/>
+<token_anchor id="239"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="36" syntactic_type="" head="" comment=""  >
+<token_anchor id="241"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="38" syntactic_type="" head="" comment=""  >
+<token_anchor id="243"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="40" syntactic_type="" head="" comment=""  >
+<token_anchor id="245"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="42" syntactic_type="" head="" comment=""  >
+<token_anchor id="247"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="44" syntactic_type="" head="" comment=""  >
+<token_anchor id="253"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="47" syntactic_type="" head="" comment=""  >
+<token_anchor id="273"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="50" syntactic_type="" head="" comment=""  >
+<token_anchor id="310"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="52" syntactic_type="" head="" comment=""  >
+<token_anchor id="316"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="55" head="" syntactic_type="" comment=""  >
+<token_anchor id="3"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="56" head="" syntactic_type="" comment=""  >
+<token_anchor id="13"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="57" head="" syntactic_type="" comment=""  >
+<token_anchor id="258"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="58" head="" syntactic_type="" comment=""  >
+<token_anchor id="291"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="1" syntactic_type="" head="" comment=""  >
+<token_anchor id="22"/>
+<token_anchor id="23"/>
+<token_anchor id="24"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="2" syntactic_type="" head="" comment=""  >
+<token_anchor id="29"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="4" syntactic_type="" head="" comment=""  >
+<token_anchor id="32"/>
+<token_anchor id="33"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="6" syntactic_type="" head="" comment=""  >
+<token_anchor id="52"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="8" syntactic_type="" head="" comment=""  >
+<token_anchor id="113"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="10" syntactic_type="" head="" comment=""  >
+<token_anchor id="128"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="12" syntactic_type="" head="" comment=""  >
+<token_anchor id="153"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="14" syntactic_type="" head="" comment=""  >
+<token_anchor id="155"/>
+</ENTITY_MENTION>
+<SIGNAL id="54" comment=""  >
+<token_anchor id="10"/>
+</SIGNAL>
+
+
+<ENTITY id="3" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Japan" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Japan" />
+<ENTITY id="5" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Denso" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Denso" />
+<ENTITY id="7" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Sz??kesfeh??rv??r" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Sz??kesfeh??rv??r" />
+<ENTITY id="9" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bosch_Rexroth" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bosch_Rexroth" />
+<ENTITY id="11" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Denso" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Denso" />
+<ENTITY id="13" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Ford" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Ford" />
+<ENTITY id="15" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Fiat" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Fiat" />
+<ENTITY id="19" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Euro" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Euro" />
+<ENTITY id="21" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Euro" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Euro" />
+<ENTITY id="23" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Toyota" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Toyota" />
+<ENTITY id="25" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Isuzu_Motors" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Isuzu_Motors" />
+<ENTITY id="27" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Nissan" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Nissan" />
+<ENTITY id="29" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Volkswagen" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Volkswagen" />
+<ENTITY id="31" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Audi" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Audi" />
+<ENTITY id="33" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hungary" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hungary" />
+<ENTITY id="35" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Land_Rover" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Land_Rover" />
+<ENTITY id="37" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Ford_Germany" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Ford_Germany" />
+<ENTITY id="39" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Jaguar_Cars" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Jaguar_Cars" />
+<ENTITY id="41" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Peugeot" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Peugeot" />
+<ENTITY id="43" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Lamborghini" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Lamborghini" />
+<ENTITY id="45" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hungary" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hungary" />
+<ENTITY id="46" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/University_of_South_Dakota" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/University_of_South_Dakota" />
+<ENTITY id="48" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hungary" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hungary" />
+<ENTITY id="49" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/University_of_South_Dakota" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/University_of_South_Dakota" />
+<ENTITY id="51" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hungary" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hungary" />
+<ENTITY id="53" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Hungary" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Hungary" />
+<ENTITY id="59" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States_dollar" ent_type="" ent_class="" external_ref="" comment="" />
+</Markables>
+
+<Relations>
+<REFERS_TO id="433460" >
+<source id="42" />
+<target id="43" />
+</REFERS_TO>
+<REFERS_TO id="433461" >
+<source id="50" />
+<target id="51" />
+</REFERS_TO>
+<REFERS_TO id="433462" >
+<source id="24" />
+<target id="25" />
+</REFERS_TO>
+<REFERS_TO id="433463" >
+<source id="26" />
+<target id="27" />
+</REFERS_TO>
+<REFERS_TO id="433464" >
+<source id="20" />
+<target id="21" />
+</REFERS_TO>
+<REFERS_TO id="433465" >
+<source id="22" />
+<target id="23" />
+</REFERS_TO>
+<REFERS_TO id="433467" >
+<source id="44" />
+<target id="45" />
+</REFERS_TO>
+<REFERS_TO id="433468" >
+<source id="28" />
+<target id="29" />
+</REFERS_TO>
+<REFERS_TO id="433469" >
+<source id="40" />
+<target id="41" />
+</REFERS_TO>
+<REFERS_TO id="433470" >
+<source id="2" />
+<target id="3" />
+</REFERS_TO>
+<REFERS_TO id="433471" >
+<source id="4" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="433472" >
+<source id="6" />
+<target id="7" />
+</REFERS_TO>
+<REFERS_TO id="433473" >
+<source id="8" />
+<target id="9" />
+</REFERS_TO>
+<REFERS_TO id="433474" >
+<source id="38" />
+<target id="39" />
+</REFERS_TO>
+<REFERS_TO id="433475" >
+<source id="10" />
+<target id="11" />
+</REFERS_TO>
+<REFERS_TO id="433476" >
+<source id="12" />
+<target id="13" />
+</REFERS_TO>
+<REFERS_TO id="433477" >
+<source id="14" />
+<target id="15" />
+</REFERS_TO>
+<REFERS_TO id="433478" >
+<source id="18" />
+<target id="19" />
+</REFERS_TO>
+<REFERS_TO id="433479" >
+<source id="52" />
+<target id="53" />
+</REFERS_TO>
+<REFERS_TO id="433480" >
+<source id="30" />
+<target id="31" />
+</REFERS_TO>
+<REFERS_TO id="433481" >
+<source id="47" />
+<target id="48" />
+</REFERS_TO>
+<REFERS_TO id="433482" >
+<source id="36" />
+<target id="13" />
+</REFERS_TO>
+<REFERS_TO id="433483" >
+<source id="34" />
+<target id="35" />
+</REFERS_TO>
+<REFERS_TO id="433484" >
+<source id="32" />
+<target id="33" />
+</REFERS_TO>
+<REFERS_TO id="434023" >
+<source id="55" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="434024" >
+<source id="56" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="434025" >
+<source id="1" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="434026" >
+<source id="16" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="434027" >
+<source id="17" />
+<target id="5" />
+</REFERS_TO>
+<REFERS_TO id="434040" >
+<source id="57" />
+<target id="59" />
+</REFERS_TO>
+<REFERS_TO id="434041" >
+<source id="58" />
+<target id="59" />
+</REFERS_TO>
+</Relations>
+</Document>

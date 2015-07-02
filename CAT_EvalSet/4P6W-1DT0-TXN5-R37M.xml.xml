@@ -1,0 +1,593 @@
+<Document doc_name="4P6W-1DT0-TXN5-R37M.xml">
+<token id="1" sentence="0" number="0">Brain</token>
+<token id="2" sentence="0" number="1">lint</token>
+<token id="3" sentence="1" number="0">How</token>
+<token id="4" sentence="1" number="1">much</token>
+<token id="5" sentence="1" number="2">of</token>
+<token id="6" sentence="1" number="3">2002</token>
+<token id="7" sentence="1" number="4">is</token>
+<token id="8" sentence="1" number="5">left</token>
+<token id="9" sentence="1" number="6">in</token>
+<token id="10" sentence="1" number="7">your</token>
+<token id="11" sentence="1" number="8">mind</token>
+<token id="12" sentence="1" number="9">?</token>
+<token id="13" sentence="2" number="0">Another</token>
+<token id="14" sentence="2" number="1">day</token>
+<token id="15" sentence="2" number="2">,</token>
+<token id="16" sentence="2" number="3">another</token>
+<token id="17" sentence="2" number="4">month</token>
+<token id="18" sentence="2" number="5">.</token>
+<token id="19" sentence="3" number="0">Today</token>
+<token id="20" sentence="3" number="1">it</token>
+<token id="21" sentence="3" number="2">'s</token>
+<token id="22" sentence="3" number="3">October</token>
+<token id="23" sentence="3" number="4">.</token>
+<token id="24" sentence="4" number="0">Your</token>
+<token id="25" sentence="4" number="1">time</token>
+<token id="26" sentence="4" number="2">starts</token>
+<token id="27" sentence="4" number="3">now</token>
+<token id="28" sentence="4" number="4">.</token>
+<token id="29" sentence="5" number="0">Q1</token>
+<token id="30" sentence="5" number="1">Which</token>
+<token id="31" sentence="5" number="2">radical</token>
+<token id="32" sentence="5" number="3">Muslim</token>
+<token id="33" sentence="5" number="4">cleric</token>
+<token id="34" sentence="5" number="5">was</token>
+<token id="35" sentence="5" number="6">formally</token>
+<token id="36" sentence="5" number="7">detained</token>
+<token id="37" sentence="5" number="8">by</token>
+<token id="38" sentence="5" number="9">Indonesian</token>
+<token id="39" sentence="5" number="10">authorities</token>
+<token id="40" sentence="5" number="11">in</token>
+<token id="41" sentence="5" number="12">a</token>
+<token id="42" sentence="5" number="13">security</token>
+<token id="43" sentence="5" number="14">crackdown</token>
+<token id="44" sentence="5" number="15">after</token>
+<token id="45" sentence="5" number="16">the</token>
+<token id="46" sentence="5" number="17">Bali</token>
+<token id="47" sentence="5" number="18">bombings</token>
+<token id="48" sentence="5" number="19">?</token>
+<token id="49" sentence="6" number="0">Q2</token>
+<token id="50" sentence="6" number="1">Who</token>
+<token id="51" sentence="6" number="2">won</token>
+<token id="52" sentence="6" number="3">the</token>
+<token id="53" sentence="6" number="4">Cunningham</token>
+<token id="54" sentence="6" number="5">by-election</token>
+<token id="55" sentence="6" number="6">,</token>
+<token id="56" sentence="6" number="7">creating</token>
+<token id="57" sentence="6" number="8">history</token>
+<token id="58" sentence="6" number="9">by</token>
+<token id="59" sentence="6" number="10">becoming</token>
+<token id="60" sentence="6" number="11">the</token>
+<token id="61" sentence="6" number="12">first</token>
+<token id="62" sentence="6" number="13">Green</token>
+<token id="63" sentence="6" number="14">to</token>
+<token id="64" sentence="6" number="15">win</token>
+<token id="65" sentence="6" number="16">a</token>
+<token id="66" sentence="6" number="17">seat</token>
+<token id="67" sentence="6" number="18">in</token>
+<token id="68" sentence="6" number="19">the</token>
+<token id="69" sentence="6" number="20">Federal</token>
+<token id="70" sentence="6" number="21">Parliament</token>
+<token id="71" sentence="6" number="22">'s</token>
+<token id="72" sentence="6" number="23">House</token>
+<token id="73" sentence="6" number="24">of</token>
+<token id="74" sentence="6" number="25">Representatives</token>
+<token id="75" sentence="6" number="26">?</token>
+<token id="76" sentence="7" number="0">Q3</token>
+<token id="77" sentence="7" number="1">Which</token>
+<token id="78" sentence="7" number="2">two</token>
+<token id="79" sentence="7" number="3">senior</token>
+<token id="80" sentence="7" number="4">federal</token>
+<token id="81" sentence="7" number="5">politicians</token>
+<token id="82" sentence="7" number="6">accompanied</token>
+<token id="83" sentence="7" number="7">John</token>
+<token id="84" sentence="7" number="8">Howard</token>
+<token id="85" sentence="7" number="9">when</token>
+<token id="86" sentence="7" number="10">he</token>
+<token id="87" sentence="7" number="11">flew</token>
+<token id="88" sentence="7" number="12">to</token>
+<token id="89" sentence="7" number="13">Bali</token>
+<token id="90" sentence="7" number="14">?</token>
+<token id="91" sentence="8" number="0">Q4</token>
+<token id="92" sentence="8" number="1">Which</token>
+<token id="93" sentence="8" number="2">singer</token>
+<token id="94" sentence="8" number="3">won</token>
+<token id="95" sentence="8" number="4">both</token>
+<token id="96" sentence="8" number="5">the</token>
+<token id="97" sentence="8" number="6">ARIA</token>
+<token id="98" sentence="8" number="7">best</token>
+<token id="99" sentence="8" number="8">female</token>
+<token id="100" sentence="8" number="9">artist</token>
+<token id="101" sentence="8" number="10">and</token>
+<token id="102" sentence="8" number="11">album</token>
+<token id="103" sentence="8" number="12">of</token>
+<token id="104" sentence="8" number="13">the</token>
+<token id="105" sentence="8" number="14">year</token>
+<token id="106" sentence="8" number="15">awards</token>
+<token id="107" sentence="8" number="16">?</token>
+<token id="108" sentence="9" number="0">Q5</token>
+<token id="109" sentence="9" number="1">Who</token>
+<token id="110" sentence="9" number="2">asked</token>
+<token id="111" sentence="9" number="3">his</token>
+<token id="112" sentence="9" number="4">people</token>
+<token id="113" sentence="9" number="5">in</token>
+<token id="114" sentence="9" number="6">a</token>
+<token id="115" sentence="9" number="7">referendum</token>
+<token id="116" sentence="9" number="8">if</token>
+<token id="117" sentence="9" number="9">he</token>
+<token id="118" sentence="9" number="10">should</token>
+<token id="119" sentence="9" number="11">remain</token>
+<token id="120" sentence="9" number="12">president</token>
+<token id="121" sentence="9" number="13">for</token>
+<token id="122" sentence="9" number="14">another</token>
+<token id="123" sentence="9" number="15">seven</token>
+<token id="124" sentence="9" number="16">years</token>
+<token id="125" sentence="9" number="17">?</token>
+<token id="126" sentence="10" number="0">Q6</token>
+<token id="127" sentence="10" number="1">Who</token>
+<token id="128" sentence="10" number="2">won</token>
+<token id="129" sentence="10" number="3">the</token>
+<token id="130" sentence="10" number="4">2002</token>
+<token id="131" sentence="10" number="5">Nobel</token>
+<token id="132" sentence="10" number="6">Peace</token>
+<token id="133" sentence="10" number="7">Prize</token>
+<token id="134" sentence="10" number="8">?</token>
+<token id="135" sentence="11" number="0">Q7</token>
+<token id="136" sentence="11" number="1">Whose</token>
+<token id="137" sentence="11" number="2">blood</token>
+<token id="138" sentence="11" number="3">did</token>
+<token id="139" sentence="11" number="4">Northern</token>
+<token id="140" sentence="11" number="5">Territory</token>
+<token id="141" sentence="11" number="6">police</token>
+<token id="142" sentence="11" number="7">find</token>
+<token id="143" sentence="11" number="8">matched</token>
+<token id="144" sentence="11" number="9">the</token>
+<token id="145" sentence="11" number="10">DNA</token>
+<token id="146" sentence="11" number="11">found</token>
+<token id="147" sentence="11" number="12">on</token>
+<token id="148" sentence="11" number="13">the</token>
+<token id="149" sentence="11" number="14">T-shirt</token>
+<token id="150" sentence="11" number="15">of</token>
+<token id="151" sentence="11" number="16">Joanne</token>
+<token id="152" sentence="11" number="17">Lees</token>
+<token id="153" sentence="11" number="18">?</token>
+<token id="154" sentence="12" number="0">Q8</token>
+<token id="155" sentence="12" number="1">Two</token>
+<token id="156" sentence="12" number="2">bombs</token>
+<token id="157" sentence="12" number="3">exploded</token>
+<token id="158" sentence="12" number="4">in</token>
+<token id="159" sentence="12" number="5">Bali</token>
+<token id="160" sentence="12" number="6">'s</token>
+<token id="161" sentence="12" number="7">nightclub</token>
+<token id="162" sentence="12" number="8">district</token>
+<token id="163" sentence="12" number="9">.</token>
+<token id="164" sentence="13" number="0">Where</token>
+<token id="165" sentence="13" number="1">in</token>
+<token id="166" sentence="13" number="2">Denpasar</token>
+<token id="167" sentence="13" number="3">did</token>
+<token id="168" sentence="13" number="4">the</token>
+<token id="169" sentence="13" number="5">third</token>
+<token id="170" sentence="13" number="6">bomb</token>
+<token id="171" sentence="13" number="7">explode</token>
+<token id="172" sentence="13" number="8">?</token>
+<token id="173" sentence="14" number="0">Q9</token>
+<token id="174" sentence="14" number="1">Which</token>
+<token id="175" sentence="14" number="2">British</token>
+<token id="176" sentence="14" number="3">politician</token>
+<token id="177" sentence="14" number="4">shocked</token>
+<token id="178" sentence="14" number="5">the</token>
+<token id="179" sentence="14" number="6">world</token>
+<token id="180" sentence="14" number="7">when</token>
+<token id="181" sentence="14" number="8">it</token>
+<token id="182" sentence="14" number="9">was</token>
+<token id="183" sentence="14" number="10">revealed</token>
+<token id="184" sentence="14" number="11">he</token>
+<token id="185" sentence="14" number="12">had</token>
+<token id="186" sentence="14" number="13">an</token>
+<token id="187" sentence="14" number="14">affair</token>
+<token id="188" sentence="14" number="15">with</token>
+<token id="189" sentence="14" number="16">Edwina</token>
+<token id="190" sentence="14" number="17">Currie</token>
+<token id="191" sentence="14" number="18">in</token>
+<token id="192" sentence="14" number="19">the</token>
+<token id="193" sentence="14" number="20">1980s</token>
+<token id="194" sentence="14" number="21">?</token>
+<token id="195" sentence="15" number="0">Q10</token>
+<token id="196" sentence="15" number="1">Which</token>
+<token id="197" sentence="15" number="2">Aussie</token>
+<token id="198" sentence="15" number="3">was</token>
+<token id="199" sentence="15" number="4">sacked</token>
+<token id="200" sentence="15" number="5">as</token>
+<token id="201" sentence="15" number="6">artistic</token>
+<token id="202" sentence="15" number="7">director</token>
+<token id="203" sentence="15" number="8">of</token>
+<token id="204" sentence="15" number="9">London</token>
+<token id="205" sentence="15" number="10">'s</token>
+<token id="206" sentence="15" number="11">Royal</token>
+<token id="207" sentence="15" number="12">Ballet</token>
+<token id="208" sentence="15" number="13">company</token>
+<token id="209" sentence="15" number="14">after</token>
+<token id="210" sentence="15" number="15">completing</token>
+<token id="211" sentence="15" number="16">only</token>
+<token id="212" sentence="15" number="17">one</token>
+<token id="213" sentence="15" number="18">year</token>
+<token id="214" sentence="15" number="19">of</token>
+<token id="215" sentence="15" number="20">a</token>
+<token id="216" sentence="15" number="21">three-year</token>
+<token id="217" sentence="15" number="22">contract</token>
+<token id="218" sentence="15" number="23">?</token>
+<token id="219" sentence="16" number="0">Q11</token>
+<token id="220" sentence="16" number="1">Which</token>
+<token id="221" sentence="16" number="2">federal</token>
+<token id="222" sentence="16" number="3">politician</token>
+<token id="223" sentence="16" number="4">told</token>
+<token id="224" sentence="16" number="5">a</token>
+<token id="225" sentence="16" number="6">joint</token>
+<token id="226" sentence="16" number="7">government</token>
+<token id="227" sentence="16" number="8">parties</token>
+<token id="228" sentence="16" number="9">meeting</token>
+<token id="229" sentence="16" number="10">:</token>
+<token id="230" sentence="16" number="11">''I'</token>
+<token id="231" sentence="16" number="12">m</token>
+<token id="232" sentence="16" number="13">sure</token>
+<token id="233" sentence="16" number="14">,</token>
+<token id="234" sentence="16" number="15">like</token>
+<token id="235" sentence="16" number="16">me</token>
+<token id="236" sentence="16" number="17">,</token>
+<token id="237" sentence="16" number="18">you</token>
+<token id="238" sentence="16" number="19">'ve</token>
+<token id="239" sentence="16" number="20">all</token>
+<token id="240" sentence="16" number="21">picked</token>
+<token id="241" sentence="16" number="22">up</token>
+<token id="242" sentence="16" number="23">a</token>
+<token id="243" sentence="16" number="24">surprising</token>
+<token id="244" sentence="16" number="25">amount</token>
+<token id="245" sentence="16" number="26">of</token>
+<token id="246" sentence="16" number="27">anti-American</token>
+<token id="247" sentence="16" number="28">sentiment</token>
+<token id="248" sentence="16" number="29">in</token>
+<token id="249" sentence="16" number="30">the</token>
+<token id="250" sentence="16" number="31">community</token>
+<token id="251" sentence="16" number="32">''</token>
+<token id="252" sentence="16" number="33">?</token>
+<token id="253" sentence="17" number="0">1</token>
+<token id="254" sentence="17" number="1">.</token>
+<token id="255" sentence="18" number="0">Abu</token>
+<token id="256" sentence="18" number="1">Bakar</token>
+<token id="257" sentence="18" number="2">Bashir</token>
+<token id="258" sentence="18" number="3">,</token>
+<token id="259" sentence="18" number="4">2</token>
+<token id="260" sentence="18" number="5">.</token>
+<token id="261" sentence="19" number="0">Michael</token>
+<token id="262" sentence="19" number="1">Organ</token>
+<token id="263" sentence="19" number="2">,</token>
+<token id="264" sentence="19" number="3">3</token>
+<token id="265" sentence="19" number="4">.</token>
+<token id="266" sentence="20" number="0">John</token>
+<token id="267" sentence="20" number="1">Anderson</token>
+<token id="268" sentence="20" number="2">and</token>
+<token id="269" sentence="20" number="3">Simon</token>
+<token id="270" sentence="20" number="4">Crean</token>
+<token id="271" sentence="20" number="5">,</token>
+<token id="272" sentence="20" number="6">4</token>
+<token id="273" sentence="20" number="7">.</token>
+<token id="274" sentence="21" number="0">Kasey</token>
+<token id="275" sentence="21" number="1">Chambers</token>
+<token id="276" sentence="21" number="2">,</token>
+<token id="277" sentence="21" number="3">5</token>
+<token id="278" sentence="21" number="4">.</token>
+<token id="279" sentence="22" number="0">Saddam</token>
+<token id="280" sentence="22" number="1">Hussein</token>
+<token id="281" sentence="22" number="2">,</token>
+<token id="282" sentence="22" number="3">6</token>
+<token id="283" sentence="22" number="4">.</token>
+<token id="284" sentence="23" number="0">Jimmy</token>
+<token id="285" sentence="23" number="1">Carter</token>
+<token id="286" sentence="23" number="2">,</token>
+<token id="287" sentence="23" number="3">7</token>
+<token id="288" sentence="23" number="4">.</token>
+<token id="289" sentence="24" number="0">Bradley</token>
+<token id="290" sentence="24" number="1">John</token>
+<token id="291" sentence="24" number="2">Murdoch</token>
+<token id="292" sentence="24" number="3">,</token>
+<token id="293" sentence="24" number="4">8</token>
+<token id="294" sentence="24" number="5">.</token>
+<token id="295" sentence="25" number="0">Outside</token>
+<token id="296" sentence="25" number="1">the</token>
+<token id="297" sentence="25" number="2">US</token>
+<token id="298" sentence="25" number="3">consulate</token>
+<token id="299" sentence="25" number="4">,</token>
+<token id="300" sentence="25" number="5">9</token>
+<token id="301" sentence="25" number="6">.</token>
+<token id="302" sentence="26" number="0">John</token>
+<token id="303" sentence="26" number="1">Major</token>
+<token id="304" sentence="26" number="2">,</token>
+<token id="305" sentence="26" number="3">10</token>
+<token id="306" sentence="26" number="4">.</token>
+<token id="307" sentence="27" number="0">Ross</token>
+<token id="308" sentence="27" number="1">Stretton</token>
+<token id="309" sentence="27" number="2">,</token>
+<token id="310" sentence="27" number="3">11</token>
+<token id="311" sentence="27" number="4">.</token>
+<token id="312" sentence="28" number="0">John</token>
+<token id="313" sentence="28" number="1">Anderson</token>
+<token id="314" sentence="28" number="2">.</token>
+
+
+<Markables>
+<ENTITY_MENTION id="16" syntactic_type="" head="" comment=""  >
+<token_anchor id="130"/>
+<token_anchor id="131"/>
+<token_anchor id="132"/>
+<token_anchor id="133"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="17" syntactic_type="" head="" comment=""  >
+<token_anchor id="139"/>
+<token_anchor id="140"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="19" syntactic_type="" head="" comment=""  >
+<token_anchor id="145"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="21" syntactic_type="" head="" comment=""  >
+<token_anchor id="151"/>
+<token_anchor id="152"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="23" syntactic_type="" head="" comment=""  >
+<token_anchor id="159"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="25" syntactic_type="" head="" comment=""  >
+<token_anchor id="166"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="27" syntactic_type="" head="" comment=""  >
+<token_anchor id="175"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="29" syntactic_type="" head="" comment=""  >
+<token_anchor id="189"/>
+<token_anchor id="190"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="31" syntactic_type="" head="" comment=""  >
+<token_anchor id="197"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="33" syntactic_type="" head="" comment=""  >
+<token_anchor id="204"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="35" syntactic_type="" head="" comment=""  >
+<token_anchor id="206"/>
+<token_anchor id="207"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="37" syntactic_type="" head="" comment=""  >
+<token_anchor id="255"/>
+<token_anchor id="256"/>
+<token_anchor id="257"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="39" syntactic_type="" head="" comment=""  >
+<token_anchor id="261"/>
+<token_anchor id="262"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="41" syntactic_type="" head="" comment=""  >
+<token_anchor id="266"/>
+<token_anchor id="267"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="43" syntactic_type="" head="" comment=""  >
+<token_anchor id="269"/>
+<token_anchor id="270"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="45" syntactic_type="" head="" comment=""  >
+<token_anchor id="274"/>
+<token_anchor id="275"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="47" syntactic_type="" head="" comment=""  >
+<token_anchor id="279"/>
+<token_anchor id="280"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="49" syntactic_type="" head="" comment=""  >
+<token_anchor id="284"/>
+<token_anchor id="285"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="51" syntactic_type="" head="" comment=""  >
+<token_anchor id="289"/>
+<token_anchor id="290"/>
+<token_anchor id="291"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="53" syntactic_type="" head="" comment=""  >
+<token_anchor id="297"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="55" syntactic_type="" head="" comment=""  >
+<token_anchor id="302"/>
+<token_anchor id="303"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="57" syntactic_type="" head="" comment=""  >
+<token_anchor id="307"/>
+<token_anchor id="308"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="59" syntactic_type="" head="" comment=""  >
+<token_anchor id="312"/>
+<token_anchor id="313"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="1" syntactic_type="" head="" comment=""  >
+<token_anchor id="1"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="3" syntactic_type="" head="" comment=""  >
+<token_anchor id="32"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="5" syntactic_type="" head="" comment=""  >
+<token_anchor id="38"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="7" syntactic_type="" head="" comment=""  >
+<token_anchor id="46"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="9" syntactic_type="" head="" comment=""  >
+<token_anchor id="53"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="11" syntactic_type="" head="" comment=""  >
+<token_anchor id="69"/>
+<token_anchor id="70"/>
+<token_anchor id="71"/>
+<token_anchor id="72"/>
+<token_anchor id="73"/>
+<token_anchor id="74"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="12" syntactic_type="" head="" comment=""  >
+<token_anchor id="83"/>
+<token_anchor id="84"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION id="14" syntactic_type="" head="" comment=""  >
+<token_anchor id="89"/>
+</ENTITY_MENTION>
+<SIGNAL id="61" comment=""  >
+<token_anchor id="11"/>
+</SIGNAL>
+
+
+<ENTITY id="2" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Brain" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Brain" />
+<ENTITY id="4" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Islam_in_Nigeria" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Islam_in_Nigeria" />
+<ENTITY id="6" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Indonesia" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Indonesia" />
+<ENTITY id="8" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bali" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bali" />
+<ENTITY id="10" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Division_of_Cunningham" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Division_of_Cunningham" />
+<ENTITY id="13" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/John_Howard" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/John_Howard" />
+<ENTITY id="15" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bali" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bali" />
+<ENTITY id="18" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Northern_Territory" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Northern_Territory" />
+<ENTITY id="20" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Naked_DNA" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Naked_DNA" />
+<ENTITY id="22" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Joanne_Lees" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Joanne_Lees" />
+<ENTITY id="24" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bali" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bali" />
+<ENTITY id="26" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Denpasar" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Denpasar" />
+<ENTITY id="28" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Kingdom_of_Great_Britain" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Kingdom_of_Great_Britain" />
+<ENTITY id="30" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Edwina_Currie" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Edwina_Currie" />
+<ENTITY id="32" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Australia" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Australia" />
+<ENTITY id="34" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/London" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/London" />
+<ENTITY id="36" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/The_Royal_Ballet" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/The_Royal_Ballet" />
+<ENTITY id="38" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Abu_Bakar_Bashir" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Abu_Bakar_Bashir" />
+<ENTITY id="40" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Michael_Organ" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Michael_Organ" />
+<ENTITY id="42" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" />
+<ENTITY id="44" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Simon_Crean" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Simon_Crean" />
+<ENTITY id="46" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Kasey_Chambers" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Kasey_Chambers" />
+<ENTITY id="48" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Saddam_Hussein" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Saddam_Hussein" />
+<ENTITY id="50" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Jimmy_Carter" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Jimmy_Carter" />
+<ENTITY id="52" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Bradley_John_Murdoch" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Bradley_John_Murdoch" />
+<ENTITY id="54" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/United_States" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/United_States" />
+<ENTITY id="56" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/John_Major" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/John_Major" />
+<ENTITY id="58" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/Ross_Stretton" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/Ross_Stretton" />
+<ENTITY id="60" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/John_B._Anderson" ent_type="" ent_class="" comment="" external_ref="http://dbpedia.org/resource/John_B._Anderson" />
+<ENTITY id="62" RELATED_TO="" TAG_DESCRIPTOR="http://dbpedia.org/resource/House_of_Representatives_of_Australia" ent_type="PER" ent_class="" comment="" external_ref="http://dbpedia.org/resource/House_of_Representatives_of_Australia" />
+</Markables>
+
+<Relations>
+<REFERS_TO id="433531" >
+<source id="55" />
+<target id="56" />
+</REFERS_TO>
+<REFERS_TO id="433532" >
+<source id="53" />
+<target id="54" />
+</REFERS_TO>
+<REFERS_TO id="433533" >
+<source id="41" />
+<target id="42" />
+</REFERS_TO>
+<REFERS_TO id="433534" >
+<source id="49" />
+<target id="50" />
+</REFERS_TO>
+<REFERS_TO id="433535" >
+<source id="59" />
+<target id="42" />
+</REFERS_TO>
+<REFERS_TO id="433536" >
+<source id="51" />
+<target id="52" />
+</REFERS_TO>
+<REFERS_TO id="433537" >
+<source id="23" />
+<target id="24" />
+</REFERS_TO>
+<REFERS_TO id="433538" >
+<source id="25" />
+<target id="26" />
+</REFERS_TO>
+<REFERS_TO id="433539" >
+<source id="19" />
+<target id="20" />
+</REFERS_TO>
+<REFERS_TO id="433540" >
+<source id="21" />
+<target id="22" />
+</REFERS_TO>
+<REFERS_TO id="433541" >
+<source id="45" />
+<target id="46" />
+</REFERS_TO>
+<REFERS_TO id="433542" >
+<source id="43" />
+<target id="44" />
+</REFERS_TO>
+<REFERS_TO id="433543" >
+<source id="27" />
+<target id="28" />
+</REFERS_TO>
+<REFERS_TO id="433544" >
+<source id="39" />
+<target id="40" />
+</REFERS_TO>
+<REFERS_TO id="433546" >
+<source id="3" />
+<target id="4" />
+</REFERS_TO>
+<REFERS_TO id="433547" >
+<source id="5" />
+<target id="6" />
+</REFERS_TO>
+<REFERS_TO id="433548" >
+<source id="7" />
+<target id="8" />
+</REFERS_TO>
+<REFERS_TO id="433549" >
+<source id="57" />
+<target id="58" />
+</REFERS_TO>
+<REFERS_TO id="433550" >
+<source id="9" />
+<target id="10" />
+</REFERS_TO>
+<REFERS_TO id="433551" >
+<source id="12" />
+<target id="13" />
+</REFERS_TO>
+<REFERS_TO id="433552" >
+<source id="37" />
+<target id="38" />
+</REFERS_TO>
+<REFERS_TO id="433553" >
+<source id="14" />
+<target id="15" />
+</REFERS_TO>
+<REFERS_TO id="433554" >
+<source id="47" />
+<target id="48" />
+</REFERS_TO>
+<REFERS_TO id="433555" >
+<source id="17" />
+<target id="18" />
+</REFERS_TO>
+<REFERS_TO id="433556" >
+<source id="29" />
+<target id="30" />
+</REFERS_TO>
+<REFERS_TO id="433557" >
+<source id="35" />
+<target id="36" />
+</REFERS_TO>
+<REFERS_TO id="433558" >
+<source id="33" />
+<target id="34" />
+</REFERS_TO>
+<REFERS_TO id="433559" >
+<source id="31" />
+<target id="32" />
+</REFERS_TO>
+<REFERS_TO id="434002" >
+<source id="11" />
+<target id="62" />
+</REFERS_TO>
+</Relations>
+</Document>
