@@ -257,7 +257,7 @@ global term_sentences
 
 if __name__=="__main__":
 	my_dbpedia = Cdbpedia_enquirer()
-	path="dev_corpus/"
+	path="NAF_EvalSet/"
 	#path="eval_corpus/"
 	out_path="proc_dev_corpus/"
 	count_all = 0
@@ -265,7 +265,7 @@ if __name__=="__main__":
 	for file in os.listdir(path):
 		print file
 		parser=KafNafParser(path + file)
-
+		continue
 		prestore_terms_and_tokens(parser)
 
 		all_entities=[]
