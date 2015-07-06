@@ -16,9 +16,9 @@ ned_tp=0 # Both in GOLD and spotlight_v1
 ned_fn=0 # In GOLD, not in spotlight_v1
 ned_fp=0 # Not in GOLD, yes in spotlight_v1
 
-path="proc_dev_corpus/"
-eval_source="domain_model"
-#eval_source="spotlight_v1"
+path="NAF_DevSet/"
+#eval_source="domain_model"
+eval_source="spotlight_v1"
 for f in os.listdir(path):
 	
 	print f
