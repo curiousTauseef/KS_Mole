@@ -3010,6 +3010,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="1.3192697E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleolithic_Europe" confidence="2.2489072E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/UEFA" confidence="9"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -3029,6 +3030,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_Bank" confidence="1.12885025E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fed_(album)" confidence="5.648819E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Federal_Bank" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="MISC">
@@ -3051,6 +3053,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Boxing_Union" confidence="4.202559E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="5.0916337E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/UEFA" confidence="9"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -3065,6 +3068,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -3087,6 +3091,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="7.240032E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.0953657E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -3109,6 +3114,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="1.3192697E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleolithic_Europe" confidence="2.2489072E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/UEFA" confidence="9"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -3137,6 +3143,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/HSBC" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HSBC" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/HSBC" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/HSBC" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -3152,6 +3159,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Standard_Chartered" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Standard_Chartered" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Standard_Chartered" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Standard_Chartered" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="MISC">
@@ -3165,6 +3173,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/FTSE_100_Index" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/FTSE_100_Index" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/FTSE_100_Index" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="MISC">
@@ -3187,6 +3196,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_France" confidence="1.2617919E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_France" confidence="8.768515E-11" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/French_First_Republic" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/French_language" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -3243,6 +3253,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_France" confidence="1.2617919E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_France" confidence="8.768515E-11" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/French_First_Republic" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/French_language" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -3265,6 +3276,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ethnic_Germans" confidence="4.3045448E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Germany" confidence="1.8901178E-10" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/German_Empire" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/German_language" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="MISC">
@@ -3291,6 +3303,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/BMW" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BMW" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/BMW" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -3307,124 +3320,7 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
       </externalReferences>
     </entity>
-    <entity id="f1">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Fed-->
-      <references>
-        <span>
-          <target id="t6"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t14"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--U.S. Federal Reserve-->
-      <references>
-        <span>
-          <target id="t28"/>
-          <target id="t29"/>
-          <target id="t30"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_Reserve_System" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t35"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t52"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--HSBC Holdings PLC-->
-      <references>
-        <span>
-          <target id="t77"/>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/HSBC" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Standard Chartered PLC-->
-      <references>
-        <span>
-          <target id="t89"/>
-          <target id="t90"/>
-          <target id="t91"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Standard_Chartered" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--FTSE 100-->
-      <references>
-        <span>
-          <target id="t107"/>
-          <target id="t108"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/FTSE_100_Index" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--French-->
-      <references>
-        <span>
-          <target id="t121"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/French_language" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
+    <entity id="f1" source="POCUS">
       <!--CAC 40-->
       <references>
         <span>
@@ -3434,40 +3330,6 @@ MADRID (MarketWatch) -- European stocks moved cautiously higher Wednesday, as ma
       </references>
       <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/CAC_40" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--French-->
-      <references>
-        <span>
-          <target id="t157"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/French_language" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t168"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/German_language" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--BMW AG-->
-      <references>
-        <span>
-          <target id="t184"/>
-          <target id="t185"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

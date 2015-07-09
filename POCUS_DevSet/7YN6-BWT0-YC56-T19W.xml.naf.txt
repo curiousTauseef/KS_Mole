@@ -6436,6 +6436,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Michigan" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan" confidence="1.8207252E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Michigan" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -6494,6 +6495,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hino_River_(Fukui)" confidence="1.23702E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hino,_Tottori" confidence="2.447329E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hino_Motors" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hino_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -6508,6 +6510,7 @@ http://www.prnewswire.com</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Toyota_Financial_Services" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Financial_Services" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota_Financial_Services" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -6526,6 +6529,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hino_River_(Fukui)" confidence="1.23702E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hino,_Tottori" confidence="2.447329E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hino_Motors" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hino_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -6563,6 +6567,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_Monorail" confidence="1.6803446E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_(Australian_train)" confidence="1.6743826E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hitachi" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g4" type="ORGANIZATION">
@@ -6622,6 +6627,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_Monorail" confidence="1.6803446E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_(Australian_train)" confidence="1.6743826E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hitachi" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -6644,6 +6650,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_Monorail" confidence="1.6803446E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_(Australian_train)" confidence="1.6743826E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hitachi" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -6777,6 +6784,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_Monorail" confidence="1.6803446E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hitachi_(Australian_train)" confidence="1.6743826E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hitachi" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -6800,6 +6808,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="5.628458E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="1.9752628E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -6836,6 +6845,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_black_bear" confidence="5.2944165E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_North_America" confidence="1.7711653E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/North_America" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="ORGANIZATION">
@@ -6937,6 +6947,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="5.628458E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="1.9752628E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="LOCATION">
@@ -6957,6 +6968,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Novi_Township,_Michigan" confidence="8.0573713E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Novi_Grad,_Bosnia_and_Herzegovina" confidence="2.9634574E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Herceg_Novi" confidence="15"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Novi,_Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -6979,6 +6991,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1923_Michigan_Wolverines_football_team" confidence="2.5723137E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1913_Michigan_Wolverines_football_team" confidence="7.378446E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Michigan" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -7015,6 +7028,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="5.628458E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="1.9752628E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="LOCATION">
@@ -7034,6 +7048,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Initial_public_offering_of_Facebook" confidence="2.4966625E-37" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Facebook_game" confidence="7.72944E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Facebook" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Facebook" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="LOCATION">
@@ -7047,6 +7062,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Twitter" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Twitter" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Twitter" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Twitter" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e37" type="ORGANIZATION">
@@ -7063,6 +7079,7 @@ http://www.prnewswire.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Censorship_of_YouTube" confidence="8.990932E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_most_viewed_YouTube_videos" confidence="1.558106E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/YouTube" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/YouTube" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -7076,199 +7093,6 @@ http://www.prnewswire.com</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Mich.-->
-      <references>
-        <span>
-          <target id="t11"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Hino-->
-      <references>
-        <span>
-          <target id="t48"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hino_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Toyota Financial Services-->
-      <references>
-        <span>
-          <target id="t54"/>
-          <target id="t55"/>
-          <target id="t56"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota_Financial_Services" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Hino-->
-      <references>
-        <span>
-          <target id="t58"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hino_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Hitachi-->
-      <references>
-        <span>
-          <target id="t79"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Hitachi-->
-      <references>
-        <span>
-          <target id="t162"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Hitachi-->
-      <references>
-        <span>
-          <target id="t190"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Hitachi-->
-      <references>
-        <span>
-          <target id="t328"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hitachi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t338"/>
-          <target id="t339"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--North America-->
-      <references>
-        <span>
-          <target id="t348"/>
-          <target id="t349"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t387"/>
-          <target id="t388"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Novi-->
-      <references>
-        <span>
-          <target id="t393"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Novi,_Michigan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Michigan-->
-      <references>
-        <span>
-          <target id="t395"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t417"/>
-          <target id="t418"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Facebook-->
-      <references>
-        <span>
-          <target id="t431"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Facebook" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Twitter-->
-      <references>
-        <span>
-          <target id="t433"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Twitter" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--YouTube-->
-      <references>
-        <span>
-          <target id="t435"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/YouTube" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

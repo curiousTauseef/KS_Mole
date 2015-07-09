@@ -5848,6 +5848,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hamamatsu_Station" confidence="9.010911E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bombing_of_Hamamatsu_in_World_War_II" confidence="1.0867136E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hamamatsu" confidence="13"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hamamatsu" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -5869,6 +5870,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -5883,6 +5885,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="MISC">
@@ -5905,6 +5908,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asian_Brazilian" confidence="6.2494214E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Asia" confidence="3.7240697E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Asia" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -5927,6 +5931,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_women's_cricket_team" confidence="3.146897E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_football_team" confidence="2.2592237E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/India" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="PERSON">
@@ -5975,6 +5980,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -5996,6 +6002,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Swift_(comics)" confidence="1.4767066E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Swift_(UK_comics)" confidence="2.7232442E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki_Swift" confidence="13"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki_Swift" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -6018,6 +6025,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="1.100957E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="2.5862575E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="LOCATION">
@@ -6040,6 +6048,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_imperialism_in_Asia" confidence="4.6085685E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asia_(album)" confidence="1.1356641E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Asia" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -6062,6 +6071,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_imperialism_in_Asia" confidence="4.6085685E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asia_(album)" confidence="1.1356641E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Asia" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -6083,6 +6093,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="LOCATION">
@@ -6105,6 +6116,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_women's_cricket_team" confidence="3.146897E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_football_team" confidence="2.2592237E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/India" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -6141,6 +6153,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -6162,6 +6175,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -6184,6 +6198,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="1.100957E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="2.5862575E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -6206,6 +6221,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_imperialism_in_Asia" confidence="4.6085685E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asia_(album)" confidence="1.1356641E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Asia" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -6228,6 +6244,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="3.4357943E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.4432222E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="LOCATION">
@@ -6250,6 +6267,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_women's_cricket_team" confidence="3.146897E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_football_team" confidence="2.2592237E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/India" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="ORGANIZATION">
@@ -6340,6 +6358,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="ORGANIZATION">
@@ -6361,6 +6380,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SMC_Recordings" confidence="5.3767422E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sheet_moulding_compound" confidence="1.0605348E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jinnah_Sindh_Medical_University" confidence="2.9535642E-17" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -6384,6 +6404,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="3.3924086E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="7.386908E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g6" type="ORGANIZATION">
@@ -6410,6 +6431,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hamamatsu_Station" confidence="9.010911E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bombing_of_Hamamatsu_in_World_War_II" confidence="1.0867136E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hamamatsu" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hamamatsu" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="LOCATION">
@@ -6431,6 +6453,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6866658E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.7625946E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="ORGANIZATION">
@@ -6452,6 +6475,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SMC_Recordings" confidence="5.3767422E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sheet_moulding_compound" confidence="1.0605348E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jinnah_Sindh_Medical_University" confidence="2.9535642E-17" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="ORGANIZATION">
@@ -6473,6 +6497,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SMC_Recordings" confidence="5.3767422E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sheet_moulding_compound" confidence="1.0605348E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jinnah_Sindh_Medical_University" confidence="2.9535642E-17" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="ORGANIZATION">
@@ -6485,6 +6510,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/All-terrain_vehicle" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/All-terrain_vehicle" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/All-terrain_vehicle" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="ORGANIZATION">
@@ -6506,6 +6532,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SMC_Recordings" confidence="5.3767422E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sheet_moulding_compound" confidence="1.0605348E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jinnah_Sindh_Medical_University" confidence="2.9535642E-17" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -6528,6 +6555,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_World_Rally_Team" confidence="7.268489E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kenzo_Suzuki_(astronomer)" confidence="6.639767E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g6" type="ORGANIZATION">
@@ -6558,6 +6586,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Initial_public_offering_of_Facebook" confidence="4.3398683E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Facebook_game" confidence="3.6793705E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Facebook" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Facebook" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -6574,6 +6603,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Censorship_of_YouTube" confidence="5.455519E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_most_viewed_YouTube_videos" confidence="1.9042055E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/YouTube" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/YouTube" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="PERSON">
@@ -6609,6 +6639,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_the_United_States" confidence="8.343488E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="3.362795E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="ORGANIZATION">
@@ -6631,6 +6662,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_World_Rally_Team" confidence="7.268489E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kenzo_Suzuki_(astronomer)" confidence="6.639767E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="PERSON">
@@ -6666,6 +6698,7 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_the_United_States" confidence="8.343488E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="3.362795E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e44" type="ORGANIZATION">
@@ -6688,384 +6721,6 @@ Shamit Choksey, American Suzuki - (714) 996-7040 ext. 2255, shamit.choksey@suz.c
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_World_Rally_Team" confidence="7.268489E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kenzo_Suzuki_(astronomer)" confidence="6.639767E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--HAMAMATSU-->
-      <references>
-        <span>
-          <target id="t23"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hamamatsu" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t25"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Suzuki Motor Corporation-->
-      <references>
-        <span>
-          <target id="t27"/>
-          <target id="t28"/>
-          <target id="t29"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Asian-->
-      <references>
-        <span>
-          <target id="t72"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--India-->
-      <references>
-        <span>
-          <target id="t76"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t95"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Swift-->
-      <references>
-        <span>
-          <target id="t130"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki_Swift" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t138"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Asia-->
-      <references>
-        <span>
-          <target id="t175"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Asia-->
-      <references>
-        <span>
-          <target id="t181"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t184"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--India-->
-      <references>
-        <span>
-          <target id="t194"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t204"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t222"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t224"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Asia-->
-      <references>
-        <span>
-          <target id="t230"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t254"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--India-->
-      <references>
-        <span>
-          <target id="t256"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Suzuki Motor Corporation-->
-      <references>
-        <span>
-          <target id="t279"/>
-          <target id="t280"/>
-          <target id="t281"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--SMC-->
-      <references>
-        <span>
-          <target id="t283"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t292"/>
-          <target id="t293"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Hamamatsu-->
-      <references>
-        <span>
-          <target id="t319"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hamamatsu" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Japan-->
-      <references>
-        <span>
-          <target id="t321"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--SMC-->
-      <references>
-        <span>
-          <target id="t323"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--SMC-->
-      <references>
-        <span>
-          <target id="t340"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--ATVs-->
-      <references>
-        <span>
-          <target id="t357"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/All-terrain_vehicle" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--SMC-->
-      <references>
-        <span>
-          <target id="t367"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t383"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f29">
-      <!--Facebook-->
-      <references>
-        <span>
-          <target id="t394"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Facebook" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f30">
-      <!--YouTube-->
-      <references>
-        <span>
-          <target id="t399"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/YouTube" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f31">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t412"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f32">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t413"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f33">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t423"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f34">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t424"/>
-        </span>
-      </references>
-      <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>

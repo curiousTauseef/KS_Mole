@@ -2858,6 +2858,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="5.782873E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="6.3431085E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.9999366" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -2880,6 +2881,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -2902,6 +2904,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nazi_Germany" confidence="1.2440691E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany" confidence="0.9999866" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -2917,6 +2920,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="5.5848954E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.99999994" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="19"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -2952,6 +2956,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Armed_Forces" confidence="1.07461E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.0071512708" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_dollar" confidence="0.992847" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="MISC">
@@ -2974,6 +2979,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japanese_language" confidence="2.1412563E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan" confidence="0.99996454" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -2996,6 +3002,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India" confidence="1.4516673E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India" confidence="0.9999977" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/India" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -3046,6 +3053,7 @@ Suzuki said he did not intend the company to come under VW's control.
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Ferdinand_Pi??ch" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Pi??ch" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ferdinand_Pi??ch" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="MISC">
@@ -3068,6 +3076,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/German_language" confidence="0.015720425" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany" confidence="0.98403203" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="19"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="LOCATION">
@@ -3089,6 +3098,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Armed_Forces" confidence="1.07461E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.0071512708" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_dollar" confidence="0.992847" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="MISC">
@@ -3127,6 +3137,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Martin_Winterkorn" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martin_Winterkorn" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Martin_Winterkorn" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martin_Winterkorn" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -3149,6 +3160,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="MISC">
@@ -3175,6 +3187,7 @@ Suzuki said he did not intend the company to come under VW's control.
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="PERSON">
@@ -3221,6 +3234,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
@@ -3235,6 +3249,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Osamu_Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Osamu_Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Osamu_Suzuki" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Osamu_Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -3257,6 +3272,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_Tokyo" confidence="0.074791156" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tokyo" confidence="0.92518616" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Tokyo" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -3279,6 +3295,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g5" type="ORGANIZATION">
@@ -3312,6 +3329,7 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki_method" confidence="2.4337062E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Suzuki" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -3332,87 +3350,10 @@ Suzuki said he did not intend the company to come under VW's control.
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="9.735049E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.99990267" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="22"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
-    <entity id="f2">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t6"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Germany-->
-      <references>
-        <span>
-          <target id="t7"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Volkswagen AG-->
-      <references>
-        <span>
-          <target id="t9"/>
-          <target id="t10"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t23"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Japanese-->
-      <references>
-        <span>
-          <target id="t27"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--India-->
-      <references>
-        <span>
-          <target id="t37"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
+    <entity id="f1" source="POCUS">
       <!--No. 1-->
       <references>
         <span>
@@ -3422,143 +3363,6 @@ Suzuki said he did not intend the company to come under VW's control.
       </references>
       <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/No._1" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Ferdinand Piech-->
-      <references>
-        <span>
-          <target id="t60"/>
-          <target id="t61"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ferdinand_Pi??ch" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t69"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t77"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Martin Winterkorn-->
-      <references>
-        <span>
-          <target id="t91"/>
-          <target id="t92"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martin_Winterkorn" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t96"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Toyota Motor Corp-->
-      <references>
-        <span>
-          <target id="t107"/>
-          <target id="t108"/>
-          <target id="t109"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t136"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Osamu Suzuki-->
-      <references>
-        <span>
-          <target id="t141"/>
-          <target id="t142"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Osamu_Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Tokyo-->
-      <references>
-        <span>
-          <target id="t145"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t149"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Suzuki-->
-      <references>
-        <span>
-          <target id="t173"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Suzuki" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Volkswagen-->
-      <references>
-        <span>
-          <target id="t181"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

@@ -240,9 +240,7 @@ def do_disambiguation(entity, entity_string, all_entities):
 	if not extref:
 		if len(entity_string.split())==1 and entity_string.isupper():
 			extref = solve_initials_and_abbreviations(entity, entity_string, all_entities)
-		# or solve_initials_and_abbreviations_after(entity_string, terms[0].replace("t", ""), parser)
-		#D2 Initials and abbreviations of occurred entities
-		#D3 Initials and abbreviations explained afterwards
+
 		
 	return extref
 
@@ -280,8 +278,6 @@ if __name__=="__main__":
 	count_dis=0
 	for file in os.listdir(path):
 		print file
-#		if file!="7Y45-6D51-2SDX-24RS.xml.naf.txt":
-#			continue
 		parser=KafNafParser(path + file)
 		prestore_terms_and_tokens(parser)
 
@@ -290,8 +286,8 @@ if __name__=="__main__":
 		all_entities=[]
 
 		for entity in parser.get_entities():
-			if entity.get_id()[0]!="e":
-				continue
+#			if entity.get_id()[0]!="e":
+#				continue
 			entity_string, terms = get_entity_mention(parser, entity)
 			# Normalization step
 			if len(terms)==1 and entity_string.endswith("-based"):
@@ -303,9 +299,9 @@ if __name__=="__main__":
 			istitle = (term_sentences[terms[0]]=="1")
 			
 			if ext_norm_entity_string==norm_entity_string:
-				entity_entry = {"original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(norm_entity_string)}, "title": istitle}
+				entity_entry = {"eid": entity.get_id(), "original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(norm_entity_string)}, "title": istitle}
 			else:
-				entity_entry = {"original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(entity_string)}, "extended": {"mention": ext_norm_entity_string, "terms": ext_terms, "initials": get_initials(ext_norm_entity_string)}, "title": istitle, "extref": None}
+				entity_entry = {"eid": entity.get_id(), "original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(entity_string)}, "extended": {"mention": ext_norm_entity_string, "terms": ext_terms, "initials": get_initials(ext_norm_entity_string)}, "title": istitle, "extref": None}
 				
 #			print entity_entry
 			
@@ -376,113 +372,21 @@ if __name__=="__main__":
 				ext_ref.set_confidence("1.0")
 				new_entity.add_external_reference(ext_ref)
 				
+				new_entity.set_source("POCUS")
+				print file
 				parser.add_entity(new_entity)
-			elif sextref=="" and "multi_extref" in e["original"] and len(multi_extref)>0:
-				sextref=e["original"]["multi_extref"]
-				mention=e["original"]["mention"]
-				for er in sextref:
-					new_entity = Centity()
-					new_id = get_id_not_used(used_ids)
-					new_entity.set_id(new_id)
-					used_ids.add(new_id)
-					new_entity.set_comment(mention)
-					
-					ref = Creferences()
-					ref.add_span(e["original"]["terms"])
-					new_entity.add_reference(ref)
-					
-					
-					ext_ref = CexternalReference()
-					ext_ref.set_resource("POCUS")
-					ext_ref.set_reference(er)
-					ext_ref.set_confidence("1.0")
-					new_entity.add_external_reference(ext_ref)
-					
-					parser.add_entity(new_entity)
 			elif sextref=="" and e["original"]["extref"]:
 				sextref=e["original"]["extref"]
 				mention=e["original"]["mention"]
-				
-				er = sextref
-				new_entity = Centity()
-				new_id = get_id_not_used(used_ids)
-				new_entity.set_id(new_id)
-				used_ids.add(new_id)
-				new_entity.set_comment(mention)
-				
-				ref = Creferences()
-				ref.add_span(e["original"]["terms"])
-				new_entity.add_reference(ref)
-				
+							
 				ext_ref = CexternalReference()
 				ext_ref.set_resource("POCUS")
-				ext_ref.set_reference(er)
+				ext_ref.set_reference(sextref)
 				ext_ref.set_confidence("1.0")
-				new_entity.add_external_reference(ext_ref)
 				
-				parser.add_entity(new_entity)
+				parser.add_external_reference_to_entity(e["eid"], ext_ref)
+
 			
 
 			
 		parser.dump(out_file)
-		"""
-
-			############ THE RULES START FROM HERE ONWARDS #############
-			
-			########### Disambiguation #############
-			
-			extref=do_disambiguation(entity_string, all_entities, terms, parser)
-			if extref:
-				entity=add_entity_extref(entity, extref)
-				count_dis+=1
-
-			############ Recognition ###############
-			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity) and "-" in entity_string: # R3
-				found=False
-				for new_ent in entity_string.split("-"):
-					extref=do_disambiguation(new_ent, all_entities, terms, parser)
-					if extref:
-						found=True
-						entity=add_entity_extref(entity, extref)
-						print "R3", file, terms, extref
-
-			if not extref:
-#				count_after_3+=1
-				extref=get_most_confident_link(entity)
-				print entity_string
-				entity=add_entity_extref(entity, extref)
-			count_all+=1
-			all_entities[entity_string.lower()]={"extref": extref, "terms": terms, "initials": get_initials(entity_string)}
-
-		# Now do the title
-		for entity in title_entities:
-			for ref in entity.get_references():
-				terms=ref.get_span().get_span_ids()
-			entity_string = get_entity_mention(parser, terms)
-			
-			############ THE RULES START FROM HERE ONWARDS #############
-			
-			########### Disambiguation #############
-			
-			extref=do_disambiguation(entity_string, all_entities, terms, parser)
-			if extref:
-				entity=add_entity_extref(entity, extref)
-				count_dis+=1
-
-			############ Recognition ###############
-			if not extref and len(entity_string.split())==1 and not get_most_confident_link(entity) and "-" in entity_string: # R3
-				found=False
-				for new_ent in entity_string.split("-"):
-					extref=do_disambiguation(new_ent, all_entities, terms, parser)
-					if extref:
-						found=True
-						entity=add_entity_extref(entity, extref)
-						print "R3", file, terms, extref
-
-			if not extref:
-#				count_after_3+=1
-				extref='-NAE-'
-				entity=add_entity_extref(entity, extref)
-		parser.dump(out_path + file)
-	print count_all, count_dis
-	"""

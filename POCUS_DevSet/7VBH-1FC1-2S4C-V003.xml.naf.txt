@@ -6192,6 +6192,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="3.9041265E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="6.3738556E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Billboard_200" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -6214,6 +6215,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="3.9041265E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="6.3738556E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Billboard_200" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -6228,6 +6230,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/IMS_Health" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/IMS_Health" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/IMS_Health" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/IMS_Health" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -6250,6 +6253,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="1.1060449E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="8.763917E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -6263,6 +6267,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Pfizer" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pfizer" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Pfizer" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pfizer" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="PERSON">
@@ -6275,6 +6280,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Atorvastatin" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Atorvastatin" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Atorvastatin" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="MISC">
@@ -6299,6 +6305,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/AstraZeneca" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/AstraZeneca" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/AstraZeneca" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/AstraZeneca" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -6336,6 +6343,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Sanofi" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sanofi" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Sanofi" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sanofi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -6350,6 +6358,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Bristol-Myers_Squibb" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bristol-Myers_Squibb" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Bristol-Myers_Squibb" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bristol-Myers_Squibb" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="MISC">
@@ -6383,6 +6392,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="3.9041265E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="6.3738556E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Billboard_200" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -6404,6 +6414,7 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/International_Measurement_System" confidence="1.7531225E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/International_Music_Summit" confidence="3.1709798E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Institute_of_Mathematical_Statistics" confidence="24"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/IBM_Information_Management_System" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="PERSON">
@@ -6441,129 +6452,6 @@ Ms Conmy also noted that the slowdown in demand has been worse during this curre
       <externalReferences>
         <externalRef resource="GOLD" reference="" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t10"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--IMS Health-->
-      <references>
-        <span>
-          <target id="t28"/>
-          <target id="t29"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/IMS_Health" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--USA-->
-      <references>
-        <span>
-          <target id="t50"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Pfizer-->
-      <references>
-        <span>
-          <target id="t193"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pfizer" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Lipitor-->
-      <references>
-        <span>
-          <target id="t199"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Atorvastatin" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--AstraZeneca-->
-      <references>
-        <span>
-          <target id="t222"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/AstraZeneca" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Sanofi-Aventis-->
-      <references>
-        <span>
-          <target id="t243"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sanofi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Bristol-Myers Squibb-->
-      <references>
-        <span>
-          <target id="t245"/>
-          <target id="t246"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bristol-Myers_Squibb" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t276"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--IMS-->
-      <references>
-        <span>
-          <target id="t279"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/IBM_Information_Management_System" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

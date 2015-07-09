@@ -5349,6 +5349,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -5371,6 +5372,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_Beijing" confidence="2.6394733E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_China_Open_(tennis)" confidence="6.137526E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Beijing" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -5392,6 +5394,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Motors_Liquidation_Company" confidence="1.0431088E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_GM_transmissions" confidence="2.2099114E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -5414,6 +5417,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -5464,6 +5468,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -5486,6 +5491,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -5500,6 +5506,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="MISC">
@@ -5514,6 +5521,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Prius" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Prius_(XW30)" confidence="2.2768387E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota_Prius" confidence="13"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota_Prius" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -5536,6 +5544,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -5558,6 +5567,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Super_Corollas" confidence="1.2351178E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Manufacturing_UK" confidence="5.1730197E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="PERSON">
@@ -5586,6 +5596,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nagoya_Grampus" confidence="4.1445474E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="15"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="PERSON">
@@ -5611,6 +5622,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wale_(rapper)" confidence="0.99999785" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wale" confidence="2.1728706E-6" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Wale" confidence="15"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wale_(rapper)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -5662,6 +5674,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Shanghai_(2010_film)" confidence="2.3389326E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Shanghai_cricket_team" confidence="9.5521706E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Shanghai" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Shanghai" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -5679,6 +5692,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Leidos" confidence="4.677914E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_African_Indian_Congress" confidence="1.5352863E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Leidos" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -5715,6 +5729,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Malaysian_Chinese" confidence="1.5195607E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_China" confidence="6.93853E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -5750,6 +5765,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -5772,6 +5788,7 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -5794,207 +5811,6 @@ But, so far, hybrids in China are being driven by government policy, not consume
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="5.637025E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="4.4057526E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t5"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--BEIJING-->
-      <references>
-        <span>
-          <target id="t6"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--General Motors-->
-      <references>
-        <span>
-          <target id="t15"/>
-          <target id="t16"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t19"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t61"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t81"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Toyota Motor Corp.-->
-      <references>
-        <span>
-          <target id="t127"/>
-          <target id="t128"/>
-          <target id="t129"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Prius-->
-      <references>
-        <span>
-          <target id="t141"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota_Prius" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t144"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Toyota-->
-      <references>
-        <span>
-          <target id="t151"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Toyota Motor-->
-      <references>
-        <span>
-          <target id="t169"/>
-          <target id="t170"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Wale-->
-      <references>
-        <span>
-          <target id="t174"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wale_(rapper)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Shanghai-->
-      <references>
-        <span>
-          <target id="t200"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Shanghai" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--SAIC-->
-      <references>
-        <span>
-          <target id="t209"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t227"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t266"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t276"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t322"/>
-        </span>
-      </references>
-      <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>

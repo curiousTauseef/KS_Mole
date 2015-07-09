@@ -3952,6 +3952,7 @@
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Lindsay_Hoyle" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lindsay_Hoyle" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lindsay_Hoyle" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -3974,6 +3975,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Palace_of_Westminster" confidence="0.379703" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" confidence="0.5559603" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Westminster" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -3997,6 +3999,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_Company" confidence="4.9216624E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_England" confidence="0.9999993" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BBC_North_West" confidence="4"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -4040,6 +4043,7 @@
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -4052,6 +4056,7 @@
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -4072,6 +4077,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Borough_of_Chorley" confidence="5.1903055E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chorley" confidence="0.9994808" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chorley" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chorley" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4095,6 +4101,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_Company" confidence="4.9216624E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_England" confidence="0.9999993" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BBC_North_West" confidence="4"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="ORGANIZATION">
@@ -4130,6 +4137,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_Company" confidence="4.9216624E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_England" confidence="0.9999993" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BBC_North_West" confidence="4"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -4153,6 +4161,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_Company" confidence="4.9216624E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_West_England" confidence="0.9999993" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BBC_North_West" confidence="4"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="ORGANIZATION">
@@ -4184,6 +4193,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_The_Prince_of_Tennis_characters" confidence="1.3759828E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="0.9999975" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -4262,6 +4272,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Palace_of_Westminster" confidence="0.0010263687" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" confidence="0.99896514" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Irish_House_of_Commons" confidence="1"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="MISC">
@@ -4278,6 +4289,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Airbus_A320_family" confidence="3.377962E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Airbus" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Airbus" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Airbus" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -4300,6 +4312,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BAE_Systems_Australia" confidence="5.1827337E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BAE_Systems" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BAE_Systems" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BAE_Systems" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -4313,6 +4326,7 @@
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Rolls-Royce_Group_PLC" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Rolls-Royce_Group_PLC" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Rolls-Royce_Group_PLC" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -4335,6 +4349,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bombardier_Aerospace" confidence="2.0403165E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bombardier_Inc." confidence="0.9997959" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bombardier_Inc." confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bombardier_Inc." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -4349,196 +4364,6 @@
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Thales_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thales_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Thales_Group" confidence="16"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Lindsay Hoyle-->
-      <references>
-        <span>
-          <target id="t7"/>
-          <target id="t8"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lindsay_Hoyle" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Westminster-->
-      <references>
-        <span>
-          <target id="t11"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--North West-->
-      <references>
-        <span>
-          <target id="t23"/>
-          <target id="t24"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Society of British Aerospace Companies-->
-      <references>
-        <span>
-          <target id="t41"/>
-          <target id="t42"/>
-          <target id="t43"/>
-          <target id="t44"/>
-          <target id="t45"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--SBAC-->
-      <references>
-        <span>
-          <target id="t47"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Society_of_British_Aerospace_Companies" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Chorley-->
-      <references>
-        <span>
-          <target id="t55"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chorley" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--North West-->
-      <references>
-        <span>
-          <target id="t60"/>
-          <target id="t61"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--North West-->
-      <references>
-        <span>
-          <target id="t123"/>
-          <target id="t124"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--North West-->
-      <references>
-        <span>
-          <target id="t157"/>
-          <target id="t158"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_West_England" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Kevin Smith-->
-      <references>
-        <span>
-          <target id="t181"/>
-          <target id="t182"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--House of Commons-->
-      <references>
-        <span>
-          <target id="t222"/>
-          <target id="t223"/>
-          <target id="t224"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Airbus-->
-      <references>
-        <span>
-          <target id="t238"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Airbus" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--BAE Systems-->
-      <references>
-        <span>
-          <target id="t240"/>
-          <target id="t241"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BAE_Systems" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Rolls-Royce plc-->
-      <references>
-        <span>
-          <target id="t243"/>
-          <target id="t244"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Rolls-Royce_Group_PLC" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Bombardier-->
-      <references>
-        <span>
-          <target id="t246"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bombardier_Inc." confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Thales UK-->
-      <references>
-        <span>
-          <target id="t248"/>
-          <target id="t249"/>
-        </span>
-      </references>
-      <externalReferences>
         <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Thales_Group" confidence="1.0"/>
       </externalReferences>
     </entity>

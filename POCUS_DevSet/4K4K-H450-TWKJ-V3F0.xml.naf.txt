@@ -3991,6 +3991,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="2.6626317E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="9.863676E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -4005,6 +4006,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -4028,6 +4030,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong_national_under-23_football_team" confidence="1.3448095E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_Hong_Kong" confidence="9.807541E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -4050,6 +4053,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Beijing_Ducks" confidence="4.5594326E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_China_Open_(tennis)" confidence="3.036276E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Beijing" confidence="20"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -4076,6 +4080,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -4098,6 +4103,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="2.6626317E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="9.863676E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -4121,6 +4127,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong_national_under-23_football_team" confidence="1.3448095E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_Hong_Kong" confidence="9.807541E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4138,6 +4145,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_China_Morning_Post" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SCMP_Group" confidence="6.527248E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/South_China_Morning_Post" confidence="11"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_China_Morning_Post" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -4161,6 +4169,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong_national_under-23_football_team" confidence="1.3448095E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_Hong_Kong" confidence="9.807541E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="21"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="MISC">
@@ -4175,6 +4184,7 @@ vm/mas</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -4201,6 +4211,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Nanjing_Automobile" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nanjing_Automobile" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Nanjing_Automobile" confidence="16"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nanjing_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -4223,6 +4234,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Rover_P3" confidence="1.6436515E-33" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Rover_(The_Prisoner)" confidence="4.0236083E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Rover_Group" confidence="17"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/MG_Rover_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="ORGANIZATION">
@@ -4258,6 +4270,7 @@ vm/mas</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -4279,6 +4292,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Motorsport" confidence="4.628669E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_de_M??xico" confidence="8.74644E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="23"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -4294,6 +4308,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="15"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g4" type="ORGANIZATION">
@@ -4321,6 +4336,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bank_of_America_Merrill_Lynch" confidence="2.7433005E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ridgemont_Equity_Partners" confidence="1.5682911E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Merrill_Lynch" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Merrill_Lynch" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -4336,6 +4352,7 @@ vm/mas</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Morgan_Stanley" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Morgan_Stanley_Wealth_Management" confidence="3.729578E-12" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Morgan_Stanley" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Morgan_Stanley" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -4350,6 +4367,7 @@ vm/mas</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Deutsche_Bank" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Deutsche_Bank" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Deutsche_Bank" confidence="22"/>
+        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Deutsche_Bank" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g5" type="ORGANIZATION">
@@ -4361,222 +4379,6 @@ vm/mas</raw>
       </references>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--SAIC Motor-->
-      <references>
-        <span>
-          <target id="t3"/>
-          <target id="t4"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Hong Kong-->
-      <references>
-        <span>
-          <target id="t9"/>
-          <target id="t10"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--BEIJING-->
-      <references>
-        <span>
-          <target id="t16"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--SAIC Motor-->
-      <references>
-        <span>
-          <target id="t21"/>
-          <target id="t22"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t24"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Hong Kong-->
-      <references>
-        <span>
-          <target id="t46"/>
-          <target id="t47"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--South China Morning Post-->
-      <references>
-        <span>
-          <target id="t53"/>
-          <target id="t54"/>
-          <target id="t55"/>
-          <target id="t56"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_China_Morning_Post" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Hong Kong-->
-      <references>
-        <span>
-          <target id="t77"/>
-          <target id="t78"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Hang Seng Index-->
-      <references>
-        <span>
-          <target id="t112"/>
-          <target id="t113"/>
-          <target id="t114"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Nanjing Automobile Group-->
-      <references>
-        <span>
-          <target id="t191"/>
-          <target id="t192"/>
-          <target id="t193"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nanjing_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Rover-->
-      <references>
-        <span>
-          <target id="t199"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/MG_Rover_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Shanghai Automotive-->
-      <references>
-        <span>
-          <target id="t211"/>
-          <target id="t212"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SAIC_Motor" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Volkswagen-->
-      <references>
-        <span>
-          <target id="t218"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--General Motors Corp.-->
-      <references>
-        <span>
-          <target id="t220"/>
-          <target id="t221"/>
-          <target id="t222"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Merrill Lynch-->
-      <references>
-        <span>
-          <target id="t226"/>
-          <target id="t227"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Merrill_Lynch" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Morgan Stanley-->
-      <references>
-        <span>
-          <target id="t229"/>
-          <target id="t230"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Morgan_Stanley" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Deutsche Bank-->
-      <references>
-        <span>
-          <target id="t232"/>
-          <target id="t233"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Deutsche_Bank" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>
