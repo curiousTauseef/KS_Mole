@@ -1492,7 +1492,7 @@
     </entity>
     <entity id="33" type="">
       <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
       <references>
         <span>

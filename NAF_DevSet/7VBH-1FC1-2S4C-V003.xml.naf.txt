@@ -2454,16 +2454,6 @@
         </span>
       </references>
     </entity>
-    <entity id="27" type="">
-      <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
-      </externalReferences>
-      <references>
-        <span>
-          <target id="276"/>
-        </span>
-      </references>
-    </entity>
     <entity id="15" type="">
       <externalReferences>
         <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/AstraZeneca" confidence="1.0"/>

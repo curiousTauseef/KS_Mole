@@ -1958,7 +1958,7 @@
     </entity>
     <entity id="38" type="">
       <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
       </externalReferences>
       <references>
         <span>
@@ -2015,7 +2015,7 @@
     </entity>
     <entity id="36" type="">
       <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
       <references>
         <span>

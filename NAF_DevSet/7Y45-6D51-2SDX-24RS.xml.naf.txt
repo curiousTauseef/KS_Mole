@@ -2712,7 +2712,7 @@
     </entity>
     <entity id="61" type="">
       <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
       <references>
         <span>
@@ -3097,7 +3097,7 @@
     </entity>
     <entity id="35" type="">
       <externalReferences>
-        <externalRef resource="byCROMER" reference="-NAE-" confidence="1.0"/>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
       <references>
         <span>
