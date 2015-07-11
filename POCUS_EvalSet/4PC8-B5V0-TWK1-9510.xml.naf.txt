@@ -3715,6 +3715,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Europe" confidence="2.0674778E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Australia" confidence="1.5008435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -3729,6 +3730,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cerberus_Capital_Management" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Cerberus_Capital_Management" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cerberus_Capital_Management" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -3763,6 +3765,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -3776,6 +3779,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -3797,6 +3801,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Europe" confidence="2.0674778E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Australia" confidence="1.5008435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="MISC">
@@ -3821,6 +3826,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="0.9999973" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian_Auto_Workers" confidence="2.6720365E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Allied_Industrial_Workers_of_America" confidence="4.1667963E-32" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -3830,6 +3836,9 @@ http://www.TheDeal.com</raw>
           <target id="t73"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
       <references>
@@ -3842,6 +3851,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Reuters" confidence="0.9998977" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomson_Reuters" confidence="1.0229975E-4" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Reuters" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -3855,6 +3865,7 @@ http://www.TheDeal.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian_Auto_Workers" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canadian_Auto_Workers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="PERSON">
@@ -3868,6 +3879,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Buzz_Hargrove" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Buzz_Hargrove" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Buzz_Hargrove" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -3877,6 +3889,9 @@ http://www.TheDeal.com</raw>
           <target id="t106"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
       <references>
@@ -3897,6 +3912,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Europe" confidence="2.0674778E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Australia" confidence="1.5008435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="MISC">
@@ -3918,6 +3934,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Canada" confidence="8.663465E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian,_Texas" confidence="6.686094E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Canada" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -3931,6 +3948,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -3944,6 +3962,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="PERSON">
@@ -3953,6 +3972,9 @@ http://www.TheDeal.com</raw>
           <target id="t158"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
       <references>
@@ -3966,6 +3988,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Electric" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Electric" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Electric" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="PERSON">
@@ -3979,6 +4002,7 @@ http://www.TheDeal.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wolfgang_Bernhard" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Wolfgang_Bernhard" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wolfgang_Bernhard" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -3993,6 +4017,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.9968386" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="0.0031613528" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="ORGANIZATION">
@@ -4014,6 +4039,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Europe" confidence="2.0674778E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Australia" confidence="1.5008435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="PERSON">
@@ -4044,219 +4070,7 @@ http://www.TheDeal.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Europe" confidence="2.0674778E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler_Australia" confidence="1.5008435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t3"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Cerberus Capital Management-->
-      <references>
-        <span>
-          <target id="t5"/>
-          <target id="t6"/>
-          <target id="t7"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cerberus_Capital_Management" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Robert Nardelli-->
-      <references>
-        <span>
-          <target id="t34"/>
-          <target id="t35"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Robert_Nardelli" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Chrysler Group-->
-      <references>
-        <span>
-          <target id="t38"/>
-          <target id="t39"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t63"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--United Auto Workers-->
-      <references>
-        <span>
-          <target id="t68"/>
-          <target id="t69"/>
-          <target id="t70"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Reuters-->
-      <references>
-        <span>
-          <target id="t81"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Canadian Auto Workers-->
-      <references>
-        <span>
-          <target id="t83"/>
-          <target id="t84"/>
-          <target id="t85"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canadian_Auto_Workers" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Buzz Hargrove-->
-      <references>
-        <span>
-          <target id="t87"/>
-          <target id="t88"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Buzz_Hargrove" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t108"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Canadian-->
-      <references>
-        <span>
-          <target id="t110"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Home Depot-->
-      <references>
-        <span>
-          <target id="t127"/>
-          <target id="t128"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Home Depot-->
-      <references>
-        <span>
-          <target id="t155"/>
-          <target id="t156"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Home_Depot" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--General Electric Co.-->
-      <references>
-        <span>
-          <target id="t165"/>
-          <target id="t166"/>
-          <target id="t167"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Electric" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Wolfgang Bernhard-->
-      <references>
-        <span>
-          <target id="t204"/>
-          <target id="t205"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wolfgang_Bernhard" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Volkswagen AG-->
-      <references>
-        <span>
-          <target id="t216"/>
-          <target id="t217"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t220"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t231"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

@@ -3258,6 +3258,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Citizenship_of_the_European_Union" confidence="1.4016712E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="0.9999995" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -3279,6 +3280,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="MISC">
@@ -3307,6 +3309,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Atomic_Energy_Community" confidence="8.869678E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/European_Commission" confidence="6"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -3328,6 +3331,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Economic_Community" confidence="1.4411845E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Commission" confidence="0.9999856" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/EC_Comics" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -3359,6 +3363,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Member_state_of_the_European_Union" confidence="9.6292794E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="0.9999999" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/European_Union" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -3379,6 +3384,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Citizenship_of_the_European_Union" confidence="1.4016712E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="0.9999995" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -3400,6 +3406,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -3415,6 +3422,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="5.432642E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="0.0194989" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.98050106" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -3436,6 +3444,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/German_language" confidence="0.011354621" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany" confidence="0.9841725" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -3457,6 +3466,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -3478,6 +3488,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe" confidence="4.9509028E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="0.99995047" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -3499,6 +3510,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -3514,6 +3526,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="5.432642E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen" confidence="0.0194989" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="0.98050106" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -3535,6 +3548,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Economic_Community" confidence="1.4411845E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Commission" confidence="0.9999856" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/EC_Comics" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -3556,6 +3570,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="MISC">
@@ -3577,6 +3592,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/German_language" confidence="0.011354621" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany" confidence="0.9841725" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="MISC">
@@ -3607,195 +3623,7 @@ Significance:Porsche's statement is part of the legal procedure in its bid to ga
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ferdinand_Porsche" confidence="1.6263057E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--EU-->
-      <references>
-        <span>
-          <target id="t8"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t9"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--European Commission-->
-      <references>
-        <span>
-          <target id="t32"/>
-          <target id="t33"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--EC-->
-      <references>
-        <span>
-          <target id="t35"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--European Union-->
-      <references>
-        <span>
-          <target id="t44"/>
-          <target id="t45"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--EU-->
-      <references>
-        <span>
-          <target id="t47"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t67"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t70"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t77"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t83"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t101"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t107"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t115"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--EC-->
-      <references>
-        <span>
-          <target id="t129"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Commission" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t159"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t179"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t199"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

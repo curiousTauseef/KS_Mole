@@ -3677,6 +3677,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hollywood" confidence="1.412995E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_Hollywood_High_School" confidence="1.4626619E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_Hollywood_(Los_Angeles_Metro_station)" confidence="3.0808935E-26" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_Hollywood,_Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="MISC">
@@ -3705,6 +3706,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Busch_Campus_of_Rutgers_University" confidence="3.863268E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germ??n_Busch" confidence="5.946408E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Adolphus_Busch" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="PERSON">
@@ -3724,6 +3726,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mark_Brendanawicz" confidence="6.182693E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mark_Waugh" confidence="2.5262086E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mark_Howe" confidence="4.679268E-17" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Gospel_of_Mark" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="PERSON">
@@ -3744,6 +3747,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Busch_Campus_of_Rutgers_University" confidence="3.863268E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germ??n_Busch" confidence="5.946408E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Adolphus_Busch" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -3766,6 +3770,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_congressional_delegations_from_New_York" confidence="1.3690928E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2012???13_New_York_Knicks_season" confidence="8.707259E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_York" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="MISC">
@@ -3787,6 +3792,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tsardom_of_Russia" confidence="2.98676E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Russian_alphabet" confidence="1.1599766E-10" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Russia" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Russian_language" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="MISC">
@@ -3807,6 +3813,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yiddish_dialects" confidence="3.8937762E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yiddish_orthography" confidence="3.3941353E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yiddish_phonology" confidence="4.449186E-30" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Yiddish_language" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -3830,6 +3837,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geography_of_New_York_City" confidence="3.831164E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Koreatown,_Manhattan" confidence="1.6128061E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_York_City" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -3842,6 +3850,7 @@ She often took her one-woman shows and staged readings to public schools under a
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Group_Theatre_(New_York)" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Group_Theatre_(New_York)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -3857,6 +3866,7 @@ She often took her one-woman shows and staged readings to public schools under a
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Academy_of_Dramatic_Arts" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Academy_of_Dramatic_Arts" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -3888,6 +3898,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_Sparks" confidence="1.5596782E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_metropolitan_area" confidence="2.4998767E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Los_Angeles" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -3904,6 +3915,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2013_Los_Angeles_Dodgers_season" confidence="1.000234E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/LA_Women's_Tennis_Championships" confidence="4.3349775E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/L.A._(Amy_Macdonald_song)" confidence="4.473864E-29" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -3924,6 +3936,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Busch_Campus_of_Rutgers_University" confidence="3.863268E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germ??n_Busch" confidence="5.946408E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Adolphus_Busch" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -3944,6 +3957,7 @@ She often took her one-woman shows and staged readings to public schools under a
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/NoHo_Arts_District,_Los_Angeles" confidence="0.9999932" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/NoHo" confidence="6.800452E-6" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/NoHo_Arts_District,_Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
@@ -3964,6 +3978,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Busch_Campus_of_Rutgers_University" confidence="3.863268E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germ??n_Busch" confidence="5.946408E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Adolphus_Busch" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -3986,193 +4001,7 @@ She often took her one-woman shows and staged readings to public schools under a
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Times_of_Northwest_Indiana" confidence="1.9651807E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Times_(Pawtucket)" confidence="2.080378E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/The_Times" confidence="11"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--North Hollywood-->
-      <references>
-        <span>
-          <target id="t15"/>
-          <target id="t16"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_Hollywood,_Los_Angeles" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Busch-->
-      <references>
-        <span>
-          <target id="t29"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Mark-->
-      <references>
-        <span>
-          <target id="t41"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Gospel_of_Mark" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Busch-->
-      <references>
-        <span>
-          <target id="t43"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--New York-->
-      <references>
-        <span>
-          <target id="t52"/>
-          <target id="t53"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Russian-->
-      <references>
-        <span>
-          <target id="t55"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Russian_language" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Yiddish-->
-      <references>
-        <span>
-          <target id="t68"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Yiddish_language" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--New York City-->
-      <references>
-        <span>
-          <target id="t74"/>
-          <target id="t75"/>
-          <target id="t76"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Group Theater-->
-      <references>
-        <span>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Group_Theatre_(New_York)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--American Academy of Dramatic Arts-->
-      <references>
-        <span>
-          <target id="t84"/>
-          <target id="t85"/>
-          <target id="t86"/>
-          <target id="t87"/>
-          <target id="t88"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Academy_of_Dramatic_Arts" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Los Angeles-->
-      <references>
-        <span>
-          <target id="t102"/>
-          <target id="t103"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--L.A.-->
-      <references>
-        <span>
-          <target id="t131"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Busch-->
-      <references>
-        <span>
-          <target id="t138"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--NoHo-->
-      <references>
-        <span>
-          <target id="t157"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/NoHo_Arts_District,_Los_Angeles" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Busch-->
-      <references>
-        <span>
-          <target id="t202"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anheuser-Busch_brands" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--The Times-->
-      <references>
-        <span>
-          <target id="t204"/>
-          <target id="t205"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Times" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Times" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

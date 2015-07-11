@@ -286,9 +286,9 @@ if __name__=="__main__":
 		my_dbpedia = Cdbpedia_enquirer(sys.argv[1])		
 	else: # default remote dbpedia
 		my_dbpedia = Cdbpedia_enquirer()
-	path="NWR_DevSet/"
+	path="NWR_EvalSet/"
 	#path="eval_corpus/"
-	out_path="POCUS_DevSet/"
+	out_path="POCUS_EvalSet/"
 	count_all = 0
 	count_dis=0
 	for file in os.listdir(path):

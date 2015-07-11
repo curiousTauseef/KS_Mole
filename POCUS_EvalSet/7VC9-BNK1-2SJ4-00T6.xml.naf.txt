@@ -3479,6 +3479,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -3499,6 +3500,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ukraine???European_Union_relations" confidence="1.934984E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Climate_change_in_the_European_Union" confidence="9.955171E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -3514,6 +3516,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="4.684284E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="1.0135148E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_air-cooled_engine" confidence="3.814309E-9" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -3534,6 +3537,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ukraine???European_Union_relations" confidence="1.934984E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Climate_change_in_the_European_Union" confidence="9.955171E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -3547,6 +3551,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Charlie_McCreevy" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Charlie_McCreevy" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Charlie_McCreevy" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -3559,6 +3564,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Handelsblatt" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Handelsblatt" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Handelsblatt" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="MISC">
@@ -3580,6 +3586,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Germany" confidence="2.9321298E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/German_American" confidence="1.12157936E-10" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -3593,6 +3600,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Reuters" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomson_Reuters" confidence="1.13752625E-8" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Reuters" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -3614,6 +3622,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Berlin_(band)" confidence="2.2087155E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Berlin_Central_Station" confidence="7.235179E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Berlin" confidence="5"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Berlin" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -3634,6 +3643,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ukraine???European_Union_relations" confidence="1.934984E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Climate_change_in_the_European_Union" confidence="9.955171E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="MISC">
@@ -3655,6 +3665,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Figure_Skating_Championships" confidence="8.584655E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="1.1868669E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="LOCATION">
@@ -3676,6 +3687,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_women's_national_football_team" confidence="1.5080549E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_national_youth_football_team" confidence="1.2618323E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -3691,6 +3703,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="4.684284E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="1.0135148E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_air-cooled_engine" confidence="3.814309E-9" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="MISC">
@@ -3712,6 +3725,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Figure_Skating_Championships" confidence="8.584655E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="1.1868669E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -3733,6 +3747,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Figure_Skating_Championships" confidence="8.584655E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="1.1868669E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -3754,6 +3769,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_women's_national_football_team" confidence="1.5080549E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_national_youth_football_team" confidence="1.2618323E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="LOCATION">
@@ -3773,6 +3789,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lower_Saxon_Wadden_Sea_National_Park" confidence="9.205016E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lower_Saxon_cuisine" confidence="5.124607E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Lower_Saxony" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lower_Saxony" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -3788,6 +3805,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="4.684284E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="1.0135148E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_air-cooled_engine" confidence="3.814309E-9" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="MISC">
@@ -3809,6 +3827,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Germany" confidence="2.9321298E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/German_American" confidence="1.12157936E-10" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -3830,6 +3849,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche_RS_Spyder" confidence="1.2339415E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Porsche_3512" confidence="8.555267E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Porsche" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -3850,6 +3870,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_India" confidence="3.2942337E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_de_M??xico" confidence="2.9693444E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -3865,250 +3886,7 @@ Porsche is the largest shareholder in Volkswagen with the equivalent of a 74.1% 
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Beetle" confidence="4.684284E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Scirocco" confidence="1.0135148E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_air-cooled_engine" confidence="3.814309E-9" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--GERMANY-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--EU-->
-      <references>
-        <span>
-          <target id="t3"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t8"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--EU-->
-      <references>
-        <span>
-          <target id="t12"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Charlie McCreevy-->
-      <references>
-        <span>
-          <target id="t16"/>
-          <target id="t17"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Charlie_McCreevy" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Handelsblatt-->
-      <references>
-        <span>
-          <target id="t20"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Handelsblatt" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t33"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Reuters-->
-      <references>
-        <span>
-          <target id="t45"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Berlin-->
-      <references>
-        <span>
-          <target id="t47"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Berlin" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--EU-->
-      <references>
-        <span>
-          <target id="t56"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t65"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Germany-->
-      <references>
-        <span>
-          <target id="t68"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t71"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t75"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t91"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Germany-->
-      <references>
-        <span>
-          <target id="t102"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Lower Saxony-->
-      <references>
-        <span>
-          <target id="t111"/>
-          <target id="t112"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lower_Saxony" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t120"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--German-->
-      <references>
-        <span>
-          <target id="t138"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Porsche-->
-      <references>
-        <span>
-          <target id="t157"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Porsche" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Volkswagen-->
-      <references>
-        <span>
-          <target id="t163"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--VW-->
-      <references>
-        <span>
-          <target id="t191"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

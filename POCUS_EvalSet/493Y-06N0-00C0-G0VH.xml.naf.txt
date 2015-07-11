@@ -7389,6 +7389,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ducktown,_Tennessee" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ducktown,_Atlantic_City" confidence="6.3566437E-13" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ducktown,_Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -7402,6 +7403,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_United_States_Senators_from_Tennessee" confidence="2.6215614E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tennessee" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="MISC">
@@ -7423,6 +7425,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toccoa/Ocoee_River" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toccoa/Ocoee_River" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -7458,6 +7461,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/TVA_Group" confidence="1.9346573E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/TVA_(Albania)" confidence="1.9983188E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/TVA_Digital" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tennessee_Valley_Authority" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -7471,6 +7475,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Blue_Ridge_Reservoir" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Blue_Ridge_Reservoir" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -7483,6 +7488,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tracy_City,_Tennessee" confidence="0.99999994" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tracy_City,_Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -7496,6 +7502,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_United_States_Senators_from_Tennessee" confidence="2.6215614E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tennessee" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -7519,6 +7526,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Andy_Goldsworthy" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Andy_Goldsworthy" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -7539,6 +7547,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_rivers_of_the_Americas" confidence="2.3164154E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_rivers_of_Bulgaria" confidence="3.2833237E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/River" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/River" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -7560,6 +7569,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Southeastern_Collegiate_Rugby_Conference" confidence="5.3274353E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Terre_Haute_and_Southeastern_Railroad" confidence="1.4344591E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Southeastern_Conference" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Southeastern_United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="PERSON">
@@ -7582,6 +7592,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Goldsworthy_railway" confidence="0.98255414" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Goldsworthy,_Western_Australia" confidence="0.017445872" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Goldsworthy_railway" confidence="12"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Andy_Goldsworthy" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -7599,6 +7610,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ringgold,_Louisiana" confidence="7.835305E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USS_Ringgold_(DD-500)" confidence="4.1807133E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ringgold,_Maryland" confidence="1.4421265E-25" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ringgold,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="LOCATION">
@@ -7616,6 +7628,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gya" confidence="3.5097543E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GA" confidence="2.5705286E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Georgia_(U.S._state)" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Georgia_(U.S._state)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
@@ -7661,6 +7674,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/County_executive" confidence="0.0011132753" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Commissioner" confidence="1.5590977E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ohio_county_government" confidence="9.364479E-26" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/County_commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="PERSON">
@@ -7718,6 +7732,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gail_(river)" confidence="8.08464E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gail_Leery" confidence="4.8842254E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tommy_Sheridan" confidence="5"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Gail_Platt" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -7739,6 +7754,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Cleveland_Cavaliers_season" confidence="1.6639036E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Cleveland_Cavaliers_season" confidence="8.275689E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Greater_Cleveland" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cleveland" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="LOCATION">
@@ -7752,6 +7768,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_United_States_Senators_from_Tennessee" confidence="2.6215614E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tennessee" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="PERSON">
@@ -7794,6 +7811,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Cleveland_Cavaliers_season" confidence="1.6639036E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Cleveland_Cavaliers_season" confidence="8.275689E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Greater_Cleveland" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cleveland" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="PERSON">
@@ -7815,6 +7833,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bradley,_Lincolnshire" confidence="3.0939395E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bradley,_West_Yorkshire" confidence="5.101196E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Raymond_S._Bradley" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bradley_University" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="LOCATION">
@@ -7828,6 +7847,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/McMinn_County,_Tennessee" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/William_McMinn" confidence="2.376454E-15" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/William_McMinn" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/McMinn_County,_Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -7852,6 +7872,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fulton_County_Courthouse_(Georgia)" confidence="0.6401734" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fulton_County_Courthouse_(New_York)" confidence="0.3598266" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Fulton_County_Courthouse_(Georgia)" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fulton_County_Courthouse_(Georgia)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="LOCATION">
@@ -7873,6 +7894,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2010???11_Atlanta_Hawks_season" confidence="4.4095355E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2011???12_Atlanta_Hawks_season" confidence="2.3888736E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Atlanta" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Atlanta" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="PERSON">
@@ -7894,6 +7916,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_Williams" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wayne_Williams" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="PERSON">
@@ -7919,6 +7942,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martin_Luther_King,_Jr." confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Assassination_of_Martin_Luther_King,_Jr." confidence="7.346388E-15" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martin_Luther_King,_Jr." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e43" type="ORGANIZATION">
@@ -7932,293 +7956,7 @@ Slaton died last year at the age of 80. He was district attorney from 1965 to 19
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Slaton,_Texas" confidence="0.99999994" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_M._Slaton" confidence="4.9383075E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Slaton_Independent_School_District" confidence="1.5340708E-12" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--DUCKTOWN-->
-      <references>
-        <span>
-          <target id="t3"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ducktown,_Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--TENN.-->
-      <references>
-        <span>
-          <target id="t5"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Ocoee River-->
-      <references>
-        <span>
-          <target id="t20"/>
-          <target id="t21"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toccoa/Ocoee_River" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--TVA-->
-      <references>
-        <span>
-          <target id="t43"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tennessee_Valley_Authority" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Blue Ridge Reservoir-->
-      <references>
-        <span>
-          <target id="t56"/>
-          <target id="t57"/>
-          <target id="t58"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Blue_Ridge_Reservoir" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--TRACY CITY-->
-      <references>
-        <span>
-          <target id="t98"/>
-          <target id="t99"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tracy_City,_Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--TENN.-->
-      <references>
-        <span>
-          <target id="t101"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Andy Goldsworthy-->
-      <references>
-        <span>
-          <target id="t118"/>
-          <target id="t119"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Andy_Goldsworthy" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Rivers-->
-      <references>
-        <span>
-          <target id="t124"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/River" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Southeastern-->
-      <references>
-        <span>
-          <target id="t130"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Southeastern_United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Goldsworthy-->
-      <references>
-        <span>
-          <target id="t163"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Goldsworthy_railway" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--RINGGOLD-->
-      <references>
-        <span>
-          <target id="t188"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ringgold,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--GA.-->
-      <references>
-        <span>
-          <target id="t190"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Georgia_(U.S._state)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--County Commissioner-->
-      <references>
-        <span>
-          <target id="t242"/>
-          <target id="t243"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/County_commission" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Gail-->
-      <references>
-        <span>
-          <target id="t293"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Gail_Platt" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--CLEVELAND-->
-      <references>
-        <span>
-          <target id="t302"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cleveland" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--TENN.-->
-      <references>
-        <span>
-          <target id="t304"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Cleveland-->
-      <references>
-        <span>
-          <target id="t346"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cleveland" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Bradley-->
-      <references>
-        <span>
-          <target id="t370"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bradley_University" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--McMinn-->
-      <references>
-        <span>
-          <target id="t374"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/McMinn_County,_Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Fulton County Courthouse-->
-      <references>
-        <span>
-          <target id="t383"/>
-          <target id="t384"/>
-          <target id="t385"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fulton_County_Courthouse_(Georgia)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Atlanta-->
-      <references>
-        <span>
-          <target id="t397"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Atlanta" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Wayne Williams-->
-      <references>
-        <span>
-          <target id="t417"/>
-          <target id="t418"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wayne_Williams" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Martin Luther King Jr.-->
-      <references>
-        <span>
-          <target id="t443"/>
-          <target id="t444"/>
-          <target id="t445"/>
-          <target id="t446"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martin_Luther_King,_Jr." confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--Slaton-->
-      <references>
-        <span>
-          <target id="t448"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Slaton,_Texas" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Slaton,_Texas" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

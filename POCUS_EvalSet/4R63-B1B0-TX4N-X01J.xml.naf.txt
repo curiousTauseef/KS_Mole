@@ -3658,6 +3658,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -3685,6 +3686,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bill_Richardson_(radio)" confidence="5.374431E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -3701,6 +3703,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bill_Richardson_(radio)" confidence="5.374431E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="PERSON">
@@ -3740,6 +3743,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_Mexico_Territory" confidence="2.3026572E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_Mexico" confidence="0.99997693" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_Mexico" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_Mexico" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="PERSON">
@@ -3760,6 +3764,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="PERSON">
@@ -3798,6 +3803,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grant_Parish,_Louisiana" confidence="1.0319935E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ulysses_S._Grant" confidence="8.1582536E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grant_County,_New_Mexico" confidence="0.99918395" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Grant_County,_New_Mexico" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -3819,6 +3825,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hidalgo_(state)" confidence="0.4069335" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Miguel_Hidalgo_y_Costilla" confidence="0.5905882" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hidalgo_(state)" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Miguel_Hidalgo_y_Costilla" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -3839,6 +3846,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Samuel_Richardson" confidence="1.21147465E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Henry_Hobson_Richardson" confidence="3.0702745E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Richardson,_Texas" confidence="0.9999997" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -3862,6 +3870,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/House_of_Representatives_of_the_Philippines" confidence="0.011324999" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_House_of_Representatives" confidence="0.98850447" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/House_of_Representatives" confidence="6"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_House_of_Representatives" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="PERSON">
@@ -3882,6 +3891,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="LOCATION">
@@ -3902,6 +3912,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomas_F._Bayard" confidence="2.1796809E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bayard_(legend)" confidence="0.080245405" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="0.91975456" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -3919,6 +3930,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nautical_mile" confidence="1.6655166E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_Mexico" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_Mexico" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_Mexico" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -3963,6 +3975,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -3995,6 +4008,7 @@ For any query with respect to this article or any other content requirement, ple
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_New_Mexico_University" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Western_New_Mexico_University" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -4016,6 +4030,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Carp_Lake_Township,_Ontonagon_County,_Michigan" confidence="2.0568341E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Silver_City_Airways" confidence="3.3990973E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Silver_City,_New_Mexico" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Silver_City,_New_Mexico" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="ORGANIZATION">
@@ -4046,6 +4061,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomas_F._Bayard" confidence="2.1796809E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bayard_(legend)" confidence="0.080245405" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="0.91975456" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -4068,6 +4084,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="7.372847E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.9992627" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="PERSON">
@@ -4088,6 +4105,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="MISC">
@@ -4108,6 +4126,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomas_F._Bayard" confidence="2.1796809E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bayard_(legend)" confidence="0.080245405" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="0.91975456" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="PERSON">
@@ -4128,6 +4147,7 @@ For any query with respect to this article or any other content requirement, ple
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Martinez" confidence="2.3467474E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Francisco_Portusach_Mart??nez" confidence="2.3478785E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Martinez,_California" confidence="0.9999953" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="PERSON">
@@ -4138,236 +4158,6 @@ For any query with respect to this article or any other content requirement, ple
           <target id="t220"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--MARTINEZ-->
-      <references>
-        <span>
-          <target id="t5"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Bill Richardson-->
-      <references>
-        <span>
-          <target id="t13"/>
-          <target id="t14"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Bill Richardson-->
-      <references>
-        <span>
-          <target id="t25"/>
-          <target id="t26"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bill_Richardson" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--New Mexico-->
-      <references>
-        <span>
-          <target id="t36"/>
-          <target id="t37"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_Mexico" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Martinez-->
-      <references>
-        <span>
-          <target id="t45"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Grant-->
-      <references>
-        <span>
-          <target id="t83"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Grant_County,_New_Mexico" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Hidalgo-->
-      <references>
-        <span>
-          <target id="t85"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Miguel_Hidalgo_y_Costilla" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Richardson-->
-      <references>
-        <span>
-          <target id="t92"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Richardson,_Texas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--House of Representatives-->
-      <references>
-        <span>
-          <target id="t107"/>
-          <target id="t108"/>
-          <target id="t109"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_House_of_Representatives" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Martinez-->
-      <references>
-        <span>
-          <target id="t112"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Bayard-->
-      <references>
-        <span>
-          <target id="t116"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--NM-->
-      <references>
-        <span>
-          <target id="t118"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_Mexico" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Martinez-->
-      <references>
-        <span>
-          <target id="t143"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Western New Mexico University-->
-      <references>
-        <span>
-          <target id="t163"/>
-          <target id="t164"/>
-          <target id="t165"/>
-          <target id="t166"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Western_New_Mexico_University" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Silver City-->
-      <references>
-        <span>
-          <target id="t168"/>
-          <target id="t169"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Silver_City,_New_Mexico" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Bayard-->
-      <references>
-        <span>
-          <target id="t179"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t186"/>
-          <target id="t187"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Martinez-->
-      <references>
-        <span>
-          <target id="t191"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Bayard-->
-      <references>
-        <span>
-          <target id="t194"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Terrail,_seigneur_de_Bayard" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Martinez-->
-      <references>
-        <span>
-          <target id="t196"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Martinez,_California" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>

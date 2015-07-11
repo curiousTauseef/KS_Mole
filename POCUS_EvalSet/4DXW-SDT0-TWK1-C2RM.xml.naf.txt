@@ -6195,6 +6195,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pete_Boone" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Pete_Boone" confidence="11"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pete_Boone" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="PERSON">
@@ -6207,6 +6208,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="PERSON">
@@ -6219,6 +6221,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Eli_Manning" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Eli_Manning" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -6241,6 +6244,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_football" confidence="2.9485638E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="0.9999705" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_baseball" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -6250,6 +6254,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t88"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
       <references>
@@ -6268,6 +6275,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Peyton_Sawyer" confidence="1.3789813E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Peyton_Manning" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Peyton_List_(actress_born_1998)" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Peyton_Manning" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -6289,6 +6297,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tennessee" confidence="0.016126959" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_Tennessee" confidence="0.98387295" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tennessee" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/University_of_Tennessee" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -6307,6 +6316,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_football" confidence="4.2376456E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="0.9999996" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_baseball" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -6316,6 +6326,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t117"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
       <references>
@@ -6356,6 +6369,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_football" confidence="2.9485638E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="0.9999705" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ole_Miss_Rebels_baseball" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -6387,6 +6401,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Manning,_South_Carolina" confidence="1.5757777E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Peyton_Manning" confidence="0.9999998" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Electoral_district_of_Manning" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Eli_Manning" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="PERSON">
@@ -6396,6 +6411,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t311"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e16" type="MISC">
       <references>
@@ -6408,6 +6426,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Academic_All-America" confidence="6.5476914E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/All-America" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/All-America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -6417,6 +6436,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t326"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
       <references>
@@ -6433,6 +6455,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t341"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
       <references>
@@ -6441,6 +6466,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t349"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e21" type="PERSON">
       <references>
@@ -6461,6 +6489,7 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Daniel_Boone" confidence="6.495641E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Boone,_North_Carolina" confidence="0.9991848" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Daniel_Boone" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pete_Boone" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="LOCATION">
@@ -6479,6 +6508,9 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t377"/>
         </span>
       </references>
+      <externalReferences>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
+      </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
       <references>
@@ -6505,135 +6537,6 @@ Just days before Cutcliffe began talks with Boone, a bronze statue was raised in
           <target id="t390"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--Pete Boone-->
-      <references>
-        <span>
-          <target id="t15"/>
-          <target id="t16"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pete_Boone" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--David Cutcliffe-->
-      <references>
-        <span>
-          <target id="t64"/>
-          <target id="t65"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/David_Cutcliffe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Eli Manning-->
-      <references>
-        <span>
-          <target id="t76"/>
-          <target id="t77"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Eli_Manning" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Ole Miss-->
-      <references>
-        <span>
-          <target id="t82"/>
-          <target id="t83"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Peyton-->
-      <references>
-        <span>
-          <target id="t94"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Peyton_Manning" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Tennessee-->
-      <references>
-        <span>
-          <target id="t96"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/University_of_Tennessee" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--University of Mississippi-->
-      <references>
-        <span>
-          <target id="t109"/>
-          <target id="t110"/>
-          <target id="t111"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Ole Miss-->
-      <references>
-        <span>
-          <target id="t162"/>
-          <target id="t163"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/University_of_Mississippi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Manning-->
-      <references>
-        <span>
-          <target id="t227"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Peyton_Manning" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Academic All-Americans-->
-      <references>
-        <span>
-          <target id="t323"/>
-          <target id="t324"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/All-America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Boone-->
-      <references>
-        <span>
-          <target id="t353"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Boone,_North_Carolina" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>

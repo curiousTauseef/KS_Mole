@@ -5178,6 +5178,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Japan" confidence="9.024437E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_history_of_Japan" confidence="4.0992758E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Japan" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -5190,6 +5191,7 @@ ministry.</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Denso" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Denso" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -5201,6 +5203,7 @@ ministry.</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sz??kesfeh??rv??r" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sz??kesfeh??rv??r" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -5217,6 +5220,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hieronymus_Bosch" confidence="5.2558513E-37" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BSH_Bosch_und_Siemens_Hausger??te" confidence="8.09873E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bosch_Rexroth" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robert_Bosch_GmbH" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -5229,6 +5233,7 @@ ministry.</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Denso" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Denso" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Denso" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -5249,6 +5254,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.878E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -5266,6 +5272,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_India_Automobiles" confidence="1.83964E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_Automobiles" confidence="1.3981E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -5297,6 +5304,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Euro" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/EUR,_Rome" confidence="2.8535608E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Euro" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Euro" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -5310,6 +5318,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Euro" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/EUR,_Rome" confidence="2.8535608E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Euro" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Euro" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -5331,6 +5340,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Racing_Development" confidence="3.6E-44" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Motor_Manufacturing_Texas" confidence="2.0E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -5345,6 +5355,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japanese_cruiser_Isuzu" confidence="2.2046092E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Isuzu_Philippines" confidence="2.77576E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Isuzu_Motors" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Isuzu_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -5365,6 +5376,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nisan" confidence="1.089968E-39" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gibson_Motorsport" confidence="1.2E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/UD_Trucks" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -5383,6 +5395,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group_of_America" confidence="1.2046625E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Motorsport" confidence="4.6E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -5402,6 +5415,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_discontinued_Volkswagen_Group_petrol_engines" confidence="2.465E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Audi_S_and_RS_models" confidence="4.2E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Audi" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Audi" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="MISC">
@@ -5423,6 +5437,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Hungary" confidence="8.0913585E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hungarian_cuisine" confidence="7.4749586E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hungary" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -5441,6 +5456,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jaguar_Land_Rover_Gaydon_Centre" confidence="1.2082594E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Land_Rover_Tangi" confidence="2.8E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Land_Rover" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Land_Rover" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -5461,6 +5477,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.878E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -5482,6 +5499,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jaguar_(supercomputer)" confidence="1.466819E-39" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jaguar_(Archie_Comics)" confidence="3.646E-42" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -5502,6 +5520,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Peugeot_404" confidence="1.38807245E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Peugeot_(bicycles)" confidence="3.79615E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Peugeot" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Peugeot" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="ORGANIZATION">
@@ -5516,6 +5535,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lamborghini_Murci??lago" confidence="5.846331E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lamborghini_V12" confidence="5.72178E-35" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Lamborghini" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lamborghini" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -5537,6 +5557,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Hungary_(1526???1867)" confidence="1.681299E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hungarian_Democratic_Republic" confidence="1.5853565E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hungary" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="MISC">
@@ -5552,6 +5573,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Unified_school_district" confidence="1.4154483E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_San_Diego" confidence="1.03119774E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_South_Dakota" confidence="7.8887858E-28" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="LOCATION">
@@ -5573,6 +5595,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Hungary_(1526???1867)" confidence="1.681299E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hungarian_Democratic_Republic" confidence="1.5853565E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hungary" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -5588,6 +5611,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Unified_school_district" confidence="1.4154483E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_San_Diego" confidence="1.03119774E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_South_Dakota" confidence="7.8887858E-28" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -5609,6 +5633,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Hungary_(1526???1867)" confidence="1.681299E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hungarian_Democratic_Republic" confidence="1.5853565E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hungary" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -5630,294 +5655,7 @@ ministry.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Hungary_(1526???1867)" confidence="1.681299E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hungarian_Democratic_Republic" confidence="1.5853565E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hungary" confidence="22"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Japanese-->
-      <references>
-        <span>
-          <target id="t29"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Denso Corporation-->
-      <references>
-        <span>
-          <target id="t32"/>
-          <target id="t33"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Denso" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Szekesfehervar-->
-      <references>
-        <span>
-          <target id="t52"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sz??kesfeh??rv??r" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Bosch-->
-      <references>
-        <span>
-          <target id="t113"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Robert_Bosch_GmbH" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Denso-->
-      <references>
-        <span>
-          <target id="t128"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Denso" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t153"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Fiat-->
-      <references>
-        <span>
-          <target id="t155"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--EUR-->
-      <references>
-        <span>
-          <target id="t199"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Euro" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--EUR-->
-      <references>
-        <span>
-          <target id="t205"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Euro" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Toyota-->
-      <references>
-        <span>
-          <target id="t219"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Isuzu-->
-      <references>
-        <span>
-          <target id="t221"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Isuzu_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Nissan-->
-      <references>
-        <span>
-          <target id="t223"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Volkswagen-->
-      <references>
-        <span>
-          <target id="t225"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Audi-->
-      <references>
-        <span>
-          <target id="t227"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Audi" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Hungarian-->
-      <references>
-        <span>
-          <target id="t231"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Land Rover-->
-      <references>
-        <span>
-          <target id="t238"/>
-          <target id="t239"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Land_Rover" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t241"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Jaguar-->
-      <references>
-        <span>
-          <target id="t243"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Peugeot-->
-      <references>
-        <span>
-          <target id="t245"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Peugeot" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Lamborghini-->
-      <references>
-        <span>
-          <target id="t247"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lamborghini" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Hungary-->
-      <references>
-        <span>
-          <target id="t253"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--USD-->
-      <references>
-        <span>
-          <target id="t258"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Hungary-->
-      <references>
-        <span>
-          <target id="t273"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--USD-->
-      <references>
-        <span>
-          <target id="t291"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--Hungary-->
-      <references>
-        <span>
-          <target id="t310"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--Hungary-->
-      <references>
-        <span>
-          <target id="t316"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hungary" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

@@ -4456,6 +4456,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gamemaster" confidence="6.3125907E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Houston_Astros_owners_and_executives" confidence="2.8079074E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/G??ttinger_Miszellen" confidence="6.72384E-31" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -4477,6 +4478,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_basketball_team" confidence="4.459273E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_beach_soccer_team" confidence="2.4686367E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -4497,6 +4499,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Motors_Liquidation_Company" confidence="1.819315E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_GM_transmissions" confidence="5.336322E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -4518,6 +4521,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_basketball_team" confidence="4.459273E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_beach_soccer_team" confidence="2.4686367E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -4530,6 +4534,7 @@
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ray_Young_(politician)" confidence="0.9745363" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ray_Young_(politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -4560,6 +4565,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_football_clubs_in_Brazil" confidence="2.1481664E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazilian_cuisine" confidence="9.864841E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -4581,6 +4587,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_basketball_team" confidence="4.459273E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_beach_soccer_team" confidence="2.4686367E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -4602,6 +4609,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_soccer_team" confidence="3.3376494E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_ice_hockey_team" confidence="2.8236078E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Canada" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -4624,6 +4632,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="3.531312E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="1.1029957E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -4645,6 +4654,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.2857792E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="1.2315696E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="PERSON">
@@ -4666,6 +4676,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nick_Young_(basketball)" confidence="1.1801267E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Young_(Tulisa_Contostavlos_song)" confidence="1.0732669E-9" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Jock_Young" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ray_Young_(politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -4687,6 +4698,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_basketball_team" confidence="4.459273E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_beach_soccer_team" confidence="2.4686367E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -4707,6 +4719,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_1800/2100" confidence="3.6383917E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_(policy_debate)" confidence="1.9593465E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -4727,6 +4740,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Motorsport" confidence="1.6023606E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_de_M??xico" confidence="3.0638726E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -4741,6 +4755,7 @@
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GMC_(automobile)" confidence="2.2269146E-10" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="LOCATION">
@@ -4762,6 +4777,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_basketball_team" confidence="4.459273E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brazil_national_beach_soccer_team" confidence="2.4686367E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brazil" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -4782,6 +4798,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.1910829E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="4.7525757E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.4368365E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="PERSON">
@@ -4812,6 +4829,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nick_Young_(basketball)" confidence="1.1801267E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Young_(Tulisa_Contostavlos_song)" confidence="1.0732669E-9" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Jock_Young" confidence="12"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ray_Young_(politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -4832,220 +4850,7 @@
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.1910829E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="4.7525757E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.4368365E-22" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--GM-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Brazil-->
-      <references>
-        <span>
-          <target id="t3"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--General Motors-->
-      <references>
-        <span>
-          <target id="t9"/>
-          <target id="t10"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Brazil-->
-      <references>
-        <span>
-          <target id="t16"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Ray Young-->
-      <references>
-        <span>
-          <target id="t27"/>
-          <target id="t28"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ray_Young_(politician)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Brazilian-->
-      <references>
-        <span>
-          <target id="t40"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Brazil-->
-      <references>
-        <span>
-          <target id="t57"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Canada-->
-      <references>
-        <span>
-          <target id="t64"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t74"/>
-          <target id="t75"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t77"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Young-->
-      <references>
-        <span>
-          <target id="t79"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Young_County,_Texas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Brazil-->
-      <references>
-        <span>
-          <target id="t93"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Fiat-->
-      <references>
-        <span>
-          <target id="t103"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Volkswagen-->
-      <references>
-        <span>
-          <target id="t105"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--General Motors Corporation-->
-      <references>
-        <span>
-          <target id="t145"/>
-          <target id="t146"/>
-          <target id="t147"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Brazil-->
-      <references>
-        <span>
-          <target id="t152"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brazil" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--U.S.-->
-      <references>
-        <span>
-          <target id="t181"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Young-->
-      <references>
-        <span>
-          <target id="t240"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Young_County,_Texas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--U.S.-->
-      <references>
-        <span>
-          <target id="t276"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

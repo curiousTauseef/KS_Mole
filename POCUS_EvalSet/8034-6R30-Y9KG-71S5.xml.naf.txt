@@ -8225,6 +8225,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_culture" confidence="1.953076E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -8238,6 +8239,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geely" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -8256,6 +8258,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -8276,6 +8279,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="MISC">
@@ -8297,6 +8301,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_culture" confidence="1.953076E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -8311,6 +8316,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geely" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -8333,6 +8339,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="PERSON">
@@ -8346,6 +8353,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Li_Shufu" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -8376,6 +8384,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_culture" confidence="1.953076E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -8394,6 +8403,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -8415,6 +8425,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Swedish_Empire" confidence="4.3052874E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sweden" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -8438,6 +8449,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volkswagen_Group_of_America" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volkswagen_Group_of_America" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group_of_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -8465,6 +8477,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -8483,6 +8496,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="LOCATION">
@@ -8504,6 +8518,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Swedish_Empire" confidence="4.3052874E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sweden" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -8525,6 +8540,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Belgium_national_football_team" confidence="3.960945E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Belgium" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Belgium" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Belgium" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="MISC">
@@ -8546,6 +8562,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_culture" confidence="1.953076E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -8566,6 +8583,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="ORGANIZATION">
@@ -8586,6 +8604,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -8598,6 +8617,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geely" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Geely" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -8619,6 +8639,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Economy_of_China" confidence="2.7873213E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="0.9997211" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/China" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="PERSON">
@@ -8649,6 +8670,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="ORGANIZATION">
@@ -8667,6 +8689,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="ORGANIZATION">
@@ -8687,6 +8710,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="LOCATION">
@@ -8709,6 +8733,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.0010088176" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="0.9989912" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -8727,6 +8752,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="ORGANIZATION">
@@ -8747,6 +8773,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -8767,6 +8794,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="1.7606364E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="7.2292394E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_dollar" confidence="0.99999994" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="ORGANIZATION">
@@ -8787,6 +8815,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="ORGANIZATION">
@@ -8805,6 +8834,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -8820,6 +8850,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aston_Martin_DB5" confidence="2.3199162E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aston_Martin" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Aston_Martin" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Aston_Martin" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e37" type="ORGANIZATION">
@@ -8841,6 +8872,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jaguar" confidence="5.9383138E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -8858,6 +8890,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Land_Rover_Defender" confidence="5.6306665E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Land_Rover" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Land_Rover" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Land_Rover" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="ORGANIZATION">
@@ -8876,6 +8909,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="ORGANIZATION">
@@ -8896,6 +8930,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="MISC">
@@ -8918,6 +8953,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.003723754" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_America" confidence="0.9946009" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/North_America" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="MISC">
@@ -8939,6 +8975,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe" confidence="1.21349E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="0.99987864" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e43" type="ORGANIZATION">
@@ -8959,6 +8996,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_of_Europe" confidence="1.780903E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e44" type="ORGANIZATION">
@@ -8978,6 +9016,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GMC_(automobile)" confidence="1.2400585E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e45" type="ORGANIZATION">
@@ -8999,6 +9038,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Daimler_AG" confidence="2.3892296E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chrysler" confidence="0.9999976" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chrysler" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e46" type="ORGANIZATION">
@@ -9017,6 +9057,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo" confidence="2.1288824E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e47" type="LOCATION">
@@ -9039,483 +9080,7 @@ Geely stock rose 5.9 percent Monday in Hong Kong.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/British_Hong_Kong" confidence="6.587192E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hong_Kong" confidence="21"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Geely Holding Group-->
-      <references>
-        <span>
-          <target id="t9"/>
-          <target id="t10"/>
-          <target id="t11"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t18"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t29"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t36"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Zhejiang Geely Holding Group-->
-      <references>
-        <span>
-          <target id="t38"/>
-          <target id="t39"/>
-          <target id="t40"/>
-          <target id="t41"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Ford Motor-->
-      <references>
-        <span>
-          <target id="t55"/>
-          <target id="t56"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Li Shufu-->
-      <references>
-        <span>
-          <target id="t65"/>
-          <target id="t66"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t84"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t105"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Sweden-->
-      <references>
-        <span>
-          <target id="t109"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Volkswagen of America-->
-      <references>
-        <span>
-          <target id="t146"/>
-          <target id="t147"/>
-          <target id="t148"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volkswagen_Group_of_America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t166"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t184"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Sweden-->
-      <references>
-        <span>
-          <target id="t189"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Belgium-->
-      <references>
-        <span>
-          <target id="t194"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Belgium" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t197"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t218"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t241"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Geely-->
-      <references>
-        <span>
-          <target id="t300"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Geely" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t306"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t333"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t337"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t349"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t354"/>
-          <target id="t355"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t361"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t386"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--U.S.-->
-      <references>
-        <span>
-          <target id="t390"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f29">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t405"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f30">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t407"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f31">
-      <!--Aston Martin-->
-      <references>
-        <span>
-          <target id="t426"/>
-          <target id="t427"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Aston_Martin" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f32">
-      <!--Jaguar-->
-      <references>
-        <span>
-          <target id="t429"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jaguar_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f33">
-      <!--Land Rover-->
-      <references>
-        <span>
-          <target id="t431"/>
-          <target id="t432"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Land_Rover" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f34">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t440"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f35">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t449"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f36">
-      <!--North American-->
-      <references>
-        <span>
-          <target id="t456"/>
-          <target id="t457"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f37">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t459"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f38">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t462"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f39">
-      <!--General Motors-->
-      <references>
-        <span>
-          <target id="t473"/>
-          <target id="t474"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f40">
-      <!--Chrysler-->
-      <references>
-        <span>
-          <target id="t476"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chrysler" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f41">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t499"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f42">
-      <!--Hong Kong-->
-      <references>
-        <span>
-          <target id="t519"/>
-          <target id="t520"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

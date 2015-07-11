@@ -4129,6 +4129,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Sweden" confidence="2.8254515E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Sweden" confidence="3.3676087E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -4144,6 +4145,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="4.518725E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="3.6956E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -4174,6 +4176,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Sweden" confidence="2.8254515E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Sweden" confidence="3.3676087E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -4186,6 +4189,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="MISC">
@@ -4207,6 +4211,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Norwegian_phonology" confidence="3.0229435E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Norway" confidence="1.3364605E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Norway" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Norway" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -4222,6 +4227,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="4.518725E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="3.6956E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -4242,6 +4248,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Motors_Liquidation_Company" confidence="6.066312E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_GM_transmissions" confidence="1.23031E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4262,6 +4269,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saturn_(store)" confidence="5.1368952E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/FC_Saturn_Moscow_Region" confidence="1.1475887E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/El_Saturn_Records" confidence="1.263151E-39" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saturn_Corporation" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -4277,6 +4285,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Harley-Davidson_Hummer" confidence="9.4981465E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hummer_(band)" confidence="3.5762729E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hummer" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hummer" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -4292,6 +4301,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="4.518725E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="3.6956E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -4305,6 +4315,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chapter_11,_Title_11,_United_States_Code" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Daniel_11" confidence="4.009642E-35" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Chapter_11,_Title_11,_United_States_Code" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -4326,6 +4337,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="2.0433765E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="1.6127552E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Taiwan" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="MISC">
@@ -4347,6 +4359,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Sweden" confidence="2.8254515E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Sweden" confidence="3.3676087E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -4359,6 +4372,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -4371,6 +4385,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Koenigsegg" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -4386,6 +4401,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="4.518725E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="3.6956E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="MISC">
@@ -4408,6 +4424,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Reuters" confidence="0.9999998" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Thomson_Reuters" confidence="1.6321862E-7" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Reuters" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -4439,6 +4456,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Sweden" confidence="2.8254515E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Sweden" confidence="3.3676087E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -4454,217 +4472,7 @@ BREAKING: Swedish TV reports Koenigsegg buying Saab originally appeared on Autob
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="4.518725E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="3.6956E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Swedish-->
-      <references>
-        <span>
-          <target id="t3"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t8"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Swedish-->
-      <references>
-        <span>
-          <target id="t32"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Koenigsegg-->
-      <references>
-        <span>
-          <target id="t38"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Norwegian-->
-      <references>
-        <span>
-          <target id="t51"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Norway" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t60"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--General Motors-->
-      <references>
-        <span>
-          <target id="t67"/>
-          <target id="t68"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Saturn-->
-      <references>
-        <span>
-          <target id="t88"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saturn_Corporation" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Hummer-->
-      <references>
-        <span>
-          <target id="t90"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hummer" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t92"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Chapter 11-->
-      <references>
-        <span>
-          <target id="t105"/>
-          <target id="t106"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Chapter_11,_Title_11,_United_States_Code" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--China-->
-      <references>
-        <span>
-          <target id="t121"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Swedish-->
-      <references>
-        <span>
-          <target id="t128"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Koenigsegg-->
-      <references>
-        <span>
-          <target id="t138"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Koenigsegg-->
-      <references>
-        <span>
-          <target id="t164"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Koenigsegg" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t166"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Reuters-->
-      <references>
-        <span>
-          <target id="t212"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Reuters" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Swedish-->
-      <references>
-        <span>
-          <target id="t222"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t227"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

@@ -5658,6 +5658,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_agriculture_ministries" confidence="1.7711773E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Union_Solidarity_and_Development_Association" confidence="1.3620218E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/U.S.D.A_(group)" confidence="6.3198574E-37" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -5678,6 +5679,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington,_Tyne_and_Wear" confidence="3.337791E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington_County,_Pennsylvania" confidence="1.1372091E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Washington_Wizards_season" confidence="1.4465059E-26" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -5708,6 +5710,7 @@ For more information or an application, please contact National Mango Board Exec
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="0.99999976" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_agriculture_ministries" confidence="2.4064494E-7" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -5750,6 +5753,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="4.4650513E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="2.2558417E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -5771,6 +5775,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/El_Paso,_Cesar" confidence="7.149264E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/El_Paso,_Arkansas" confidence="3.7868354E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/El_Paso,_Wisconsin" confidence="2.8071536E-29" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/El_Paso,_Texas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -5792,6 +5797,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Texas_Longhorns_men's_basketball" confidence="1.00762405E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_Texas_Longhorns_football_team" confidence="3.8309758E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Texas" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Texas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -5809,6 +5815,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nogales,_Veracruz" confidence="9.746499E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nogales,_Badajoz" confidence="7.131436E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nogales_Municipality,_Veracruz" confidence="1.5067157E-23" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nogales,_Arizona" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -5837,6 +5844,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lake_Great_Falls" confidence="1.6925026E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Great_Falls,_South_Carolina" confidence="9.953349E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Great_Falls_(Missouri_River_waterfall)" confidence="4.902074E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Great_Falls,_Montana" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -5857,6 +5865,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pembina_River_(Alberta)" confidence="8.560362E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pembina_Township,_Mahnomen_County,_Minnesota" confidence="1.4426313E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pembina,_Edmonton" confidence="2.5154916E-17" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pembina_Valley_Region" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -5879,6 +5888,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mission_San_Diego_de_Alcal??" confidence="7.6636496E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_San_Diego" confidence="6.0054107E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/San_Diego" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/San_Diego" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="LOCATION">
@@ -5901,6 +5911,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_Sparks" confidence="2.1621234E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_metropolitan_area" confidence="8.6560534E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Los_Angeles" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -5923,6 +5934,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/San_Francisco_(1936_film)" confidence="4.6489535E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)" confidence="8.309624E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/San_Francisco" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/San_Francisco" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="LOCATION">
@@ -5935,6 +5947,7 @@ For more information or an application, please contact National Mango Board Exec
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/California" confidence="11"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -5956,6 +5969,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Oregon" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ore_Valley" confidence="2.0818774E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ore_Valley" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Oregon" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -5977,6 +5991,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2001???02_Seattle_SuperSonics_season" confidence="1.2210708E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2002???03_Seattle_SuperSonics_season" confidence="7.706795E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Seattle" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -5990,6 +6005,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington_(state)" confidence="0.99977124" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington_Supreme_Court" confidence="2.2874211E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington_Mystics" confidence="1.345576E-10" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Washington_(state)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="LOCATION">
@@ -6009,6 +6025,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Anchorage,_Washington" confidence="8.649091E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Anchorage-class_dock_landing_ship" confidence="6.5647965E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Anchorage_Metrolink_station" confidence="1.4188292E-30" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anchorage,_Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -6030,6 +6047,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleontology_in_Alaska" confidence="9.21401E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Fairbanks" confidence="5.7176557E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alaska" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -6051,6 +6069,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USS_Honolulu_(CL-48)" confidence="3.912623E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honolulu_(film)" confidence="9.252012E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Honolulu" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honolulu" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -6072,6 +6091,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hawaii_(film)" confidence="7.471498E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hawaii_(TV_series)" confidence="2.587863E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hawaii" confidence="10"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hawaii" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="ORGANIZATION">
@@ -6086,6 +6106,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_agriculture_ministries" confidence="1.7711773E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Union_Solidarity_and_Development_Association" confidence="1.3620218E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/U.S.D.A_(group)" confidence="6.3198574E-37" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -6120,6 +6141,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_agriculture_ministries" confidence="1.7711773E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Union_Solidarity_and_Development_Association" confidence="1.3620218E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/U.S.D.A_(group)" confidence="6.3198574E-37" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="ORGANIZATION">
@@ -6133,6 +6155,7 @@ For more information or an application, please contact National Mango Board Exec
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agricultural_Marketing_Service" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Agricultural_Marketing_Service" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -6165,6 +6188,7 @@ For more information or an application, please contact National Mango Board Exec
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/William_Watson_(actor)" confidence="4.004101E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/William_Watson_(songwriter)" confidence="1.4080784E-7" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/William_Watson_(poet)" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/William_Watson_(Australian_politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="MISC">
@@ -6196,282 +6220,6 @@ For more information or an application, please contact National Mango Board Exec
           <target id="t364"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--USDA-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--WASHINGTON-->
-      <references>
-        <span>
-          <target id="t9"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--U.S. Department of Agriculture-->
-      <references>
-        <span>
-          <target id="t30"/>
-          <target id="t31"/>
-          <target id="t32"/>
-          <target id="t33"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--United States-->
-      <references>
-        <span>
-          <target id="t114"/>
-          <target id="t115"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--El Paso-->
-      <references>
-        <span>
-          <target id="t141"/>
-          <target id="t142"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/El_Paso,_Texas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Texas-->
-      <references>
-        <span>
-          <target id="t144"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Texas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Nogales-->
-      <references>
-        <span>
-          <target id="t146"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nogales,_Arizona" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Great Falls-->
-      <references>
-        <span>
-          <target id="t150"/>
-          <target id="t151"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Great_Falls,_Montana" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Pembina-->
-      <references>
-        <span>
-          <target id="t156"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pembina_Valley_Region" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--San Diego-->
-      <references>
-        <span>
-          <target id="t174"/>
-          <target id="t175"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/San_Diego" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Los Angeles-->
-      <references>
-        <span>
-          <target id="t177"/>
-          <target id="t178"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--San Francisco-->
-      <references>
-        <span>
-          <target id="t181"/>
-          <target id="t182"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/San_Francisco" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Calif.-->
-      <references>
-        <span>
-          <target id="t184"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Ore.-->
-      <references>
-        <span>
-          <target id="t188"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Oregon" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Seattle-->
-      <references>
-        <span>
-          <target id="t190"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Wash.-->
-      <references>
-        <span>
-          <target id="t192"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Washington_(state)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Anchorage-->
-      <references>
-        <span>
-          <target id="t194"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anchorage,_Alaska" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Alaska-->
-      <references>
-        <span>
-          <target id="t196"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Honolulu-->
-      <references>
-        <span>
-          <target id="t198"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honolulu" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Hawaii-->
-      <references>
-        <span>
-          <target id="t200"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hawaii" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--USDA-->
-      <references>
-        <span>
-          <target id="t224"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--USDA-->
-      <references>
-        <span>
-          <target id="t303"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Agriculture" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Agricultural Marketing Service-->
-      <references>
-        <span>
-          <target id="t305"/>
-          <target id="t306"/>
-          <target id="t307"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Agricultural_Marketing_Service" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--William Watson-->
-      <references>
-        <span>
-          <target id="t340"/>
-          <target id="t341"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/William_Watson_(Australian_politician)" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>

@@ -6100,6 +6100,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1947" confidence="1.3374898E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1907" confidence="2.1926024E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/South_Africa" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/South_Africa" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -6116,6 +6117,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tata_Power" confidence="3.4908233E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/TATA_box" confidence="1.1967659E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tata_Communications" confidence="1.386E-42" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tata_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -6133,6 +6135,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mombasa_Sports_Club" confidence="3.9465318E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Mombasa" confidence="4.2282506E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Mombasa" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mombasa" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -6154,6 +6157,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kenya_(Commonwealth_realm)" confidence="4.0744345E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kenya_women's_national_rugby_union_team" confidence="1.6512133E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Kenya" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kenya" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="MISC">
@@ -6175,6 +6179,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Africa" confidence="4.5679077E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Foreign-born_population_of_the_United_Kingdom" confidence="5.0289413E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Africa" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Africa" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -6196,6 +6201,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BMW_Dixi" confidence="1.2088555E-37" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Racing_Bart_Mampaey" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BMW" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -6217,6 +6223,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mercedes,_Uruguay" confidence="5.89E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mercedes,_Buenos_Aires_Province" confidence="2.63E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -6238,6 +6245,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BMW_Dixi" confidence="1.2088555E-37" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Racing_Bart_Mampaey" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BMW" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -6258,6 +6266,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mercedes-Benz_in_motorsport" confidence="1.7968612E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HWA_Team" confidence="8.380152E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="MISC">
@@ -6286,6 +6295,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.88543E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.02E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -6306,6 +6316,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.88543E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.02E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="MISC">
@@ -6327,6 +6338,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Sweden" confidence="3.113261E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Sweden" confidence="2.373578E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -6346,6 +6358,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Construction_Equipment" confidence="3.541092E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_B58" confidence="1.35E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -6366,6 +6379,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.88543E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.02E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -6381,6 +6395,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Wall_Street_Journal" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Wall_Street_Journal_Special_Editions" confidence="1.9950016E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/The_Wall_Street_Journal" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Wall_Street_Journal" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -6394,6 +6409,7 @@ Reports:</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alan_Mulally" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alan_Mulally" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alan_Mulally" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -6413,6 +6429,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Construction_Equipment" confidence="3.541092E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_B58" confidence="1.35E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -6434,6 +6451,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Racing_Development" confidence="3.9295333E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Motor_Manufacturing_Texas" confidence="7.227074E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="MISC">
@@ -6464,6 +6482,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Racing_Development" confidence="3.9295333E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Motor_Manufacturing_Texas" confidence="7.227074E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -6485,6 +6504,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mitsubishi_Dynaboars" confidence="1.609E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mitsubishi_Agricultural_Machinery" confidence="7.0E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Mitsubishi" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mitsubishi_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="MISC">
@@ -6507,6 +6527,7 @@ Reports:</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mitsubishi_Regional_Jet" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Mitsubishi_Regional_Jet" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mitsubishi_Regional_Jet" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="ORGANIZATION">
@@ -6547,6 +6568,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Ford_vehicles" confidence="2.88543E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="1.02E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Germany" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -6569,6 +6591,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Port_Elizabeth,_Saint_Vincent_and_the_Grenadines" confidence="5.9272678E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Port_Elizabeth" confidence="5.8224435E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Port_Elizabeth" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Port_Elizabeth" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="ORGANIZATION">
@@ -6589,6 +6612,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nisan" confidence="5.3066825E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gibson_Motorsport" confidence="3.17917E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/UD_Trucks" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="ORGANIZATION">
@@ -6609,6 +6633,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nisan" confidence="5.3066825E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gibson_Motorsport" confidence="3.17917E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/UD_Trucks" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -6629,6 +6654,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nisan" confidence="5.3066825E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gibson_Motorsport" confidence="3.17917E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/UD_Trucks" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -6649,310 +6675,7 @@ Reports:</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_customary_units" confidence="1.501619E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="4.799301E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="6.090633E-18" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--South Africans-->
-      <references>
-        <span>
-          <target id="t6"/>
-          <target id="t7"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_Africa" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--TATA-->
-      <references>
-        <span>
-          <target id="t12"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tata_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Mombasa-->
-      <references>
-        <span>
-          <target id="t24"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mombasa" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Kenya-->
-      <references>
-        <span>
-          <target id="t26"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kenya" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--African-->
-      <references>
-        <span>
-          <target id="t44"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Africa" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--BMW-->
-      <references>
-        <span>
-          <target id="t55"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Mercedes-->
-      <references>
-        <span>
-          <target id="t57"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--BMW-->
-      <references>
-        <span>
-          <target id="t69"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BMW" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Mercedes-Benz-->
-      <references>
-        <span>
-          <target id="t71"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mercedes-Benz" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t117"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t125"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Swedish-->
-      <references>
-        <span>
-          <target id="t131"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t134"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t142"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Wall Street Journal-->
-      <references>
-        <span>
-          <target id="t148"/>
-          <target id="t149"/>
-          <target id="t150"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Wall_Street_Journal" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Alan Mulally-->
-      <references>
-        <span>
-          <target id="t153"/>
-          <target id="t154"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alan_Mulally" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Volvo-->
-      <references>
-        <span>
-          <target id="t163"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Toyota-->
-      <references>
-        <span>
-          <target id="t172"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Toyota-->
-      <references>
-        <span>
-          <target id="t186"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Mitsubishi-->
-      <references>
-        <span>
-          <target id="t193"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mitsubishi_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Mitsubishi Regional Jet-->
-      <references>
-        <span>
-          <target id="t204"/>
-          <target id="t205"/>
-          <target id="t206"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mitsubishi_Regional_Jet" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Ford-->
-      <references>
-        <span>
-          <target id="t267"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Port Elizabeth-->
-      <references>
-        <span>
-          <target id="t275"/>
-          <target id="t276"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Port_Elizabeth" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Nissan-->
-      <references>
-        <span>
-          <target id="t278"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--NISSAN-->
-      <references>
-        <span>
-          <target id="t282"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--Nissan-->
-      <references>
-        <span>
-          <target id="t336"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nissan_Motor_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t344"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

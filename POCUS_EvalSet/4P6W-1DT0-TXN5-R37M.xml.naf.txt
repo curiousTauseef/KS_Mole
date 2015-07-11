@@ -4408,6 +4408,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brain_(TV_series)" confidence="1.0176792E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_regions_in_the_human_brain" confidence="3.291437E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Brain" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brain" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -4428,6 +4429,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Islam_in_Ethiopia" confidence="9.1903253E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Islam_in_Sri_Lanka" confidence="1.6609197E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Islam_in_Nigeria" confidence="1.5850431E-21" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Muslim" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="MISC">
@@ -4449,6 +4451,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Indonesia" confidence="2.1399756E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Demographics_of_Indonesia" confidence="2.8428693E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Indonesia" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -4470,6 +4473,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali,_Cameroon" confidence="7.0460004E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali_(lingerie)" confidence="3.0063647E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bali" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -4491,6 +4495,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Electoral_district_of_Cunningham" confidence="1.0215834E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cunningham_(sailing)" confidence="2.5839764E-12" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Cunninghame" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Division_of_Cunningham" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -4526,6 +4531,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Howard_(cyclist)" confidence="4.1047572E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_George_Howard" confidence="2.2047196E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_Howard" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Howard" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -4547,6 +4553,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali,_Cameroon" confidence="7.0460004E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali_(lingerie)" confidence="3.0063647E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bali" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4579,6 +4586,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Softball_in_the_Northern_Territory" confidence="5.6050518E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Northern_Territory_borders" confidence="4.559509E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Northern_Territory" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Northern_Territory" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -4599,6 +4607,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/DNA_(No_Wave_band)" confidence="9.340741E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/DNA_(Little_Mix_song)" confidence="7.109821E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Naked_DNA" confidence="2.5198416E-19" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/DNA" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="PERSON">
@@ -4612,6 +4621,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Joanne_Lees" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Joanne_Lees" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Joanne_Lees" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -4633,6 +4643,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali,_Cameroon" confidence="7.0460004E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bali_(lingerie)" confidence="3.0063647E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bali" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -4646,6 +4657,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Denpasar" confidence="0.99943507" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ngurah_Rai_International_Airport" confidence="5.649497E-4" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Denpasar" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Denpasar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -4667,6 +4679,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" confidence="3.1343043E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_the_United_Kingdom" confidence="6.8934886E-10" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/British_Raj" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_Kingdom" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="PERSON">
@@ -4679,6 +4692,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Edwina_Currie" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Edwina_Currie" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="MISC">
@@ -4698,6 +4712,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aussie" confidence="6.8690474E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aussie_(shampoo)" confidence="6.4652773E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Australia" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Australians" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -4719,6 +4734,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/London_postal_district" confidence="7.1251523E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/London_Cricket_Club" confidence="2.4584185E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/London" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/London" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -4736,6 +4752,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Birmingham_Royal_Ballet" confidence="2.4926736E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Royal_Swedish_Ballet" confidence="2.1040502E-13" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/The_Royal_Ballet" confidence="4"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Royal_Ballet" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
@@ -4750,6 +4767,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Abu_Bakar_Bashir" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Abu_Bakar_Bashir" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Abu_Bakar_Bashir" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="PERSON">
@@ -4763,6 +4781,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Michael_Organ" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Michael_Organ_(drummer)" confidence="7.6659545E-14" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Michael_Organ" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="PERSON">
@@ -4785,6 +4804,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Anderson_(philosopher)" confidence="9.270515E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Anderson_(sportscaster)" confidence="8.981824E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_B._Anderson" confidence="0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="PERSON">
@@ -4798,6 +4818,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Simon_Crean" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Simon_Crean" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Simon_Crean" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="PERSON">
@@ -4810,6 +4831,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kasey_Chambers" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kasey_Chambers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="PERSON">
@@ -4825,6 +4847,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Iraq_War" confidence="9.6934984E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_recurring_South_Park_characters" confidence="1.6325103E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saddam_Hussein" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saddam_Hussein" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="PERSON">
@@ -4842,6 +4865,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Inauguration_of_Jimmy_Carter" confidence="9.774965E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USS_Jimmy_Carter_(SSN-23)" confidence="1.1260492E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Jimmy_Carter" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jimmy_Carter" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="PERSON">
@@ -4855,6 +4879,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bradley_John_Murdoch" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bradley_John_Murdoch" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -4875,6 +4900,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="8.2590584E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="7.7546684E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_customary_units" confidence="1.0377813E-14" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="PERSON">
@@ -4891,6 +4917,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Major_(philosopher)" confidence="6.747286E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_C._Major" confidence="1.4952676E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_Major" confidence="3"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Major" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="PERSON">
@@ -4904,6 +4931,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ross_Stretton" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ross_Stretton" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ross_Stretton" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="PERSON">
@@ -4926,343 +4954,7 @@ Q11 Which federal politician told a joint government parties meeting: "I'm sure,
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Anderson_(philosopher)" confidence="9.270515E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Anderson_(sportscaster)" confidence="8.981824E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_B._Anderson" confidence="0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Brain-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brain" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Muslim-->
-      <references>
-        <span>
-          <target id="t32"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Muslim" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Indonesian-->
-      <references>
-        <span>
-          <target id="t38"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Bali-->
-      <references>
-        <span>
-          <target id="t46"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Cunningham-->
-      <references>
-        <span>
-          <target id="t53"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Division_of_Cunningham" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--John Howard-->
-      <references>
-        <span>
-          <target id="t83"/>
-          <target id="t84"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Howard" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Bali-->
-      <references>
-        <span>
-          <target id="t89"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Northern Territory-->
-      <references>
-        <span>
-          <target id="t139"/>
-          <target id="t140"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Northern_Territory" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--DNA-->
-      <references>
-        <span>
-          <target id="t145"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/DNA" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Joanne Lees-->
-      <references>
-        <span>
-          <target id="t151"/>
-          <target id="t152"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Joanne_Lees" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Bali-->
-      <references>
-        <span>
-          <target id="t159"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/2002_Bali_bombings" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Denpasar-->
-      <references>
-        <span>
-          <target id="t166"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Denpasar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--British-->
-      <references>
-        <span>
-          <target id="t175"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_Kingdom" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Edwina Currie-->
-      <references>
-        <span>
-          <target id="t189"/>
-          <target id="t190"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Edwina_Currie" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Aussie-->
-      <references>
-        <span>
-          <target id="t197"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Australians" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--London-->
-      <references>
-        <span>
-          <target id="t204"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/London" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Royal Ballet-->
-      <references>
-        <span>
-          <target id="t206"/>
-          <target id="t207"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Royal_Ballet" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Abu Bakar Bashir-->
-      <references>
-        <span>
-          <target id="t255"/>
-          <target id="t256"/>
-          <target id="t257"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Abu_Bakar_Bashir" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Michael Organ-->
-      <references>
-        <span>
-          <target id="t261"/>
-          <target id="t262"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michael_Organ" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--John Anderson-->
-      <references>
-        <span>
-          <target id="t266"/>
-          <target id="t267"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Simon Crean-->
-      <references>
-        <span>
-          <target id="t269"/>
-          <target id="t270"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Simon_Crean" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Kasey Chambers-->
-      <references>
-        <span>
-          <target id="t274"/>
-          <target id="t275"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kasey_Chambers" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Saddam Hussein-->
-      <references>
-        <span>
-          <target id="t279"/>
-          <target id="t280"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saddam_Hussein" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Jimmy Carter-->
-      <references>
-        <span>
-          <target id="t284"/>
-          <target id="t285"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jimmy_Carter" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--Bradley John Murdoch-->
-      <references>
-        <span>
-          <target id="t289"/>
-          <target id="t290"/>
-          <target id="t291"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bradley_John_Murdoch" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t297"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--John Major-->
-      <references>
-        <span>
-          <target id="t302"/>
-          <target id="t303"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Major" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--Ross Stretton-->
-      <references>
-        <span>
-          <target id="t307"/>
-          <target id="t308"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ross_Stretton" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f29">
-      <!--John Anderson-->
-      <references>
-        <span>
-          <target id="t312"/>
-          <target id="t313"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Anderson_(Australian_politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

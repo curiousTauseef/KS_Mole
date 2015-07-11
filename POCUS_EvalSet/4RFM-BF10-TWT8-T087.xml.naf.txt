@@ -2898,6 +2898,7 @@ Henglong, currently 44.5% owned by China Automotive Systems, is engaged in manuf
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_language" confidence="3.6520803E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -2920,6 +2921,7 @@ Henglong, currently 44.5% owned by China Automotive Systems, is engaged in manuf
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BYD_Auto" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/BYD_Auto" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/BYD_Auto" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -2959,6 +2961,7 @@ Henglong, currently 44.5% owned by China Automotive Systems, is engaged in manuf
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Henglong_(former_city)" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Henglong_(former_city)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -2979,40 +2982,6 @@ Henglong, currently 44.5% owned by China Automotive Systems, is engaged in manuf
           <target id="t126"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--Chinese-->
-      <references>
-        <span>
-          <target id="t63"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--BYD Auto-->
-      <references>
-        <span>
-          <target id="t76"/>
-          <target id="t77"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/BYD_Auto" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Henglong-->
-      <references>
-        <span>
-          <target id="t99"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Henglong_(former_city)" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>

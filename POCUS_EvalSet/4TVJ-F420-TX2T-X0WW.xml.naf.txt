@@ -6221,6 +6221,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/County_of_Brant" confidence="5.3682965E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brantford_(electoral_district)" confidence="1.353185E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Brantford_(electoral_district)" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brantford" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -6242,6 +6243,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ontario_(electoral_district)" confidence="1.5809527E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ontario,_New_York" confidence="2.5067444E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Government_of_Ontario" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ontario" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -6255,6 +6257,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -6287,6 +6290,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="PERSON">
@@ -6301,6 +6305,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="0.6323663" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mike_Hancock_(British_politician)" confidence="0.3676337" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -6322,6 +6327,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/City_(New_Jersey)" confidence="1.500297E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Iowa_City_High_School" confidence="2.8840578E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/City" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -6336,6 +6342,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/County_of_Brant" confidence="5.3682965E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brantford_(electoral_district)" confidence="1.353185E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Brantford_(electoral_district)" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brantford" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="MISC">
@@ -6357,6 +6364,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Canada" confidence="3.1291754E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian,_Texas" confidence="2.8881474E-36" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cinema_of_Canada" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="PERSON">
@@ -6380,6 +6388,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="0.6323663" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mike_Hancock_(British_politician)" confidence="0.3676337" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -6393,6 +6402,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -6424,6 +6434,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Digital" confidence="5.9445734E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Digital_(artist)" confidence="5.9759594E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Digital_Equipment_Corporation" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Digital_signal" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="MISC">
@@ -6437,6 +6448,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/RealD_Cinema" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/RealD" confidence="2.7302087E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/RealD" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/RealD_Cinema" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -6460,6 +6472,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pizza_Pizza" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Pizza_Pizza" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pizza_Pizza" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -6472,6 +6485,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Outtake" confidence="0.96874535" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Take" confidence="0.031254634" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Outtake" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -6484,6 +6498,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yogen_Fr??z" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Yogen_Fr??z" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -6515,6 +6530,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_soccer_team" confidence="1.341385E-33" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_ice_hockey_team" confidence="7.599915E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Province_of_Canada" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -6546,6 +6562,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2007???08_Toronto_Raptors_season" confidence="1.10988E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Toronto_Raptors_season" confidence="6.3201E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Old_Toronto" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toronto" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="LOCATION">
@@ -6567,6 +6584,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_soccer_team" confidence="1.341385E-33" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canada_women's_national_ice_hockey_team" confidence="7.599915E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Province_of_Canada" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -6580,6 +6598,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -6602,6 +6621,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Diocese_of_British_Columbia" confidence="6.018524E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/British_Columbia_rugby_union_team" confidence="3.610662E-36" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/British_Columbia" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/British_Columbia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -6623,6 +6643,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Battle_of_Quebec_(1775)" confidence="8.72067E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Province_of_Quebec_(1763???91)" confidence="4.2410534E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Government_of_Quebec" confidence="9"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Quebec" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="MISC">
@@ -6644,6 +6665,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Music_of_Canada" confidence="3.1291754E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian,_Texas" confidence="2.8881474E-36" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cinema_of_Canada" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -6658,6 +6680,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Odeon_Corporation" confidence="5.5786658E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -6678,6 +6701,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HMS_Colossus_(1787)" confidence="1.2463226E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alternative_versions_of_Colossus" confidence="4.1310586E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Colossus_(novel)" confidence="1.9989157E-19" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Colossus_(comics)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -6698,6 +6722,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/St._Louis_Coliseum" confidence="1.20890684E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Coliseum_Records" confidence="8.069903E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/London_Coliseum" confidence="12"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Colosseum" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="LOCATION">
@@ -6710,6 +6735,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="LOCATION">
@@ -6728,6 +6754,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_City_Poland" confidence="3.6458588E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_City_(film_festival)" confidence="1.1877971E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cinema_City_International" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hong_Kong_action_cinema" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -6773,6 +6800,7 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toronto_Stock_Exchange" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/TMX_Group" confidence="1.05267296E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/TMX_Group" confidence="24"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toronto_Stock_Exchange" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="LOCATION">
@@ -6782,327 +6810,6 @@ As the largest motion picture exhibitor in Canada, Cineplex Entertainment  LP ow
           <target id="t429"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--BRANTFORD-->
-      <references>
-        <span>
-          <target id="t19"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brantford" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--ONTARIO-->
-      <references>
-        <span>
-          <target id="t21"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ontario" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Cineplex Entertainment-->
-      <references>
-        <span>
-          <target id="t32"/>
-          <target id="t33"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Cineplex Entertainment-->
-      <references>
-        <span>
-          <target id="t78"/>
-          <target id="t79"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Mike Hancock-->
-      <references>
-        <span>
-          <target id="t81"/>
-          <target id="t82"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--City-->
-      <references>
-        <span>
-          <target id="t86"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Brantford-->
-      <references>
-        <span>
-          <target id="t88"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brantford" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Canadian-->
-      <references>
-        <span>
-          <target id="t99"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Mike Hancock-->
-      <references>
-        <span>
-          <target id="t122"/>
-          <target id="t123"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mike_Hancock_(Canadian_politician)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Galaxy Cinemas-->
-      <references>
-        <span>
-          <target id="t156"/>
-          <target id="t157"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Digital-->
-      <references>
-        <span>
-          <target id="t199"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Digital_signal" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--RealD-->
-      <references>
-        <span>
-          <target id="t207"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/RealD_Cinema" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Pizza Pizza-->
-      <references>
-        <span>
-          <target id="t233"/>
-          <target id="t234"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pizza_Pizza" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Outtakes-->
-      <references>
-        <span>
-          <target id="t236"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Outtake" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Yogen Fruz-->
-      <references>
-        <span>
-          <target id="t238"/>
-          <target id="t239"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Yogen_Fr??z" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Canada-->
-      <references>
-        <span>
-          <target id="t294"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Toronto-->
-      <references>
-        <span>
-          <target id="t329"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toronto" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Canada-->
-      <references>
-        <span>
-          <target id="t331"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--Cineplex Entertainment-->
-      <references>
-        <span>
-          <target id="t333"/>
-          <target id="t334"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--British Columbia-->
-      <references>
-        <span>
-          <target id="t338"/>
-          <target id="t339"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/British_Columbia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Quebec-->
-      <references>
-        <span>
-          <target id="t341"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Quebec" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Canadian-->
-      <references>
-        <span>
-          <target id="t360"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Cineplex Odeon-->
-      <references>
-        <span>
-          <target id="t379"/>
-          <target id="t380"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Colossus-->
-      <references>
-        <span>
-          <target id="t387"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Colossus_(comics)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--Coliseum-->
-      <references>
-        <span>
-          <target id="t389"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Colosseum" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--SilverCity-->
-      <references>
-        <span>
-          <target id="t391"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cineplex_Entertainment" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--Cinema City-->
-      <references>
-        <span>
-          <target id="t396"/>
-          <target id="t397"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong_action_cinema" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--Toronto Stock Exchange-->
-      <references>
-        <span>
-          <target id="t424"/>
-          <target id="t425"/>
-          <target id="t426"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toronto_Stock_Exchange" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>

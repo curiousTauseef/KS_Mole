@@ -7825,6 +7825,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_(yacht)" confidence="2.915E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_179" confidence="4.61E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -7845,6 +7846,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_rugby_league_team" confidence="2.6418032E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="2.0664447E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="1.2449726E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -7864,6 +7866,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_Trattori" confidence="7.47E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_1800/2100" confidence="4.2E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -7885,6 +7888,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="3.4972897E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="3.7489538E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -7906,6 +7910,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_(yacht)" confidence="2.915E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_179" confidence="4.61E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -7926,6 +7931,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="3.164182E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_customary_units" confidence="2.4091883E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="1.6751254E-20" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -7939,6 +7945,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="PERSON">
@@ -7961,6 +7968,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Automotive_News_Europe" confidence="0.9999992" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Automotive_News_Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -7974,6 +7982,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="15"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="PERSON">
@@ -8003,6 +8012,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="3.4972897E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="3.7489538E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -8025,6 +8035,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_black_bear" confidence="7.2554774E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_North_America" confidence="9.75155E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/North_America" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -8046,6 +8057,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_(yacht)" confidence="2.915E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa_Romeo_179" confidence="4.61E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="LOCATION">
@@ -8067,6 +8079,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="3.4972897E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="3.7489538E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -8088,6 +8101,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="3.4972897E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="3.7489538E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="MISC">
@@ -8102,6 +8116,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_Automobiles" confidence="2.8821945E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -8123,6 +8138,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Italy_national_rugby_league_team" confidence="1.6587372E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Italy_(Holy_Roman_Empire)" confidence="1.49456E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Italy" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Italy" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -8140,6 +8156,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -8161,6 +8178,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Italy_national_rugby_league_team" confidence="1.6587372E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kingdom_of_Italy_(Holy_Roman_Empire)" confidence="1.49456E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Italy" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Italy" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="MISC">
@@ -8182,6 +8200,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Boxing_Union" confidence="3.531344E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="2.529937E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -8199,6 +8218,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -8220,6 +8240,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_Germany" confidence="6.744567E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_national_youth_football_team" confidence="5.789098E-14" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="PERSON">
@@ -8251,6 +8272,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_Automobiles" confidence="2.8821945E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -8268,6 +8290,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="ORGANIZATION">
@@ -8285,6 +8308,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -8305,6 +8329,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_rugby_league_team" confidence="2.6418032E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="2.0664447E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="1.2449726E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="ORGANIZATION">
@@ -8324,6 +8349,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_Trattori" confidence="7.47E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fiat_1800/2100" confidence="4.2E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Fiat" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -8343,6 +8369,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors_Chapter_11_reorganization" confidence="2.7835194E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Motors_Liquidation_Company" confidence="4.855183E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="ORGANIZATION">
@@ -8360,6 +8387,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -8380,6 +8408,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_rugby_league_team" confidence="2.6418032E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="2.0664447E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="1.2449726E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="LOCATION">
@@ -8401,6 +8430,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Spider_(solitaire)" confidence="9.6991E-41" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Spider_(2007_film)" confidence="2.3639E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Spider" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Roadster_(automobile)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="ORGANIZATION">
@@ -8418,6 +8448,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -8444,6 +8475,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_99" confidence="2.7730602E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Saab_Magalona" confidence="4.6E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Saab_Group" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -8461,6 +8493,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GTV_(Ghana)" confidence="7.7361056E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GTV_Variety_Show" confidence="8.95281E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/BTV_Comedy" confidence="1.9991765E-29" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo_GTV_and_Spider" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="LOCATION">
@@ -8482,6 +8515,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe_(dinghy)" confidence="3.4972897E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_theatre_of_World_War_I" confidence="3.7489538E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="ORGANIZATION">
@@ -8499,6 +8533,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Billy_Boy_(wrestler)" confidence="2.304718E-35" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alfa-class_submarine" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="17"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="LOCATION">
@@ -8519,6 +8554,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_men's_national_soccer_team" confidence="3.164182E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_customary_units" confidence="2.4091883E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_in_the_United_States" confidence="1.6751254E-20" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="LOCATION">
@@ -8539,424 +8575,7 @@ It was projecting sales of 50,000-60,000 cars a year in the USA in the medium te
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_rugby_league_team" confidence="2.6418032E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="2.0664447E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="1.2449726E-22" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--Alfa Romeo-->
-      <references>
-        <span>
-          <target id="t1"/>
-          <target id="t2"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--USA-->
-      <references>
-        <span>
-          <target id="t7"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Fiat-->
-      <references>
-        <span>
-          <target id="t11"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t19"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Alfa Romeo-->
-      <references>
-        <span>
-          <target id="t20"/>
-          <target id="t21"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t28"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Fiat Group-->
-      <references>
-        <span>
-          <target id="t45"/>
-          <target id="t46"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Automotive News Europe-->
-      <references>
-        <span>
-          <target id="t51"/>
-          <target id="t52"/>
-          <target id="t53"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Automotive_News_Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Fiat Group-->
-      <references>
-        <span>
-          <target id="t61"/>
-          <target id="t62"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t86"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--North America-->
-      <references>
-        <span>
-          <target id="t92"/>
-          <target id="t93"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Alfa Romeo-->
-      <references>
-        <span>
-          <target id="t96"/>
-          <target id="t97"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t102"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t114"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Fiat Auto-->
-      <references>
-        <span>
-          <target id="t121"/>
-          <target id="t122"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Italy-->
-      <references>
-        <span>
-          <target id="t150"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Italy" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t151"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--Italy-->
-      <references>
-        <span>
-          <target id="t159"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Italy" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--European-->
-      <references>
-        <span>
-          <target id="t182"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t185"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Germany-->
-      <references>
-        <span>
-          <target id="t191"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--Fiat Auto-->
-      <references>
-        <span>
-          <target id="t228"/>
-          <target id="t229"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t244"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t277"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--USA-->
-      <references>
-        <span>
-          <target id="t282"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--Fiat-->
-      <references>
-        <span>
-          <target id="t295"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fiat" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--General Motors-->
-      <references>
-        <span>
-          <target id="t301"/>
-          <target id="t302"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t306"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f29">
-      <!--USA-->
-      <references>
-        <span>
-          <target id="t311"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f30">
-      <!--Spider-->
-      <references>
-        <span>
-          <target id="t361"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Roadster_(automobile)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f31">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t379"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f32">
-      <!--Saab-->
-      <references>
-        <span>
-          <target id="t417"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Saab_Automobile" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f33">
-      <!--GTV-->
-      <references>
-        <span>
-          <target id="t440"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo_GTV_and_Spider" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f34">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t447"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f35">
-      <!--Alfa-->
-      <references>
-        <span>
-          <target id="t457"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alfa_Romeo" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f36">
-      <!--US-->
-      <references>
-        <span>
-          <target id="t471"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f37">
-      <!--USA-->
-      <references>
-        <span>
-          <target id="t486"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

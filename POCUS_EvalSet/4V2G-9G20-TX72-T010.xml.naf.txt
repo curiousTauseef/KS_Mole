@@ -4864,6 +4864,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Colin_McDonald_(cricketer)" confidence="2.4631597E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Michael_McDonald_(singer)" confidence="0.1961397" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bruce_McDonald_(director)" confidence="0.8038603" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bruce_McDonald_(director)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="PERSON">
@@ -4895,6 +4896,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/French_ship_S??duisant_(1783)" confidence="0.013476788" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yannick_Pelletier" confidence="0.39560518" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="0.5909177" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="PERSON">
@@ -4951,6 +4953,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Montreal_Canadiens" confidence="1.3554487E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Montreal" confidence="0.9999998" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Montreal" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Montreal" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -4999,6 +5002,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Amsterdam_Airport_Schiphol" confidence="2.3086582E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Amsterdam" confidence="0.99999976" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Amsterdam" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Amsterdam" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -5020,6 +5024,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Union" confidence="2.1180074E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Europe" confidence="0.9997863" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -5033,6 +5038,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/French_ship_S??duisant_(1783)" confidence="0.013476788" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yannick_Pelletier" confidence="0.39560518" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="0.5909177" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="PERSON">
@@ -5046,83 +5052,7 @@ In the meantime, Pelletier is happy to have a tangible reminder to keep meetings
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/French_ship_S??duisant_(1783)" confidence="0.013476788" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Yannick_Pelletier" confidence="0.39560518" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="0.5909177" reftype="en"/>
-      </externalReferences>
-    </entity>
-    <entity id="f1">
-      <!--McDonald-->
-      <references>
-        <span>
-          <target id="t42"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bruce_McDonald_(director)" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Pelletier-->
-      <references>
-        <span>
-          <target id="t86"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--Montreal-->
-      <references>
-        <span>
-          <target id="t164"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Montreal" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Amsterdam-->
-      <references>
-        <span>
-          <target id="t207"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Amsterdam" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--Europe-->
-      <references>
-        <span>
-          <target id="t225"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--Pelletier-->
-      <references>
-        <span>
-          <target id="t236"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Pelletier-->
-      <references>
-        <span>
-          <target id="t267"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pierre_Joseph_Pelletier" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

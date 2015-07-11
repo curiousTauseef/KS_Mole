@@ -8883,6 +8883,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -8903,6 +8904,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -8916,6 +8918,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines_destinations" confidence="1.288564E-39" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -8929,6 +8932,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_Regional_Airport" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta_Regional_Airport" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="MISC">
@@ -8950,6 +8954,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="MISC">
@@ -8968,6 +8973,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Eagle_(roller_coaster)" confidence="1.57E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Eagle_(ship)" confidence="1.7E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bald_Eagle" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Eagle_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -8988,6 +8994,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -9009,6 +9016,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -9029,6 +9037,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -9041,6 +9050,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -9061,6 +9071,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -9074,6 +9085,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Atlantic_Southeast_Airlines" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Atlantic_Southeast_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -9086,6 +9098,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -9125,6 +9138,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -9146,6 +9160,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Howard_family" confidence="3.7772746E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Last_of_the_Summer_Wine_characters" confidence="4.7607872E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_Howard" confidence="0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="PERSON">
@@ -9167,6 +9182,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Howard_family" confidence="3.7772746E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Last_of_the_Summer_Wine_characters" confidence="4.7607872E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_Howard" confidence="0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="MISC">
@@ -9188,6 +9204,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -9200,6 +9217,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -9220,6 +9238,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Association_for_Social_Advancement" confidence="1.5468796E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Speed_Association" confidence="6.1448233E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Allmennaksjeselskap" confidence="3.0701136E-22" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Atlantic_Southeast_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="MISC">
@@ -9232,6 +9251,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -9252,6 +9272,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -9275,6 +9296,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Koreatown,_Manhattan" confidence="4.0324375E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geography_of_New_York_City" confidence="2.7308817E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_York_City" confidence="19"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -9296,6 +9318,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Washington_County,_Pennsylvania" confidence="2.878789E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Washington_Wizards_season" confidence="2.3456402E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Washington_(state)" confidence="8"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="LOCATION">
@@ -9315,6 +9338,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/District_of_Columbia_Public_Schools" confidence="3.9617847E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/D.C._Divas" confidence="5.1418102E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/D.C._(TV_series)" confidence="2.3614331E-30" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="LOCATION">
@@ -9336,6 +9360,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Delta,_Utah" confidence="5.199578E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Delta_(2007_album)" confidence="2.1036E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/River_delta" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="ORGANIZATION">
@@ -9348,6 +9373,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="PERSON">
@@ -9377,6 +9403,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="PERSON">
@@ -9419,6 +9446,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Textron" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Textron" confidence="18"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Textron" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="LOCATION">
@@ -9440,6 +9468,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="ORGANIZATION">
@@ -9453,6 +9482,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Club_Car" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Club_Car" confidence="22"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Club_Car" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e37" type="ORGANIZATION">
@@ -9474,6 +9504,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kellogg,_Minnesota" confidence="2.5223936E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Will_Keith_Kellogg" confidence="1.0771985E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Frank_B._Kellogg" confidence="-4"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kellogg_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="LOCATION">
@@ -9495,6 +9526,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="ORGANIZATION">
@@ -9524,6 +9556,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Howard_family" confidence="3.7772746E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Last_of_the_Summer_Wine_characters" confidence="4.7607872E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/John_Howard" confidence="0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="MISC">
@@ -9545,6 +9578,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="LOCATION">
@@ -9565,6 +9599,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e43" type="MISC">
@@ -9583,6 +9618,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Eagle_(roller_coaster)" confidence="1.57E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Eagle_(ship)" confidence="1.7E-44" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bald_Eagle" confidence="13"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Eagle_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e44" type="LOCATION">
@@ -9604,6 +9640,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e45" type="LOCATION">
@@ -9624,6 +9661,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fayetteville_Force_(SIFL)" confidence="3.0480046E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fayetteville,_Ohio" confidence="9.270959E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fayetteville,_Pennsylvania" confidence="2.4955059E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fayetteville,_Arkansas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e46" type="LOCATION">
@@ -9637,6 +9675,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_Carolina" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_Carolina_Supreme_Court" confidence="5.7236083E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/N.C._Wyeth" confidence="2.089208E-10" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_Carolina" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e47" type="LOCATION">
@@ -9657,6 +9696,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e48" type="MISC">
@@ -9678,6 +9718,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="20"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e49" type="ORGANIZATION">
@@ -9691,6 +9732,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Embraer_ERJ_145_family" confidence="0.9982427" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Embraer" confidence="0.0017572995" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Embraer" confidence="23"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Embraer_ERJ_145_family" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e50" type="LOCATION">
@@ -9712,6 +9754,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e51" type="PERSON">
@@ -9733,6 +9776,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Johnston_Drummond" confidence="9.308209E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Johnston,_Pembrokeshire" confidence="4.5194233E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e52" type="LOCATION">
@@ -9754,6 +9798,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Dallas_Mavericks_season" confidence="1.1144825E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Dallas_Mavericks_season" confidence="2.5039843E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Dallas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e53" type="MISC">
@@ -9775,6 +9820,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_music_(North_America)" confidence="4.796313E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Western_comics" confidence="1.2264928E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Western_Europe" confidence="14"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Western_Europe" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e54" type="LOCATION">
@@ -9795,6 +9841,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e55" type="ORGANIZATION">
@@ -9807,6 +9854,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       </references>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e56" type="MISC">
@@ -9828,6 +9876,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Delta,_Utah" confidence="5.199578E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Delta_(2007_album)" confidence="2.1036E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/River_delta" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e57" type="ORGANIZATION">
@@ -9848,6 +9897,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/East_Coast_Park" confidence="2.3741001E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/East_Coast_(New_Zealand_electorate)" confidence="6.1112593E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/East_Coast_Rugby_Football_Union" confidence="7.937399E-28" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/East_Coast_of_the_United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e58" type="MISC">
@@ -9869,6 +9919,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_English" confidence="1.543204E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="4.7530738E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e59" type="LOCATION">
@@ -9891,6 +9942,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Industrias_Kaiser_Argentina" confidence="2.969329E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Women_in_the_Americas" confidence="4.763174E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/South_America" confidence="21"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/South_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e60" type="PERSON">
@@ -9912,6 +9964,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Johnston_Drummond" confidence="9.308209E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Johnston,_Pembrokeshire" confidence="4.5194233E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="16"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e61" type="MISC">
@@ -9925,6 +9978,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines_destinations" confidence="1.288564E-39" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e62" type="LOCATION">
@@ -9945,6 +9999,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Michigan" confidence="2.3531052E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta,_Kansas" confidence="4.894149E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach" confidence="1.998909E-24" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e63" type="ORGANIZATION">
@@ -9958,6 +10013,7 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
       <externalReferences>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines_destinations" confidence="1.288564E-39" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e64" type="PERSON">
@@ -9968,642 +10024,6 @@ Reach Tim Rausch at (706) 823-3352or timothy.rausch@augustachronicle.com</raw>
           <target id="t525"/>
         </span>
       </references>
-    </entity>
-    <entity id="f1">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t1"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f2">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t11"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f3">
-      <!--American Airlines-->
-      <references>
-        <span>
-          <target id="t13"/>
-          <target id="t14"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f4">
-      <!--Augusta Regional Airport-->
-      <references>
-        <span>
-          <target id="t19"/>
-          <target id="t20"/>
-          <target id="t21"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta_Regional_Airport" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f5">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t26"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f6">
-      <!--American Eagle-->
-      <references>
-        <span>
-          <target id="t31"/>
-          <target id="t32"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Eagle_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f7">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t40"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f8">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t42"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f9">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t48"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f10">
-      <!--Continental Express-->
-      <references>
-        <span>
-          <target id="t58"/>
-          <target id="t59"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f11">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t68"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f12">
-      <!--Atlantic Southeast Airlines-->
-      <references>
-        <span>
-          <target id="t106"/>
-          <target id="t107"/>
-          <target id="t108"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Atlantic_Southeast_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f13">
-      <!--US Airways-->
-      <references>
-        <span>
-          <target id="t110"/>
-          <target id="t111"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f14">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t135"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f15">
-      <!--Howard-->
-      <references>
-        <span>
-          <target id="t155"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f16">
-      <!--Howard-->
-      <references>
-        <span>
-          <target id="t176"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f17">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t178"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f18">
-      <!--US Airways-->
-      <references>
-        <span>
-          <target id="t185"/>
-          <target id="t186"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f19">
-      <!--ASA-->
-      <references>
-        <span>
-          <target id="t188"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Atlantic_Southeast_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f20">
-      <!--Continental Express-->
-      <references>
-        <span>
-          <target id="t202"/>
-          <target id="t203"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Continental_Express" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f21">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t224"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f22">
-      <!--New York City-->
-      <references>
-        <span>
-          <target id="t226"/>
-          <target id="t227"/>
-          <target id="t228"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f23">
-      <!--Washington-->
-      <references>
-        <span>
-          <target id="t230"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f24">
-      <!--D.C.-->
-      <references>
-        <span>
-          <target id="t232"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Washington,_D.C." confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f25">
-      <!--Delta-->
-      <references>
-        <span>
-          <target id="t245"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f26">
-      <!--US Airways-->
-      <references>
-        <span>
-          <target id="t247"/>
-          <target id="t248"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f27">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t292"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f28">
-      <!--E-Z-Go-->
-      <references>
-        <span>
-          <target id="t327"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Textron" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f29">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t334"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f30">
-      <!--Club Car-->
-      <references>
-        <span>
-          <target id="t338"/>
-          <target id="t339"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Club_Car" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f31">
-      <!--Kellogg-->
-      <references>
-        <span>
-          <target id="t343"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kellogg_Company" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f32">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t352"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f33">
-      <!--Howard-->
-      <references>
-        <span>
-          <target id="t366"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Howard_University" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f34">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t368"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f35">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t385"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f36">
-      <!--American Eagle-->
-      <references>
-        <span>
-          <target id="t387"/>
-          <target id="t388"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Eagle_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f37">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t393"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f38">
-      <!--Fayetteville-->
-      <references>
-        <span>
-          <target id="t395"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fayetteville,_Arkansas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f39">
-      <!--N.C.-->
-      <references>
-        <span>
-          <target id="t397"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_Carolina" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f40">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t404"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f41">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t408"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f42">
-      <!--Embraer-->
-      <references>
-        <span>
-          <target id="t414"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Embraer_ERJ_145_family" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f43">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t420"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f44">
-      <!--Johnston-->
-      <references>
-        <span>
-          <target id="t422"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f45">
-      <!--Dallas-->
-      <references>
-        <span>
-          <target id="t426"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dallas" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f46">
-      <!--Western-->
-      <references>
-        <span>
-          <target id="t429"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Western_Europe" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f47">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t432"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f48">
-      <!--US Airways-->
-      <references>
-        <span>
-          <target id="t434"/>
-          <target id="t435"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/US_Airways" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f49">
-      <!--Delta-->
-      <references>
-        <span>
-          <target id="t438"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f50">
-      <!--East Coast-->
-      <references>
-        <span>
-          <target id="t447"/>
-          <target id="t448"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/East_Coast_of_the_United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f51">
-      <!--American-->
-      <references>
-        <span>
-          <target id="t451"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f52">
-      <!--South America-->
-      <references>
-        <span>
-          <target id="t468"/>
-          <target id="t469"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_America" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f53">
-      <!--Johnston-->
-      <references>
-        <span>
-          <target id="t472"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Johnston_Atoll" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f54">
-      <!--American Airlines-->
-      <references>
-        <span>
-          <target id="t477"/>
-          <target id="t478"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f55">
-      <!--Augusta-->
-      <references>
-        <span>
-          <target id="t492"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Augusta,_Georgia" confidence="1.0"/>
-      </externalReferences>
-    </entity>
-    <entity id="f56">
-      <!--American Airlines-->
-      <references>
-        <span>
-          <target id="t507"/>
-          <target id="t508"/>
-        </span>
-      </references>
-      <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
-      </externalReferences>
     </entity>
   </entities>
   <coreferences>
