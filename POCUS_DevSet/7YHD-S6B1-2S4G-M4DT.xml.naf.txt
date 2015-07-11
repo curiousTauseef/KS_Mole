@@ -8323,7 +8323,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6499797E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.1182726E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Empire_of_Japan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -8345,7 +8345,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6499797E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.1182726E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Empire_of_Japan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -8364,7 +8364,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Financial_District,_Manhattan" confidence="9.609757E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wall_Street_(1987_film)" confidence="3.4719E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="13"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -8387,7 +8387,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="6.1656033E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.570896E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -8403,7 +8403,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lehman_Brothers" confidence="0.99999756" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bankruptcy_of_Lehman_Brothers" confidence="2.418159E-6" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Lehman_Brothers" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lehman_Brothers" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lehman_Brothers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -8425,7 +8425,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_(band)" confidence="2.6499797E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="1.1182726E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Empire_of_Japan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -8456,7 +8456,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nihon_Keizai_Shimbun" confidence="1.3222307E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japanese_people" confidence="2.5443214E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Nihon_Keizai_Shimbun" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="MISC">
@@ -8471,7 +8471,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/TOPIX" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Topix_(website)" confidence="2.1031803E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Topix_(website)" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/TOPIX" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/TOPIX" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -8492,7 +8492,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_NSR500" confidence="1.183779E-39" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_F.C." confidence="3.12E-43" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -8508,7 +8508,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nagoya_Grampus" confidence="1.0159032E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Toyota" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -8523,7 +8523,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bridgestone" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bridgestone_Golf" confidence="3.0306836E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Bridgestone" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bridgestone" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bridgestone" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -8546,7 +8546,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canon_(hymnography)" confidence="3.013123E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canon_of_the_Mass" confidence="1.9890475E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Canon_Inc." confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Canon_Inc." confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Canon_Inc." confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -8569,7 +8569,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Subaru_Sumeragi" confidence="2.4785015E-37" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_.hack_characters" confidence="3.098123E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Subaru" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Subaru" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Subaru" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -8596,7 +8596,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -8611,7 +8611,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_Airlines_destinations" confidence="3.3167734E-33" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -8625,7 +8625,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Delta_Air_Lines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -8638,7 +8638,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -8653,7 +8653,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Nippon_Steel" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nippon_Steel" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Nippon_Steel" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nippon_Steel" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nippon_Steel" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -8668,7 +8668,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/JFE_Holdings" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/JFE_Holdings" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/JFE_Holdings" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/JFE_Holdings" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/JFE_Holdings" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -8684,7 +8684,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Sumitomo_Metal_Industries" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sumitomo_Metal_Industries" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Sumitomo_Metal_Industries" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sumitomo_Metal_Industries" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sumitomo_Metal_Industries" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="ORGANIZATION">
@@ -8699,7 +8699,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Kobe_Steel" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kobe_Steel" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Kobe_Steel" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kobe_Steel" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kobe_Steel" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -8740,7 +8740,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sumitomo_Mitsui_Banking_Corporation" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="ORGANIZATION">
@@ -8776,7 +8776,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="6.1656033E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.570896E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="LOCATION">
@@ -8799,7 +8799,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="6.1656033E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.570896E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -8822,7 +8822,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="7.443965E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.8064837E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="LOCATION">
@@ -8841,7 +8841,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Financial_District,_Manhattan" confidence="9.609757E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wall_Street_(1987_film)" confidence="3.4719E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="13"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="ORGANIZATION">
@@ -8869,7 +8869,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Nasdaq_Composite" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nasdaq_Composite" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nasdaq_Composite" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nasdaq_Composite" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="ORGANIZATION">
@@ -8919,7 +8919,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_Hong_Kong" confidence="1.3705753E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hong_Kong_Station" confidence="5.347947E-38" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Hong_Kong_national_cricket_team" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hong_Kong" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="MISC">
@@ -8933,7 +8933,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Hang_Seng_Index" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e37" type="LOCATION">
@@ -8956,7 +8956,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="7.443965E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.8064837E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -8970,7 +8970,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/SSE_Composite_Index" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SSE_Composite_Index" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SSE_Composite_Index" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/SSE_Composite_Index" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="LOCATION">
@@ -8993,7 +8993,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Dominion_of_India" confidence="3.0256668E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/India_national_football_team" confidence="1.8740501E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/India_national_women's_cricket_team" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/India" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="MISC">
@@ -9026,7 +9026,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Economy_of_Indonesia" confidence="5.471667E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Indonesia" confidence="1.8319845E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Indonesia" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="LOCATION">
@@ -9076,7 +9076,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_Korea_national_under-20_football_team" confidence="8.7627454E-33" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_Korea_at_the_2012_Summer_Olympics" confidence="9.4633824E-36" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/South_Korea_national_baseball_team" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_Korea" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/South_Korea" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e45" type="MISC">
@@ -9118,7 +9118,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/All_rights_reserved" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/All_rights_reserved" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/All_rights_reserved" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="f1" source="POCUS">
@@ -9130,7 +9130,7 @@ Copyright(c) 2009 RTTNews.com, Inc. All Rights Reserved</raw>
         </span>
       </references>
       <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

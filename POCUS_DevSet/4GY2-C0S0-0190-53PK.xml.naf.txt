@@ -9603,7 +9603,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Aircraft_Nuclear_Propulsion" confidence="0.9999998" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Royal_Society_of_Painter-Printmakers" confidence="1.5766616E-7" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Aircraft_Nuclear_Propulsion" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Royal_Society_of_Painter-Printmakers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="PERSON">
@@ -9631,7 +9631,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="5"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -9654,7 +9654,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2006_Louisville_Cardinals_football_team" confidence="1.2038259E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2005_Louisville_Cardinals_football_team" confidence="4.878535E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Louisville_Bats" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Louisville,_Kentucky" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Louisville,_Kentucky" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -9690,7 +9690,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fletcher-class_destroyer" confidence="1.730693E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USS_Fletcher_(DD-445)" confidence="1.1778921E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/PAC_Fletcher" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/PAC_Fletcher" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -9712,7 +9712,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Englewood,_Tennessee" confidence="1.8629978E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Englewood,_Kansas" confidence="1.1884835E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ashland_Branch_(CTA)" confidence="1.4272781E-25" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Englewood,_New_Jersey" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Englewood,_New_Jersey" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="LOCATION">
@@ -9746,7 +9746,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(TV_film)" confidence="7.357069E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(given_name)" confidence="4.461676E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Adam" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Adam" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Adam_and_Eve" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="PERSON">
@@ -9776,7 +9776,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/The_Salt_Lake_Tribune" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Salt_Lake_Tribune" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/The_Salt_Lake_Tribune" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Salt_Lake_Tribune" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Salt_Lake_Tribune" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="PERSON">
@@ -9799,7 +9799,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(TV_film)" confidence="7.357069E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(given_name)" confidence="4.461676E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Adam" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Adam" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Adam_and_Eve" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="LOCATION">
@@ -9822,7 +9822,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ogden,_Quebec" confidence="1.5134898E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ogden_Reservoir_(Greater_Manchester)" confidence="7.9513535E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ogden_Mills_Phipps" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ogden,_Utah" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ogden,_Utah" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -9845,7 +9845,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Utah_Jazz_season" confidence="1.2459617E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2007???08_Utah_Jazz_season" confidence="2.531157E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Utah" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -9868,7 +9868,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ogden,_Quebec" confidence="1.5134898E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ogden_Reservoir_(Greater_Manchester)" confidence="7.9513535E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ogden_Mills_Phipps" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ogden,_Utah" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ogden,_Utah" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="PERSON">
@@ -9891,7 +9891,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(TV_film)" confidence="7.357069E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(given_name)" confidence="4.461676E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Adam" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Adam" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Adam_and_Eve" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -9914,7 +9914,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Utah_Jazz_season" confidence="1.2459617E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2007???08_Utah_Jazz_season" confidence="2.531157E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Utah" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="PERSON">
@@ -9937,7 +9937,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(TV_film)" confidence="7.357069E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(given_name)" confidence="4.461676E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Adam" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Adam" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Adam_and_Eve" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="PERSON">
@@ -9960,7 +9960,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fletcher-class_destroyer" confidence="1.730693E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USS_Fletcher_(DD-445)" confidence="1.1778921E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/PAC_Fletcher" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/PAC_Fletcher" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ernie_Fletcher" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="PERSON">
@@ -9983,7 +9983,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(TV_film)" confidence="7.357069E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Adam_(given_name)" confidence="4.461676E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Adam" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Adam" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Adam_and_Eve" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -10006,7 +10006,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kentucky_Speedway" confidence="1.2192062E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_Kentucky" confidence="4.1335304E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Kentucky" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kentucky" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kentucky" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -10029,7 +10029,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009???10_Utah_Jazz_season" confidence="1.2459617E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2007???08_Utah_Jazz_season" confidence="2.531157E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Utah" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Utah" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="ORGANIZATION">
@@ -10093,7 +10093,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_ice_hockey" confidence="2.6430723E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_football_under_Henry_L._Williams" confidence="7.6184594E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Minnesota" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Minnesota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Minnesota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="LOCATION">
@@ -10126,7 +10126,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009_Southeastern_Conference_football_season" confidence="2.665005E-39" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008???09_Southeastern_Conference_men's_basketball_season" confidence="3.7032E-41" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Southeastern_Conference" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -10145,7 +10145,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Securities_and_Exchange_Commission_(Philippines)" confidence="8.492168E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Securities_and_Exchange_Commission_(Nigeria)" confidence="1.5210509E-32" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Securities_and_Exchange_Commission_(Nigeria)" confidence="7"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="PERSON">
@@ -10168,7 +10168,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jake_Kelly" confidence="7.1601413E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kelly_(TV_series)" confidence="5.664965E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Kelly_Osbourne" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kelly_Clarkson" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kelly_Clarkson" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="LOCATION">
@@ -10226,7 +10226,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/SuperMedia" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/SuperMedia" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/SuperMedia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/SuperMedia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="ORGANIZATION">
@@ -10275,7 +10275,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Dick_(film)" confidence="8.876756E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Dick_Wood_(comics)" confidence="1.029525E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Dick_Donato" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Dick_Grayson" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Dick_Grayson" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="ORGANIZATION">
@@ -10289,7 +10289,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
       <externalReferences>
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/sports_equipment" confidence="0.98635995" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/sports_equipment" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/sports_equipment" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g5" type="LOCATION">
@@ -10326,7 +10326,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="5.986678E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.7749056E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="LOCATION">
@@ -10348,7 +10348,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lexington_(horse)" confidence="3.920969E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lexington,_Ohio" confidence="1.4893922E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lexington,_California" confidence="1.4966897E-29" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lexington,_Kentucky" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lexington,_Kentucky" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e37" type="LOCATION">
@@ -10371,7 +10371,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="5.986678E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.7749056E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="LOCATION">
@@ -10394,7 +10394,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_national_cricket_team" confidence="3.05326E-30" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/A1_Team_USA" confidence="3.9275514E-31" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e39" type="PERSON">
@@ -10412,7 +10412,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_Jordan_(actor)" confidence="8.5282524E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jim_Jordan_(American_politician)" confidence="4.0890623E-7" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Jim_Jordan_(political_consultant)" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jim_Jordan_(Canadian_politician)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jim_Jordan_(political_consultant)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="MISC">
@@ -10426,7 +10426,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Lexington_Herald-Leader" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lexington_Herald-Leader" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Lexington_Herald-Leader" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lexington_Herald-Leader" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lexington_Herald-Leader" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="LOCATION">
@@ -10449,7 +10449,7 @@ The Buzz is written by Jim Jordan with contributions from readers and the Herald
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jordan,_New_York" confidence="1.4177682E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jordan_I_of_Capua" confidence="6.801735E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Jordan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jordan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jim_Jordan_(political_consultant)" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

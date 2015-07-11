@@ -6694,7 +6694,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Davis_Cup_team" confidence="9.389453E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Fed_Cup_team" confidence="3.95376E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="ORGANIZATION">
@@ -6722,7 +6722,7 @@ Ltd.</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -6745,7 +6745,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="2.905E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -6778,7 +6778,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.9890246E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="5.7321595E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.63972E-40" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="ORGANIZATION">
@@ -6809,7 +6809,7 @@ Ltd.</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/American_International_Group" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="LOCATION">
@@ -6832,7 +6832,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Germany_national_youth_football_team" confidence="9.8528406E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_Germany" confidence="9.234549E-16" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Germany" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Germany" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -6847,7 +6847,7 @@ Ltd.</raw>
         <externalRef resource="GOLD" reference="" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="0.9999998" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/PineBridge_Investments" confidence="1.9122099E-7" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -6864,7 +6864,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_World_Rally_Team" confidence="9.97352E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -6880,7 +6880,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars_Ghent" confidence="1.54476E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -6895,7 +6895,7 @@ Ltd.</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Alcoa" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alcoa" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alcoa" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alcoa" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alcoa" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -6930,7 +6930,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/London_postal_district" confidence="3.9572375E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/London_Cricket_Club" confidence="3.4595708E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/London" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/London" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/London" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="ORGANIZATION">
@@ -7006,7 +7006,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Free_City_of_Frankfurt" confidence="3.059836E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grand_Duchy_of_Frankfurt" confidence="1.8634418E-37" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Frankfurt" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Frankfurt_Stock_Exchange" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Frankfurt_Stock_Exchange" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="LOCATION">
@@ -7028,7 +7028,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.9890246E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="5.7321595E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.63972E-40" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -7050,7 +7050,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.9890246E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="5.7321595E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.63972E-40" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="MISC">
@@ -7073,7 +7073,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Boxing_Union" confidence="1.3142449E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="1.5432883E-36" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Europe" confidence="19"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -7096,7 +7096,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_universities_in_Greece" confidence="2.152889E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Second_Hellenic_Republic" confidence="1.3237184E-22" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Greece" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Greece" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Greece" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -7119,7 +7119,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North" confidence="2.2270642E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_Hwanghae_Province" confidence="1.269952E-14" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/North_Korea" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_Korea" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -7143,7 +7143,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/South_Korea_men's_national_junior_ice_hockey_team" confidence="2.493016E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Korea_national_badminton_team" confidence="4.1668138E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/South_Korea" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/South_Korea" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/South_Korea" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e26" type="ORGANIZATION">
@@ -7156,7 +7156,7 @@ Ltd.</raw>
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/American_International_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -7173,7 +7173,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="0.88475436" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pacific_Century_Regional_Developments_Limited" confidence="0.11524565" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="6"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pacific_Century_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="PERSON">
@@ -7203,7 +7203,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York_City" confidence="0.1151735" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York_hardcore" confidence="4.255063E-17" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_York_City" confidence="13"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="ORGANIZATION">
@@ -7226,7 +7226,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="2.905E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e31" type="LOCATION">
@@ -7248,7 +7248,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam" confidence="1.9890246E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="5.7321595E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.63972E-40" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -7272,7 +7272,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2012???13_New_York_Knicks_season" confidence="2.1591177E-28" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tiffany_Pollard" confidence="1.6791777E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/New_York" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="ORGANIZATION">
@@ -7303,7 +7303,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Volvo_Cars_Ghent" confidence="1.54476E-40" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Volvo_Cars" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="ORGANIZATION">
@@ -7326,7 +7326,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford,_West_Sussex" confidence="2.905E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="1.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Ford_Brasil" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ford_Motor_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="MISC">
@@ -7349,7 +7349,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_cuisine" confidence="2.260798E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/History_of_China" confidence="1.8485315E-18" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="ORGANIZATION">
@@ -7409,7 +7409,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gothenburg,_Nebraska" confidence="4.0049466E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Gothenburg_Symphony" confidence="1.7257906E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Gothenburg" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Gothenburg" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Gothenburg" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="LOCATION">
@@ -7432,7 +7432,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sweden_Davis_Cup_team" confidence="5.6426026E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sweden_in_the_Eurovision_Song_Contest" confidence="1.271013E-29" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Sweden" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sweden" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="ORGANIZATION">
@@ -7454,7 +7454,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Time_(Electric_Light_Orchestra_album)" confidence="4.6252294E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Space_/_Time" confidence="4.8275518E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Father_Time" confidence="11"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Time_(magazine)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Time_(magazine)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="ORGANIZATION">
@@ -7480,7 +7480,7 @@ Ltd.</raw>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Li_Shufu" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Li_Shufu" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e43" type="ORGANIZATION">
@@ -7496,7 +7496,7 @@ Ltd.</raw>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Limited_liability_company" confidence="0.21692924" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Limited_company" confidence="4.409288E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Private_company_limited_by_shares" confidence="4.2588237E-14" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Limited_partnership" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Limited_liability_company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="f1" source="POCUS">
@@ -7508,7 +7508,7 @@ Ltd.</raw>
         </span>
       </references>
       <externalReferences>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/S&amp;P_500" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/S&amp;P_500" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

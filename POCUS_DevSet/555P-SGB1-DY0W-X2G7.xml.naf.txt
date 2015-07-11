@@ -4763,7 +4763,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Team_Dynamics" confidence="2.2169478E-31" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_clan" confidence="2.3577908E-33" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="LOCATION">
@@ -4784,7 +4784,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Economy_of_Indonesia" confidence="3.9609408E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Indonesia" confidence="1.1480802E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Indonesia" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -4800,7 +4800,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Honda" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -4821,7 +4821,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Economy_of_Indonesia" confidence="3.9609408E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Culture_of_Indonesia" confidence="1.1480802E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Indonesia" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Indonesia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="MISC">
@@ -4835,7 +4835,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/California" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -4871,7 +4871,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York_Knicks" confidence="2.4986348E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_congressional_delegations_from_New_York" confidence="5.2086242E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States_congressional_delegations_from_New_York" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4898,7 +4898,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/California" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -4915,7 +4915,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_Bank_of_Tokyo-Mitsubishi_UFJ" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -4997,7 +4997,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Iwate_Prefecture" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Iwate_Prefecture" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Iwate_Prefecture" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Iwate_Prefecture" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Iwate_Prefecture" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="MISC">
@@ -5012,7 +5012,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Asahi_Kasei" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asahi_Kasei" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Asahi_Kasei" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asahi_Kasei" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Asahi_Kasei" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="LOCATION">
@@ -5035,7 +5035,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Reports" confidence="1.6016815E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fauna_of_the_United_States" confidence="2.5972818E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -5058,7 +5058,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toray_Pan_Pacific_Open_Tennis_Tournament" confidence="1.67902E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tokyo_bid_for_the_2016_Summer_Olympics" confidence="3.238172E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tokyo_City" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tokyo_Station" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -5099,6 +5099,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Massachusetts" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Massachusetts" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="LOCATION">
@@ -5120,7 +5121,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mongolia_(1911???21)" confidence="8.1028045E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mongolia_men's_national_under-18_ice_hockey_team" confidence="1.5834652E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Politics_of_Mongolia" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mongolia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mongolia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -5143,7 +5144,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toray_Pan_Pacific_Open_Tennis_Tournament" confidence="1.67902E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tokyo_bid_for_the_2016_Summer_Olympics" confidence="3.238172E-30" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Tokyo_City" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tokyo_Station" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="ORGANIZATION">
@@ -5195,7 +5196,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mongolia_(1911???21)" confidence="8.1028045E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mongolia_men's_national_under-18_ice_hockey_team" confidence="1.5834652E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Politics_of_Mongolia" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mongolia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mongolia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="LOCATION">
@@ -5223,7 +5224,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Kyodo_News" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="LOCATION">
@@ -5245,7 +5246,7 @@ TOKYO - Sumitomo Mitsubishi Banking Corp. said Monday it has forged a tie-up wit
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_national_baseball_team" confidence="6.5617337E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Japan_women's_national_football_team" confidence="2.3357427E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Empire_of_Japan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

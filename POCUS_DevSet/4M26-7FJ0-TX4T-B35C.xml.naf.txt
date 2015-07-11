@@ -4718,7 +4718,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alaska_(singer)" confidence="1.1507322E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleontology_in_Alaska" confidence="2.198824E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alaska" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -4732,7 +4732,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Matanuska-Susitna_Borough,_Alaska" confidence="1.2444734E-11" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -4762,7 +4762,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Matanuska-Susitna_Borough,_Alaska" confidence="1.2444734E-11" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="PERSON">
@@ -4798,7 +4798,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alaska_(singer)" confidence="1.1507322E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleontology_in_Alaska" confidence="2.198824E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alaska" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -4821,7 +4821,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alaska_(singer)" confidence="1.1507322E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Paleontology_in_Alaska" confidence="2.198824E-39" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Alaska" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -4856,7 +4856,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/St._Joseph's_Catholic_Church_(Lacona,_Iowa)" confidence="4.963749E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bauer_(Dutch_band)" confidence="4.4211816E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Bauer_Hockey" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bauer_Media_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bauer_Media_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -4872,7 +4872,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/First_National_Bank_Alaska" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/First_National_Bank_Alaska" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/First_National_Bank_Alaska" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/First_National_Bank_Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -4900,7 +4900,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Credit_Union_1_(Alaska)" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Credit_union" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Irish_League_of_Credit_Unions" confidence="1.34377E-30" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Credit_union" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Credit_union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -4960,7 +4960,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Wells_Fargo" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wells_Fargo" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Wells_Fargo" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wells_Fargo" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wells_Fargo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -5014,7 +5014,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
       <externalReferences>
         <externalRef resource="GOLD" reference="" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Matanuska-Susitna_Valley" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="ORGANIZATION">
@@ -5037,7 +5037,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/City_(New_Jersey)" confidence="4.200881E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Iowa_City_High_School" confidence="6.359416E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/City" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_City" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="LOCATION">
@@ -5057,7 +5057,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fairbanks,_Minnesota" confidence="7.947338E-38" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fairbanks,_Oregon" confidence="9.762444E-39" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fairbanks,_Louisiana" confidence="6.70199E-40" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fairbanks,_Alaska" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fairbanks,_Alaska" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="LOCATION">
@@ -5100,7 +5100,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Nissan_Civilian" confidence="2.0741944E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Civilian_(Boy_Kill_Boy_album)" confidence="1.8591182E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Nissan_Civilian" confidence="12"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Civilian" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Civilian" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -5132,7 +5132,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jill_Ker_Conway" confidence="4.091188E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/True_North_(Bill_George_book)" confidence="1.0060837E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/true_north" confidence="4.892237E-16" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/True_North_Records" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/True_North_Records" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="MISC">
@@ -5158,7 +5158,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tongass_National_Forest" confidence="0.99999994" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tongass_Island" confidence="4.7302667E-8" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Tongass_Island" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tongass_National_Forest" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tongass_National_Forest" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -5189,7 +5189,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/KeyBank" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/KeyBank" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/KeyBank" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/KeyBank" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/KeyBank" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="ORGANIZATION">
@@ -5255,7 +5255,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -5278,7 +5278,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Machin,_Ontario" confidence="4.34951E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Eagle_River_(Shuswap_Lake)" confidence="5.418311E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Eagle_River_(Cook_Inlet)" confidence="1.6725884E-28" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Eagle_River_(Anchorage)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Eagle_River,_Wisconsin" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -5314,7 +5314,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Acute_coronary_syndrome" confidence="6.362278E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Accredited_Certification_Scheme" confidence="6.3010887E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Grupo_ACS" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alaska_Communications_System" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="MISC">
@@ -5336,7 +5336,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Webcomic" confidence="3.5916262E-16" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Internet_in_China" confidence="1.7094965E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Online_journalism" confidence="5.214335E-29" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Internet" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Internet" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e36" type="PERSON">
@@ -5365,7 +5365,7 @@ The Alaska Communications System store in Eagle River has relocated to 16707 Cor
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Anchorage_Daily_News" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Anchorage_Daily_News" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Anchorage_Daily_News" confidence="12"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Anchorage_Daily_News" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Anchorage_Daily_News" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

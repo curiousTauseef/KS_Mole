@@ -4572,7 +4572,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.6765382E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.754292E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -4592,7 +4592,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Team_Dynamics" confidence="2.05E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_Transalp" confidence="2.8E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="LOCATION">
@@ -4614,7 +4614,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Guangzhou_Military_Region" confidence="5.504419E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2012_Guangzhou_International_Women's_Open" confidence="4.667255E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Guangzhou" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Guangzhou" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Guangzhou" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -4637,7 +4637,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/China_men's_national_basketball_team" confidence="3.6765382E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Energy_policy_of_China" confidence="2.754292E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Taiwan" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -4659,7 +4659,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Guangzhou_Military_Region" confidence="5.504419E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2012_Guangzhou_International_Women's_Open" confidence="4.667255E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Guangzhou" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Guangzhou" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Guangzhou" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -4675,7 +4675,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/GAC_Group" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -4691,7 +4691,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Guangqi_Honda" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Guangqi_Honda" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Guangqi_Honda" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Guangqi_Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Guangqi_Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -4711,7 +4711,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Team_Dynamics" confidence="2.05E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_Transalp" confidence="2.8E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="ORGANIZATION">
@@ -4727,7 +4727,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/GAC_Group" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/GAC_Group" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -4766,7 +4766,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_Fit" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -4786,7 +4786,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Team_Dynamics" confidence="2.05E-43" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_Transalp" confidence="2.8E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="LOCATION">
@@ -4810,7 +4810,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_Sparks" confidence="8.71505E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Los_Angeles_metropolitan_area" confidence="6.5686626E-15" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Los_Angeles_metropolitan_area" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Los_Angeles" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="MISC">
@@ -4838,7 +4838,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_Fit" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda_Fit" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="LOCATION">
@@ -4861,7 +4861,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jazz_(Queen_album)" confidence="4.4411747E-20" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Jazz_(TV_series)" confidence="9.349078E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Jazz_(TV_series)" confidence="11"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Jazz" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Jazz" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="MISC">
@@ -4884,7 +4884,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/European_Boxing_Union" confidence="8.4697425E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Emigration_from_Europe" confidence="3.5674386E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/UEFA" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/European_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="MISC">
@@ -4907,7 +4907,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Asian_Brazilian" confidence="7.717733E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cinema_of_Asia" confidence="1.3316507E-20" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Asian_Football_Confederation" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Asia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="MISC">
@@ -4922,7 +4922,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Honda_FCX" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Honda_FCX" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Honda_FCX" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Honda_FCX" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Honda_FCX" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="MISC">
@@ -4963,7 +4963,7 @@ Significance:The trial is being conducted to determine the feasibility of altern
         <externalRef resource="GOLD" reference="-NAE-" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Economics" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Econ_P??yry" confidence="4.175946E-21" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Economics" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Economics" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

@@ -5295,7 +5295,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="PERSON">
@@ -5309,7 +5309,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="MISC">
@@ -5331,7 +5331,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GAA_GPA_All_Stars_Awards" confidence="2.927919E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_NBA_All-Stars" confidence="2.9978975E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/All_Stars_Hurler_of_the_Year" confidence="3.8E-44" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -5350,7 +5350,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Gold_Glove_Award_winners_at_first_base" confidence="2.5349683E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mitsui_Golden_Glove_Award" confidence="1.1203747E-34" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/List_of_Gold_Glove_Award_winners_at_third_base" confidence="5.491802E-38" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Rawlings_Gold_Glove_Award" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Rawlings_Gold_Glove_Award" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -5364,7 +5364,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="PERSON">
@@ -5377,6 +5377,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -5399,7 +5400,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2004???05_Seattle_SuperSonics_season" confidence="1.928632E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2002???03_Seattle_SuperSonics_season" confidence="2.6330451E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Seattle" confidence="22"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="PERSON">
@@ -5412,6 +5413,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="" confidence="1.0" reftype="en"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Olerud" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -5427,7 +5429,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Arizona_League_Mariners" confidence="2.931411E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Central_Coast_Mariners_FC" confidence="4.2E-44" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grimsby_Town_F.C." confidence="5.6E-45" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="PERSON">
@@ -5441,7 +5443,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Rich_Aurilia" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Rich_Aurilia" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Rich_Aurilia" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Rich_Aurilia" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="PERSON">
@@ -5455,7 +5457,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Bob_Melvin" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Melvin" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Bob_Melvin" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Bob_Melvin" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -5471,7 +5473,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Arizona_League_Mariners" confidence="2.931411E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Central_Coast_Mariners_FC" confidence="4.2E-44" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grimsby_Town_F.C." confidence="5.6E-45" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="LOCATION">
@@ -5485,7 +5487,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/American_League_West" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Albert_L._West" confidence="0.9983678" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Albert_L._West" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Albert_L._West" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -5499,7 +5501,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Scott_Spiezio" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Scott_Spiezio" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Scott_Spiezio" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Scott_Spiezio" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="PERSON">
@@ -5513,7 +5515,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Justin_Leone" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Justin_Leone" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Justin_Leone" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Justin_Leone" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="PERSON">
@@ -5527,7 +5529,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Pat_Borders" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pat_Borders" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pat_Borders" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pat_Borders" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -5543,7 +5545,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Arizona_League_Mariners" confidence="2.931411E-36" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Central_Coast_Mariners_FC" confidence="4.2E-44" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Grimsby_Town_F.C." confidence="5.6E-45" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Seattle_Mariners" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="PERSON">
@@ -5570,7 +5572,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Tacoma_Rainiers" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tacoma_Rainiers" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tacoma_Rainiers" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tacoma_Rainiers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="PERSON">
@@ -5584,7 +5586,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Miguel_Olivo" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Miguel_Olivo" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Miguel_Olivo" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Miguel_Olivo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e21" type="LOCATION">
@@ -5607,7 +5609,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_Arizona_Wildcats_football_team" confidence="1.791726E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009_Arizona_Wildcats_football_team" confidence="3.5059353E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Arizona_Wildcats_men's_basketball" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Arizona_Cardinals" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Arizona" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e22" type="PERSON">
@@ -5634,7 +5636,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Robby_Hammock" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Robby_Hammock" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Robby_Hammock" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Robby_Hammock" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="PERSON">
@@ -5648,7 +5650,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Mike_Fetters" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mike_Fetters" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Mike_Fetters" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Mike_Fetters" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="ORGANIZATION">
@@ -5675,7 +5677,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Brent_Mayne" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brent_Mayne" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brent_Mayne" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brent_Mayne" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e27" type="ORGANIZATION">
@@ -5695,7 +5697,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1967_Detroit_Tigers_season" confidence="5.3E-44" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1972_Detroit_Tigers_season" confidence="7.0E-45" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2012_Detroit_Tigers_season" confidence="2.8E-45" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Detroit_Tigers" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Detroit_Tigers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e28" type="PERSON">
@@ -5709,7 +5711,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Brandon_Inge" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Brandon_Inge" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Brandon_Inge" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Brandon_Inge" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e29" type="PERSON">
@@ -5723,7 +5725,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Wil_Ledezma" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wil_Ledezma" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wil_Ledezma" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wil_Ledezma" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e30" type="ORGANIZATION">
@@ -5753,7 +5755,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alex_S??nchez_(outfielder)" confidence="6.9850153E-15" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alex_Sanchez_(pitcher)" confidence="7.639708E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Alex_S??nchez_(author)" confidence="5.8342376E-18" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Alex_S??nchez_(boxer)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Alex_S??nchez_(boxer)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e32" type="LOCATION">
@@ -5768,7 +5770,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="0.9999947" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Doctor_of_Letters" confidence="5.3143804E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/D._L._Hawkins" confidence="1.9038868E-11" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e33" type="LOCATION">
@@ -5791,7 +5793,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Urban_agglomeration_of_Montreal" confidence="6.33195E-27" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Geography_of_Montreal" confidence="1.3809178E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Canadian_Open_(tennis)" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Montreal_Canadiens" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Montreal" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e34" type="PERSON">
@@ -5814,7 +5816,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Patterson_(meteorologist)" confidence="2.8662606E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Paterson_(architect)" confidence="2.4014785E-14" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/John_Malcolm_Patterson" confidence="5"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/John_Henry_Patterson_(NCR_owner)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/John_Henry_Patterson_(NCR_owner)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e35" type="PERSON">
@@ -5854,7 +5856,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Shawn_Hill" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Shawn_Hill" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Shawn_Hill" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Shawn_Hill" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e38" type="ORGANIZATION">
@@ -5890,7 +5892,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_ice_hockey" confidence="1.7680655E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_football_under_Henry_L._Williams" confidence="5.415596E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Minnesota" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Minnesota_Vikings" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Minnesota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e40" type="PERSON">
@@ -5905,7 +5907,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Shannon_Stewart_(baseball)" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Shannon_Stewart_(baseball)" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Shannon_Stewart_(model)" confidence="4.82E-43" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Shannon_Stewart_(baseball)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Shannon_Stewart_(baseball)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e41" type="PERSON">
@@ -5919,7 +5921,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Doug_Mientkiewicz" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Doug_Mientkiewicz" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Doug_Mientkiewicz" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Doug_Mientkiewicz" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e42" type="PERSON">
@@ -5934,7 +5936,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="0.9999947" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Doctor_of_Letters" confidence="5.3143804E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/D._L._Hawkins" confidence="1.9038868E-11" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e43" type="LOCATION">
@@ -5957,7 +5959,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_ice_hockey" confidence="1.7680655E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Minnesota_Golden_Gophers_football_under_Henry_L._Williams" confidence="5.415596E-28" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Minnesota" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Minnesota_Vikings" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Minnesota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e44" type="PERSON">
@@ -5971,7 +5973,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Joe_Mauer" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Joe_Mauer" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Joe_Mauer" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Joe_Mauer" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e45" type="MISC">
@@ -5988,7 +5990,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Mental_Research_Institute" confidence="2.9342152E-18" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Royal_Institution" confidence="4.9597134E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Ruby_MRI" confidence="11"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Magnetic_resonance_imaging" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Magnetic_resonance_imaging" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e46" type="PERSON">
@@ -6002,7 +6004,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Ron_Gardenhire" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ron_Gardenhire" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ron_Gardenhire" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ron_Gardenhire" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="PERSON">
@@ -6036,7 +6038,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2010???11_Boston_Celtics_season" confidence="1.02150905E-25" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Boston_(UK_Parliament_constituency)" confidence="2.4936671E-27" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Boston_(UK_Parliament_constituency)" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Boston" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Boston" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e48" type="PERSON">
@@ -6050,7 +6052,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Ramiro_Mendoza" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Ramiro_Mendoza" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Ramiro_Mendoza" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Ramiro_Mendoza" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e49" type="PERSON">
@@ -6064,7 +6066,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Kevin_Youkilis" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kevin_Youkilis" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kevin_Youkilis" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Youkilis" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e50" type="MISC">
@@ -6079,7 +6081,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Pawtucket_Red_Sox" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Pawtucket_Red_Sox" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Pawtucket_Red_Sox" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Pawtucket_Red_Sox" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Pawtucket_Red_Sox" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e51" type="LOCATION">
@@ -6102,7 +6104,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1975_Cincinnati_Reds_season" confidence="9.29784E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_Cincinnati_Bearcats_football_team" confidence="8.4E-45" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Cincinnati_Masters" confidence="9"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cincinnati_Reds" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cincinnati" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e52" type="PERSON">
@@ -6120,7 +6122,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sean_Casey_(filmmaker)" confidence="1.228088E-33" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sean_Casey_(Canadian_politician)" confidence="2.9970133E-34" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Sean_Casey_(filmmaker)" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sean_Casey_(baseball)" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sean_Casey_(baseball)" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e53" type="PERSON">
@@ -6134,7 +6136,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Corky_Miller" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Corky_Miller" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Corky_Miller" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Corky_Miller" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e54" type="ORGANIZATION">
@@ -6168,7 +6170,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1999_New_York_Yankees_season" confidence="1.82369E-40" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1996_New_York_Yankees_season" confidence="9.284E-42" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2009_New_York_Yankees_season" confidence="7.0E-45" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York_Yankees" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York_Yankees" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e56" type="PERSON">
@@ -6196,7 +6198,7 @@ Catcher Pat Borders also was designated for assignment and the Mariners promoted
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="0.9999947" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Doctor_of_Letters" confidence="5.3143804E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/D._L._Hawkins" confidence="1.9038868E-11" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Deputy_Lieutenant" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e58" type="PERSON">

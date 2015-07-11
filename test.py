@@ -1,7 +1,9 @@
-import itertools
+import json
 
-def my_generator(a):
-    yield a
+fname="lemma.json"
 
-for i in itertools.chain(my_generator(34), [5]):
-    print i
+f=open(fname, "r")
+
+for line in f:
+	j=json.loads(line)
+	print j["Arizona"]

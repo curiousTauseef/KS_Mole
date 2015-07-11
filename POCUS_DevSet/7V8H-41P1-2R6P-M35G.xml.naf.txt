@@ -3517,7 +3517,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HUD_(video_gaming)" confidence="4.748382E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Head-up_display" confidence="9.808625E-25" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="ORGANIZATION">
@@ -3554,7 +3554,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1923_Michigan_Wolverines_football_team" confidence="2.9001168E-26" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/1913_Michigan_Wolverines_football_team" confidence="1.881423E-26" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Michigan" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="PERSON">
@@ -3569,7 +3569,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="PERSON">
@@ -3584,7 +3584,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g3" type="ORGANIZATION">
@@ -3619,7 +3619,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2006???07_Detroit_Pistons_season" confidence="3.627815E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2005???06_Detroit_Pistons_season" confidence="3.4897956E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Detroit" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Detroit" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Detroit" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="PERSON">
@@ -3642,7 +3642,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Ohio" confidence="4.451218E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Indiana" confidence="4.1280394E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Missouri" confidence="7.29841E-24" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wayne_County,_Michigan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wayne_County,_Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -3666,7 +3666,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln_Park_(Jersey_City)" confidence="7.0466636E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln_Park_(Washington,_D.C.)" confidence="5.3779822E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Lincoln_Park" confidence="10"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lincoln_Park,_Michigan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lincoln_Park" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -3685,7 +3685,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="ORGANIZATION">
@@ -3700,7 +3700,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/HUD_(video_gaming)" confidence="4.748382E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Head-up_display" confidence="9.808625E-25" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -3723,7 +3723,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2006???07_Detroit_Pistons_season" confidence="3.627815E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2005???06_Detroit_Pistons_season" confidence="3.4897956E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Detroit" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Detroit" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Detroit" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="PERSON">
@@ -3746,7 +3746,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Ohio" confidence="4.451218E-12" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Indiana" confidence="4.1280394E-23" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Wayne_County,_Missouri" confidence="7.29841E-24" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Wayne_County,_Michigan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Wayne_County,_Michigan" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="LOCATION">
@@ -3770,7 +3770,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln_Park_(Jersey_City)" confidence="7.0466636E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln_Park_(Washington,_D.C.)" confidence="5.3779822E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Lincoln_Park" confidence="10"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lincoln_Park,_Michigan" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lincoln_Park" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -3788,7 +3788,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/John_Kilpatrick_Turnpike" confidence="8.647482E-14" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/James_J._Kilpatrick" confidence="2.635916E-14" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Old_Kilpatrick" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/K.D._Kilpatrick" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Carolyn_Cheeks_Kilpatrick" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -3806,7 +3806,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_House_of_Representatives" confidence="0.024659315" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York's_9th_congressional_district" confidence="1.3551314E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Connecticut's_congressional_districts" confidence="3.8893784E-23" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Congressional_district" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_House_of_Representatives" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -3829,7 +3829,7 @@ The funds will be distributed through HUDs Neighborhood Stabilization Program, w
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Television_in_the_United_States" confidence="6.793803E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/American_ethnicity" confidence="1.224472E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Americas" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g4" type="ORGANIZATION">

@@ -4009,7 +4009,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -4032,7 +4032,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="0.06902082" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.9097486" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/United_States" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="PERSON">
@@ -4053,7 +4053,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kevin_Smith_(running_back)" confidence="4.276738E-11" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Kevin_Smith_(New_Zealand_actor)" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -4067,7 +4067,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="LOCATION">
@@ -4089,7 +4089,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_California,_Berkeley" confidence="5.0886073E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/California_Golden_Bears_football" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -4134,7 +4134,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Oakland_County,_Michigan" confidence="1.0026587E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Oakland,_California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Oakland_Unified_School_District" confidence="23"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Oakland,_California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Oakland_Athletics" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -4156,7 +4156,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Bob_Hope_Airport" confidence="0.0015219093" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Burbank,_California" confidence="0.9984781" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Downtown_Burbank_(Metrolink_station)" confidence="12"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Burbank,_California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Burbank,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="PERSON">
@@ -4178,7 +4178,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Smith_College" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -4191,7 +4191,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/KTXL" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/KTXL" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/KTXL" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/KTXL" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -4213,7 +4213,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sacramento_River" confidence="2.0390264E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sacramento_County,_California" confidence="6.793033E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Sacramento,_California" confidence="0.99993205" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Sacramento,_California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Sacramento,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -4227,7 +4227,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/California" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="ORGANIZATION">
@@ -4241,7 +4241,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="PERSON">
@@ -4263,7 +4263,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Smith_College" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="PERSON">
@@ -4285,7 +4285,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Smith_College" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="MISC">
@@ -4299,7 +4299,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Twitter" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Twitter" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/Twitter" confidence="24"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Twitter" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Twitter" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e16" type="ORGANIZATION">
@@ -4333,7 +4333,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_County,_Texas" confidence="0.080146074" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Agent_Smith" confidence="0.16477728" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Smith_College" confidence="0.7330761" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Smith_College" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kevin_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="ORGANIZATION">
@@ -4359,7 +4359,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/KTXL" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/KTXL" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/KTXL" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/KTXL" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g4" type="LOCATION">
@@ -4394,7 +4394,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Amy_Wong" confidence="1.5312848E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Amy_Pond" confidence="0.99984515" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.0" reference="http://dbpedia.org/resource/List_of_The_Big_Bang_Theory_characters" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Amy_Pond" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Amy_Pond" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g5" type="MISC">
@@ -4419,7 +4419,7 @@ KTXL said the comments from the "Chasing Amy" director prompted a Twitter apolog
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Southwest_Airlines" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

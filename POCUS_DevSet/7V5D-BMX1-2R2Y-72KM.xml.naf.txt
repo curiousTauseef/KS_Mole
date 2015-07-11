@@ -3585,7 +3585,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_California,_Berkeley" confidence="3.0049932E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="0.99999994" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/California" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e2" type="LOCATION">
@@ -3609,7 +3609,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York" confidence="0.34657097" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/New_York" confidence="0.42790747" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Manhattan" confidence="13"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/New_York" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="ORGANIZATION">
@@ -3626,7 +3626,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Allied_Industrial_Workers_of_America" confidence="3.82384E-32" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Canadian_Auto_Workers" confidence="2.8522581E-6" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="0.99999714" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_Auto_Workers" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="ORGANIZATION">
@@ -3641,7 +3641,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="ORGANIZATION">
@@ -3657,7 +3657,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/General_Motors" confidence="15"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e6" type="LOCATION">
@@ -3679,7 +3679,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_California,_Berkeley" confidence="3.0049932E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="0.99999994" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/California" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="ORGANIZATION">
@@ -3702,7 +3702,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Camry" confidence="3.2886588E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -3740,7 +3740,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fremont,_Nebraska" confidence="4.2066555E-9" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fremont,_Ohio" confidence="1.426605E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Fremont,_California" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Fremont,_California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Fremont,_California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -3762,7 +3762,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/University_of_California,_Berkeley" confidence="3.0049932E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/California" confidence="0.99999994" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/California" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="ORGANIZATION">
@@ -3785,7 +3785,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Camry" confidence="3.2886588E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="MISC">
@@ -3809,7 +3809,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.4057141" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/North_America" confidence="0.59333324" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/North_America" confidence="18"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/North_America" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e13" type="ORGANIZATION">
@@ -3830,7 +3830,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_manager" confidence="1.2962E-13" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/GMC_(automobile)" confidence="7.309801E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/General_Motors" confidence="0.99999994" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/General_Motors" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e14" type="ORGANIZATION">
@@ -3853,7 +3853,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota_Camry" confidence="3.2886588E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Toyota" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Toyota" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Toyota" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e15" type="LOCATION">
@@ -3877,7 +3877,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Federal_government_of_the_United_States" confidence="7.964165E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.99920356" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/United_States" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="ORGANIZATION">
@@ -3903,7 +3903,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e17" type="ORGANIZATION">
@@ -3918,7 +3918,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kyodo_News" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e18" type="LOCATION">
@@ -3941,7 +3941,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Narita_International_Airport" confidence="7.9710863E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Tokyo" confidence="0.99871475" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Tokyo" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Tokyo" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e19" type="ORGANIZATION">
@@ -3956,7 +3956,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
       <externalReferences>
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/The_McClatchy_Company" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/The_McClatchy_Company" confidence="1.0" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/The_McClatchy_Company" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/The_McClatchy_Company" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e20" type="ORGANIZATION">
@@ -3998,7 +3998,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suite_(address)" confidence="1.3536454E-21" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Suite_(music)" confidence="2.789549E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Software_suite" confidence="0.9999721" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Software_suite" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Software_suite" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e23" type="LOCATION">
@@ -4018,7 +4018,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Glenview,_Kentucky" confidence="1.2312076E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Glenview,_Cook_County,_Illinois" confidence="0.9999999" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Glenview_Mansion" confidence="4"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Glenview,_Cook_County,_Illinois" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Glenview,_Cook_County,_Illinois" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e24" type="LOCATION">
@@ -4038,7 +4038,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Israel" confidence="1.0846432E-4" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Illinois" confidence="0.9998915" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Israel" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Illinois" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Illinois" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e25" type="LOCATION">
@@ -4060,7 +4060,7 @@ To see more of Kyodo News International, go to http://www.kyodonews.com Copyrigh
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/USA_Network" confidence="1.0604669E-8" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States_Army" confidence="3.6861402E-5" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_States" confidence="0.9999631" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

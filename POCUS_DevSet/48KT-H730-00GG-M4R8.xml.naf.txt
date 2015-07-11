@@ -3574,7 +3574,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" confidence="1.0858339E-10" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/UK_(band)" confidence="7.577631E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/England" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/United_Kingdom" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/United_Kingdom" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g1" type="LOCATION">
@@ -3608,7 +3608,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Politics_of_the_Czech_Republic" confidence="6.217578E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Hawke_Government" confidence="1.2066863E-19" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Hawke_Government" confidence="-2"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Government" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Government" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e3" type="MISC">
@@ -3629,7 +3629,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cold_War_(TV_series)" confidence="8.101163E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cold_War_(Doctor_Who)" confidence="2.3391838E-29" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Cold_War_(1979???85)" confidence="4.589665E-31" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Cold_War" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Cold_War" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e4" type="MISC">
@@ -3652,7 +3652,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Russians_in_Germany" confidence="4.647908E-24" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Russians_in_Estonia" confidence="1.6920043E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Russia" confidence="17"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Soviet_Union" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Soviet_Union" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e5" type="MISC">
@@ -3675,7 +3675,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Chinese_cuisine" confidence="1.5165449E-7" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Malaysian_Chinese" confidence="7.03217E-9" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Chinese_people" confidence="14"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="g2" type="MISC">
@@ -3709,7 +3709,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Moscow_Governorate" confidence="5.1526097E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kremlin_Cup" confidence="1.5664782E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Moscow" confidence="20"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Moscow" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Moscow" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e7" type="LOCATION">
@@ -3732,7 +3732,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Beijing_Ducks" confidence="1.3873679E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/2008_China_Open_(tennis)" confidence="6.3436506E-25" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Beijing" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Beijing" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e8" type="ORGANIZATION">
@@ -3751,7 +3751,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Eastern_Bloc_emigration_and_defection" confidence="2.8565667E-17" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Eastern_Bloc_of_the_FARC-EP" confidence="9.451906E-24" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Eastern_Europe" confidence="16"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Eastern_Bloc" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Eastern_Bloc" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e9" type="LOCATION">
@@ -3765,7 +3765,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="GOLD" reference="http://dbpedia.org/resource/Skendleby" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Skendleby" confidence="1.0" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Skendleby" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Skendleby" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Skendleby" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e10" type="LOCATION">
@@ -3786,7 +3786,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincolnshire_Police" confidence="6.853319E-22" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincolnshire_sausage" confidence="6.67163E-23" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Lincolnshire" confidence="21"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lincolnshire" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lincolnshire" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e11" type="LOCATION">
@@ -3809,7 +3809,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln,_Illinois" confidence="6.513604E-19" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Lincoln,_New_Zealand" confidence="4.714763E-21" reftype="en"/>
         <externalRef resource="vua-type-reranker-v1.1" reference="http://dbpedia.org/resource/Abraham_Lincoln" confidence="-3"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Lincoln,_England" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Lincoln,_England" confidence="1.0"/>
       </externalReferences>
     </entity>
     <entity id="e12" type="PERSON">
@@ -3824,7 +3824,7 @@ The firm's 27 staff will relocate to their unusual new offices within the next 1
         <externalRef resource="GOLD" reference="" confidence="1.0" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kelly_Smith" confidence="0.9610412" reftype="en"/>
         <externalRef resource="spotlight_v1" reference="http://dbpedia.org/resource/Kelly_Taylor_(EastEnders)" confidence="0.03895747" reftype="en"/>
-        <externalRef resource="POCUS" reference="http://dbpedia.org/resource/Kelly_Smith" confidence="1.0"/>
+        <externalRef resource="dbp" source="POCUS" reference="http://dbpedia.org/resource/Kelly_Smith" confidence="1.0"/>
       </externalReferences>
     </entity>
   </entities>

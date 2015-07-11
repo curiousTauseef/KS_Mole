@@ -1,8 +1,22 @@
 #!/usr/bin python
 
+"""
+Domain model for NED, NewsReader project.
+
+@author: U{Filip Ilievski<filipilievski.wordpress.com>}
+@version: 0.1
+@contact: U{f.ilievski@vu.nl<mailto:f.ilievski@vu.nl>} 
+@since: 08-Jul-2015
+"""
+
+__version__ = '0.1'
+__modified__ = '08Jul2015'
+__author__ = 'Filip Ilievski'
+
 from KafNafParserPy import *
 import os
 import sys
+import json
 sys.path.append('./')
 from dbpediaEnquirerPy import *
 
@@ -122,23 +136,7 @@ def extend_string_with_numbers_and_nnps(entity_string, ts, parser):
 	num_terms=len(term_sentences)
 	# prepend
 	ext_string=""
-	"""
-	temp=begin
-	while True:
-		temp-=1
-		if temp<1:
-			break
-		new_term="t" + str(temp)
-		try:
-			addition, added_terms = get_terms_mention(parser, [new_term])
-			if term_sentences[new_term]==sentence and (parser.get_term(new_term).get_pos() in ["NNP", "NNPS"] or (addition!="" and addition.isdigit())):
-				ext_string = addition + " " + ext_string
-				new_terms.append(new_term)
-			else:
-				break
-		except KeyError: #out of bounds
-			break
-	"""
+
 	# Append
 	ext_string= ext_string.strip() + " " + entity_string
 	temp=end
@@ -164,25 +162,44 @@ def extend_string_with_numbers_and_nnps(entity_string, ts, parser):
 ##########################################################################################
 
 def get_previous_occurrence(e, all_entities, entity_string): #1
+	other_ref=None
+
 	for ent in all_entities:
-		if e!=ent:
+		if e!=ent and (((int(e["eid"][1:])>int(ent["eid"][1:])) and (e["title"] is ent["title"])) or (e["title"] and not ent["title"])):
+		# Entities that are different AND either (entities that passed from the same text type (main or title) OR entities in title)
+
 			ekey=None
-			other_ref=None
+			#print ent["eid"]
 			if "extended" in ent and ent["extended"]["extref"]:
 				ekey=ent["extended"]["mention"].lower()
-				other_ref=ent["extended"]["extref"]
-				if entity_string==ekey or ((entity_string in ekey.split()) and is_person(ent["extref"])): 
+				if entity_string==ekey or ((entity_string in ekey.split()) and is_person(ent["extended"]["extref"])):
+					other_ref=ent["extended"]["extref"]
+					if other_ref: # Stop after one match
+						break
 					#print "D1", entity_string, ekey, other_ref
-					return other_ref
-			elif ent["original"]["extref"]:
+			if ent["original"]["extref"] or ent["original"]["nwr_extref"]:
+				#if entity_string=="smith":
+				#	print ent["eid"], entity_string, e["original"]["mention"]
 				ekey=ent["original"]["mention"].lower()
-				other_ref=ent["original"]["extref"]
-				if entity_string==ekey or ((entity_string in ekey.split()) and is_person(ent["original"]["extref"])): 
+				
+				if entity_string==ekey: 
 					#print "D1", entity_string, ekey, other_ref
-					return other_ref
+					other_ref=ent["original"]["extref"]
+					if other_ref:
+						break
+				elif entity_string in ekey.split():
 
-			#print entity_string, ekey
-	return None
+					if ent["original"]["extref"] is not None: 
+						this_extref=ent["original"]["extref"]
+					else: # NOTE: THIS SHOULD NEVER BE THE CASE
+						this_extref=ent["original"]["nwr_extref"]
+					if is_person(this_extref):
+						other_ref=this_extref
+						if other_ref:
+							break
+	#if entity_string=="smith":
+	#	print other_ref
+	return other_ref
 
 def solve_initials_and_abbreviations(entity, entity_string, all_entities): #3
 	#2 Initials and abbreviations
@@ -206,41 +223,13 @@ def solve_initials_and_abbreviations(entity, entity_string, all_entities): #3
 					extref=other_ref
 	return extref
 
-def solve_initials_and_abbreviations_before(entity_string, all_entities): #2
-	#2 Initials and abbreviations
-	extref=None
-	for ekey in all_entities:
-		if entity_string==all_entities[ekey]["initials"]:
-			extref=all_entities[ekey]["extref"]
-			print "D2", entity_string, ekey, extref
-	return extref
-
-def solve_initials_and_abbreviations_after(entity_string, term_id, parser): #3
-	#2 Initials and abbreviations
-	extref=None
-	for other_entity in parser.get_entities():
-		if other_entity.get_id()[0]=="g":
-			continue
-		for ref in other_entity.get_references():
-			terms=ref.get_span().get_span_ids()
-		if int(terms[0].replace("t", ""))<=term_id:
-			continue
-		other_entity_string = get_entity_mention(parser, terms)
-		other_initials=get_initials(other_entity_string)
-		if other_initials and entity_string==other_initials:
-			extref=get_most_confident_link(other_entity)
-			print "D3", entity_string, other_entity_string, extref
-			break
-	return extref
-
 def do_disambiguation(entity, entity_string, all_entities):
 			
 	extref=get_previous_occurrence(entity, all_entities, entity_string.lower()); #D1  Get previous occurrence
 
 	if not extref:
-		if len(entity_string.split())==1 and entity_string.isupper():
+		if len(entity_string.split())==1 and entity_string.isupper(): # If one term, all-upper, then it may be an abbreviation
 			extref = solve_initials_and_abbreviations(entity, entity_string, all_entities)
-
 		
 	return extref
 
@@ -249,9 +238,23 @@ def occurred_in_article(extname, all_entities):
 		if extname==ent["original"]["mention"]:
 			return ent["original"]["nwr_extref"]
 		
-def get_from_es(t):
+def get_from_es(pattern):
+	max_occurrences=0
+	best_candidate=None
+	total=0
+	if pattern in lemma_to_entity:
+		for candidate in lemma_to_entity[pattern]:
+			num_occurrences=lemma_to_entity[pattern][candidate]
+			if num_occurrences>max_occurrences:
+				max_occurrences=lemma_to_entity[pattern][candidate]
+				best_candidate=candidate
+			total+=num_occurrences
+		if max_occurrences>10 and max_occurrences/float(total)>=0.5:			
+			return best_candidate
+		else:
+			return None
 	return None
-
+				
 def create_dbpedia_uri(t):
 	dburl="http://dbpedia.org/resource/" + t.replace(" ", "_")
 	return dburl
@@ -269,8 +272,20 @@ global term_for_token
 global tokens_for_term
 global term_sentences
 
+global lemma_to_entity
+
+fname="lemma.json"
+f=open(fname, "r")
+
+for line in f:
+        lemma_to_entity=json.loads(line)
+
 if __name__=="__main__":
-	my_dbpedia = Cdbpedia_enquirer()
+
+	if len(sys.argv)>1: # Local instance is specified
+		my_dbpedia = Cdbpedia_enquirer(sys.argv[1])		
+	else: # default remote dbpedia
+		my_dbpedia = Cdbpedia_enquirer()
 	path="NWR_DevSet/"
 	#path="eval_corpus/"
 	out_path="POCUS_DevSet/"
@@ -286,8 +301,8 @@ if __name__=="__main__":
 		all_entities=[]
 
 		for entity in parser.get_entities():
-#			if entity.get_id()[0]!="e":
-#				continue
+			if entity.get_id()[0]!="e":
+				continue
 			entity_string, terms = get_entity_mention(parser, entity)
 			# Normalization step
 			if len(terms)==1 and entity_string.endswith("-based"):
@@ -302,47 +317,27 @@ if __name__=="__main__":
 				entity_entry = {"eid": entity.get_id(), "original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(norm_entity_string)}, "title": istitle}
 			else:
 				entity_entry = {"eid": entity.get_id(), "original": {"raw": entity_string, "mention": norm_entity_string, "terms": terms, "nwr_extref": get_most_confident_link(entity), "extref": None, "initials": get_initials(entity_string)}, "extended": {"mention": ext_norm_entity_string, "terms": ext_terms, "initials": get_initials(ext_norm_entity_string)}, "title": istitle, "extref": None}
-				
-#			print entity_entry
 			
 			all_entities.append(entity_entry)
-		#break
-			#print entity_string
-		
+
 		for consider_title_entities in [False, True]:
 			for e in all_entities:
-				if e["title"] is consider_title_entities:
+				if e["title"] is consider_title_entities: # 1) Extended mention - This line ensures title entities get processed in a second iteration
 					if "extended" in e: # 1) extension
-						e["extended"]["extref"]=occurred_in_article(e["extended"]["mention"], all_entities) or get_from_es(e["extended"]["mention"]) or get_from_dbpedia(e["extended"]["mention"])
-
+						#e["extended"]["extref"]=occurred_in_article(e["extended"]["mention"], all_entities) or get_from_es(e["extended"]["mention"]) or get_from_dbpedia(e["extended"]["mention"]) # TODO: Try without ES
+						e["extended"]["extref"]=occurred_in_article(e["extended"]["mention"], all_entities) or get_from_es(e["extended"]["mention"]) or get_from_dbpedia(e["extended"]["mention"]) # TODO: Try without ES
 			
 			for e in all_entities:
-				if e["title"] is consider_title_entities: # 2) original mention		
-					e["original"]["extref"]=do_disambiguation(e, e["original"]["mention"], all_entities) or get_from_es(e["original"]["mention"])
-					#if e["original"]["extref"]:
-					#	print e["original"]["mention"], e["original"]["extref"]
-	
-			for e in all_entities:
-				if e["title"] is consider_title_entities: # 2) original mention
-					#if len(e["original"]["mention"].split())==1 and len(e["original"]["mention"].split("-"))>1:
-					#	multi_extref=[]
-					#	for m in e["original"]["mention"].split("-"):
-					#		extref=do_disambiguation(e, m, all_entities) or get_from_es(m)
-					#		if extref:
-					#			multi_extref.append({"mention": m, "extref": extref})
-					#			print multi_extref
-					#elif len(e["original"]["mention"].split())==1 and len(e["original"]["mention"].split("/"))>1:
-					#	multi_extref=[]
-					#	for m in e["original"]["mention"].split("/"):
-					#		extref=do_disambiguation(e, m, all_entities) or get_from_es(m)
-					#		if extref:
-					#			multi_extref.append({"mention": m, "extref": extref})
-					#			print multi_extref
+				if e["title"] is consider_title_entities: # 2) original mention	 - This line ensures title entities get processed in a second iteration	
+					e["original"]["extref"]=do_disambiguation(e, e["original"]["mention"], all_entities) #or get_from_es(e["original"]["mention"]) # TODO: Try without ES
 
-					if e["original"]["extref"] is None:
-				#		if consider_title_entities:
-				#			e["original"]["extref"]="--NME--"
-				#		else:
+			for e in all_entities:
+				if e["title"] is consider_title_entities: # 3) original mention, last resort - This line ensures title entities get processed in a second iteration
+
+					if e["original"]["extref"] is None: # TODO: Enable this block later!
+						#if consider_title_entities:
+						#	e["original"]["extref"]="--NME--"
+						#else:
 						e["original"]["extref"]=e["original"]["nwr_extref"]
 
 				
@@ -367,7 +362,8 @@ if __name__=="__main__":
 				new_entity.add_reference(ref)
 				
 				ext_ref = CexternalReference()
-				ext_ref.set_resource("POCUS")
+				ext_ref.set_resource("dbp")
+				ext_ref.set_source("POCUS")
 				ext_ref.set_reference(er)
 				ext_ref.set_confidence("1.0")
 				new_entity.add_external_reference(ext_ref)
@@ -380,7 +376,8 @@ if __name__=="__main__":
 				mention=e["original"]["mention"]
 							
 				ext_ref = CexternalReference()
-				ext_ref.set_resource("POCUS")
+				ext_ref.set_resource("dbp")
+				ext_ref.set_source("POCUS")
 				ext_ref.set_reference(sextref)
 				ext_ref.set_confidence("1.0")
 				
